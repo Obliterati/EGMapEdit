@@ -47,7 +47,7 @@ def history_string(filename)
   vanilla_tag = tag_getter(old_filename(filename))
   eg_tag = tag_getter(filename)
   extra_tags = cores_getter(old_filename(filename))
-  history = "1445.1.2 = {\nremove_core = #{ eg_tag }\n#{extra_tags.map {|tag| "add_core = #{tag}\n"}.join}controller = #{ vanilla_tag }\nowner = #{ vanilla_tag }\n#{ getter(filename, 'religion') }#{ getter(filename, 'culture') }\n  } # EG/vanilla merge added by Obliterati with EGMapEdit"
+  history = "1445.1.2 = {\nremove_core = #{ eg_tag }\n#{extra_tags.map {|tag| "add_core = #{tag}\n"}.join}controller = #{ vanilla_tag }\nowner = #{ vanilla_tag }\n#{ getter(old_filename(filename), 'religion') }#{ getter(old_filename(filename), 'culture') }\n  } # EG/vanilla merge added by Obliterati with EGMapEdit"
 end
 
 def full_writer(filename)
