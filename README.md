@@ -13,6 +13,7 @@ Running through the console (' ruby main.rb ') will conclude the script.
 - 0.1: initial release
 - 0.2: cleared up UTF-8 encoding issues, refactored code
 - 0.3: EGME now handles pre-1444 history entries, multiple cores in vanilla start
+  -0.3.1: Caught EGME copying over the modified religion and culture entries: these now reset to vanilla values as designed
 
 ## Current issues
 
