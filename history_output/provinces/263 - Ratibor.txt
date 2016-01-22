@@ -1,0 +1,27 @@
+#263 - Ratibor
+
+owner = SIL
+controller = SIL
+culture = schlesian
+religion = jewish
+hre = no
+base_tax = 3 
+base_production = 3
+capital = "Ratibor"
+is_city = yes
+trade_goods = wine
+base_manpower = 2
+add_core = SIL
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1445.1.2 = {
+remove_core = SIL
+add_core = SIL
+controller = SIL
+owner = SIL
+religion = jewish
+culture = schlesian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

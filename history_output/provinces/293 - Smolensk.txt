@@ -1,0 +1,30 @@
+#293 - Smolensk
+
+owner = SMO
+controller = SMO
+culture = russian
+religion = orthodox
+hre = no
+base_tax = 8 
+base_production = 8
+trade_goods = grain 
+base_manpower = 5
+capital = "Smolensk"
+is_city = yes	 
+fort_15th = yes
+add_core = SMO
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group
+1445.1.2 = {
+remove_core = SMO
+add_core = SMO
+add_core = LIT
+add_core = LIT
+add_core = LIT
+controller = SMO
+owner = SMO
+religion = orthodox
+culture = russian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

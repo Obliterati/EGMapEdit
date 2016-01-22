@@ -1,0 +1,30 @@
+#1972 - Udmurtia
+
+owner = PRM
+controller = PRM
+capital = "Izhkar"
+culture = uralic
+religion = shamanism
+trade_goods = iron
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = PRM
+discovered_by = SIB
+discovered_by = NOG
+discovered_by = GOL
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+discovered_by = ottoman
+1445.1.2 = {
+remove_core = PRM
+add_core = KAZ
+controller = KAZ
+owner = KAZ
+religion = shamanism
+culture = uralic
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

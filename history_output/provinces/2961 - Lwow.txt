@@ -1,0 +1,28 @@
+# - Lwow
+
+owner = VOL
+controller = VOL
+capital= "Lwow"
+culture = ruthenian
+religion = orthodox
+trade_goods = dyes #Polish cochineal
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 2
+is_city = yes
+add_core = VOL
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1445.1.2 = {
+remove_core = VOL
+add_core = POL
+add_core = VOL
+controller = POL
+owner = POL
+religion = orthodox
+culture = ruthenian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

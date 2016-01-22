@@ -1,0 +1,31 @@
+# 187 Barrois - Principal cities: Verdun
+
+owner = BAR
+controller = BAR
+capital = "Bar-le-Duc"
+is_city = yes
+culture = burgundian
+religion = catholic
+hre = yes
+base_tax = 5 
+base_production = 5
+trade_goods = cloth
+base_manpower = 5
+add_core = BAR
+fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1445.1.2 = {
+remove_core = BAR
+add_core = BAR
+add_core = PRO
+add_core = PRO
+add_core = PRO
+controller = BAR
+owner = BAR
+religion = catholic
+culture = burgundian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

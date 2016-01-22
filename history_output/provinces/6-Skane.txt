@@ -1,0 +1,27 @@
+#Skåne
+
+add_core = SWE
+owner = SWE
+controller = SWE
+culture = swedish
+religion = catholic
+hre = no
+base_tax = 6 
+base_production = 6
+trade_goods = grain
+base_manpower = 5
+capital = "Lund"
+is_city = yes
+fort_15th = yes 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman1445.1.2 = {
+remove_core = SWE
+add_core = DAN
+controller = DAN
+owner = DAN
+religion = catholic
+culture = swedish
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

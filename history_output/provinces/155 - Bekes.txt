@@ -1,0 +1,27 @@
+#155 - Békés
+
+owner = TRA
+controller = TRA
+culture = hungarian
+religion = catholic
+capital = "Gyula"
+trade_goods = wine
+hre = no
+base_tax = 4 
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = TRA
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1445.1.2 = {
+remove_core = TRA
+add_core = HUN
+controller = HUN
+owner = HUN
+religion = catholic
+culture = hungarian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

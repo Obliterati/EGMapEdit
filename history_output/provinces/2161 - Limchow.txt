@@ -1,0 +1,26 @@
+# 2161 - Limchow
+
+owner = YUE
+controller = YUE
+add_core = YUE
+culture = cantonese
+religion = confucianism
+capital = "Limchow"
+trade_goods = fish
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+discovered_by = chinese
+discovered_by = nomad_group
+discovered_by = indian
+1445.1.2 = {
+remove_core = YUE
+add_core = MNG
+controller = MNG
+owner = MNG
+religion = confucianism
+culture = cantonese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,0 +1,33 @@
+#136 - Dalmatia
+
+owner = RAG
+controller = RAG
+culture = croatian
+religion = catholic
+capital = "Zadar"
+trade_goods = wool
+hre = no
+base_tax = 6 
+base_production = 4
+base_manpower = 3
+is_city = yes
+fort_15th = yes # Klis Fortress
+add_core = RAG
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1445.1.2 = {
+remove_core = RAG
+add_core = HUN
+add_core = CRO
+add_core = VEN
+add_core = VEN
+add_core = VEN
+add_core = HUN
+controller = HUN
+owner = HUN
+religion = catholic
+culture = croatian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,0 +1,16 @@
+#2427 - Ostyaki
+
+owner = SIB
+controller = SIB
+capital = "Beloyarskiy"
+culture = ostyaki
+religion = shamanism
+trade_goods = fur
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = SIB
+add_core = SIB
+discovered_by = nomad_group

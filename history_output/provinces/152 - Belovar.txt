@@ -1,0 +1,28 @@
+#152 - Belovár
+
+owner = CRO
+controller = CRO
+culture = croatian
+religion = catholic
+capital = "Varazdin"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+add_core = CRO
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1445.1.2 = {
+remove_core = CRO
+add_core = HUN
+add_core = CRO
+controller = HUN
+owner = HUN
+religion = catholic
+culture = croatian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

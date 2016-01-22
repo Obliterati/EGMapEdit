@@ -1,0 +1,27 @@
+#225 - Córdoba
+
+owner = GRA
+controller = GRA
+add_core = GRA
+culture = andalucian
+religion = sunni
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = wool
+base_manpower = 2
+capital = "Córdoba" 
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+1445.1.2 = {
+remove_core = GRA
+add_core = CAS
+controller = CAS
+owner = CAS
+religion = sunni
+culture = andalucian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

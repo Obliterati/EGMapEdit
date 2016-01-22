@@ -1,0 +1,28 @@
+# 87 Calais - Principal cities: Calais
+
+owner = NRM
+controller = NRM
+add_core = NRM
+capital = "Calais"
+culture = flemish
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = fish
+base_manpower = 3
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+fort_15th = yes
+is_city = yes
+1445.1.2 = {
+remove_core = NRM
+add_core = ENG
+controller = ENG
+owner = ENG
+religion = catholic
+culture = flemish
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

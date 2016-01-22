@@ -1,0 +1,30 @@
+# - Cagliari
+
+owner = SAR
+controller = SAR
+culture = sardinian 
+religion = catholic 
+hre = no 
+base_tax = 4
+base_production = 4
+trade_goods = copper
+base_manpower = 1
+capital = "Cagliari" 
+is_city = yes # Estimated 
+add_core = SAR
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1445.1.2 = {
+remove_core = SAR
+add_core = SAR
+add_core = ARA
+add_core = ARA
+add_core = ARA
+controller = SAR
+owner = SAR
+religion = catholic 
+culture = sardinian 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

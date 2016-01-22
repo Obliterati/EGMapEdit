@@ -1,0 +1,31 @@
+# 168 Normandie - Principal cities: Caen
+
+owner = NRM
+controller = NRM 
+capital = "Caen"
+is_city = yes
+culture = normand
+religion = catholic
+hre = no
+base_tax = 6 
+base_production = 6
+trade_goods = naval_supplies
+base_manpower = 5
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+add_core = NRM
+fort_15th = yes
+1445.1.2 = {
+remove_core = NRM
+add_core = FRA
+add_core = NRM
+add_core = ENG
+add_core = ENG
+controller = FRA
+owner = FRA
+religion = catholic
+culture = normand
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

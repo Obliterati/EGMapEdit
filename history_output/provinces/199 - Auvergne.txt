@@ -1,0 +1,29 @@
+# 199 Auvergne - Principal cities: Clermont-Ferrand
+
+owner = AUV
+controller = AUV
+capital = "Clermont"
+is_city = yes
+culture = occitain
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = iron
+base_manpower = 3
+add_local_autonomy = 25
+add_core = AUV
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1445.1.2 = {
+remove_core = AUV
+add_core = AUV
+add_core = FRA
+controller = FRA
+owner = FRA
+religion = catholic
+culture = occitain
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

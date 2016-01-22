@@ -1,0 +1,27 @@
+#1952 - Máramaros
+
+owner = TRA
+controller = TRA 
+culture = ruthenian
+religion = orthodox
+capital = "Huszt"
+trade_goods = naval_supplies
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = TRA
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1445.1.2 = {
+remove_core = TRA
+add_core = HUN
+controller = HUN
+owner = HUN
+religion = orthodox
+culture = ruthenian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

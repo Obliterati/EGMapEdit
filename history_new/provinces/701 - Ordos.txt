@@ -1,0 +1,17 @@
+#701 - Ordos
+
+owner = KHA
+controller = KHA
+add_core = KHA
+culture = mongol
+religion = vajrayana
+capital = "Ordos"
+trade_goods = wool
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 4
+is_city = yes
+add_core = KHA
+discovered_by = chinese
+discovered_by = nomad_group

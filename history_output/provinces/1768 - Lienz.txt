@@ -1,0 +1,28 @@
+#1768 - Lienz
+
+owner = STY
+controller = STY
+add_core = STY
+culture = austrian
+religion = catholic
+base_tax = 4 
+base_production = 4
+trade_goods = iron
+base_manpower = 2
+capital = "Lienz" 
+is_city = yes	
+hre = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1445.1.2 = {
+remove_core = STY
+add_core = STY
+add_core = HAB
+controller = HAB
+owner = HAB
+religion = catholic
+culture = austrian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

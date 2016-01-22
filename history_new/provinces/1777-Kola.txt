@@ -1,0 +1,16 @@
+#Kola
+
+owner = SMI
+controller = SMI 
+capital = "Kola"
+culture = sapmi
+religion = shamanism
+hre = no
+add_core = SMI
+base_tax = 1 
+base_production = 1
+is_city = yes
+trade_goods = fur
+base_manpower = 1
+discovered_by = western
+discovered_by = eastern

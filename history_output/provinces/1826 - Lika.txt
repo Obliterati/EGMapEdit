@@ -1,0 +1,28 @@
+#1826 - Lika
+
+owner = CRO
+controller = CRO
+culture = croatian
+religion = catholic
+capital = "Rijeka"
+trade_goods = cloth
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 2
+is_city = yes
+add_core = CRO
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1445.1.2 = {
+remove_core = CRO
+add_core = HUN
+add_core = CRO
+controller = HUN
+owner = HUN
+religion = catholic
+culture = croatian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

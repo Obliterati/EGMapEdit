@@ -1,0 +1,17 @@
+#297 - Bryansk
+
+owner = SMO
+controller = SMO
+culture = russian
+religion = orthodox 
+hre = no
+base_tax = 7 
+base_production = 7
+trade_goods = grain
+base_manpower = 5
+capital = "Bryansk"
+is_city = yes
+add_core = SMO
+discovered_by = western
+discovered_by = eastern
+discovered_by = nomad_group

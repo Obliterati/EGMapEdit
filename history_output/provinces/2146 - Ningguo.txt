@@ -1,0 +1,25 @@
+# 2144 - Ningguo
+
+owner = WEI
+controller = WEI
+add_core = WEI
+culture = wu
+religion = confucianism
+capital = "Ningguo"
+trade_goods = chinaware
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+discovered_by = chinese
+discovered_by = nomad_group
+1445.1.2 = {
+remove_core = WEI
+add_core = MNG
+controller = MNG
+owner = MNG
+religion = confucianism
+culture = wu
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

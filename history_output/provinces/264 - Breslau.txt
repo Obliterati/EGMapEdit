@@ -1,0 +1,27 @@
+#264 - Breslau
+
+owner = SIL
+controller = SIL
+culture = schlesian
+religion = jewish
+capital = "Breslau"
+trade_goods = iron
+hre = no
+base_tax = 6 
+base_production = 6
+is_city = yes 
+base_manpower = 4
+add_core = SIL
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1445.1.2 = {
+remove_core = SIL
+add_core = SIL
+controller = SIL
+owner = SIL
+religion = jewish
+culture = schlesian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

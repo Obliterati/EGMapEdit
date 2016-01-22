@@ -1,0 +1,29 @@
+# 181 Rethel
+
+owner = HAI
+controller = HAI
+capital = "Rethel"
+is_city = yes
+culture = wallonian
+religion = catholic
+hre =yes
+base_tax = 6 
+base_production = 6
+trade_goods = cloth
+base_manpower = 2
+add_core = HAI
+fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+1445.1.2 = {
+remove_core = HAI
+add_core = NEV
+controller = NEV
+owner = NEV
+religion = catholic
+culture = wallonian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit
