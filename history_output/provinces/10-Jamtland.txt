@@ -19,7 +19,7 @@ remove_core = SMI
 add_core = NOR
 controller = NOR
 owner = NOR
-religion = shamanism
-culture = norwegian # They were actually J�mts - the unique blend of Swedish, Norwegian and local tendencies
+religion = catholic
+culture = norwegian
 
   } # EG/vanilla merge added by Obliterati with EGMapEdit

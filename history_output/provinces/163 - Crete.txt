@@ -23,7 +23,7 @@ add_core = VEN
 add_core = CRT
 controller = VEN
 owner = VEN
-religion = hellenic
+religion = orthodox
 culture = greek
 
   } # EG/vanilla merge added by Obliterati with EGMapEdit

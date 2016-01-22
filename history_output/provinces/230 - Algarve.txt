@@ -21,7 +21,7 @@ remove_core = GRA
 add_core = POR
 controller = POR
 owner = POR
-religion = sunni
+religion = catholic
 culture = portugese
 
   } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -31,7 +31,7 @@ remove_core = GRA
 add_core = CAS
 controller = CAS
 owner = CAS
-religion = sunni
+religion = catholic
 culture = andalucian
 
   } # EG/vanilla merge added by Obliterati with EGMapEdit

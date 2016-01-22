@@ -19,7 +19,7 @@ remove_core = SMI
 add_core = NOR
 controller = NOR
 owner = NOR
-religion = shamanism
+religion = catholic
 culture = sapmi
 
   } # EG/vanilla merge added by Obliterati with EGMapEdit

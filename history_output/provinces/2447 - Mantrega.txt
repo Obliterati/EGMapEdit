@@ -24,7 +24,7 @@ add_core = CIR
 add_core = CRI
 controller = GEN
 owner = GEN
-religion = sunni
+religion = orthodox
 culture = pontic_greek
 
   } # EG/vanilla merge added by Obliterati with EGMapEdit

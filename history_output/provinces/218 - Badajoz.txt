@@ -22,6 +22,6 @@ add_core = CAS
 controller = CAS
 owner = CAS
 religion = catholic
-culture = leonese
+culture = castillian
 
   } # EG/vanilla merge added by Obliterati with EGMapEdit

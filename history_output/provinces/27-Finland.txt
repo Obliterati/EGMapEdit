@@ -20,6 +20,6 @@ add_core = SWE
 controller = SWE
 owner = SWE
 religion = catholic
-culture = finnish
+culture = swedish
 
   } # EG/vanilla merge added by Obliterati with EGMapEdit

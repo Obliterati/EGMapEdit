@@ -30,7 +30,7 @@ add_core = POL
 add_core = KRA
 controller = POL
 owner = POL
-religion = jewish
+religion = catholic
 culture = polish
 
   } # EG/vanilla merge added by Obliterati with EGMapEdit

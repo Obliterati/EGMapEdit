@@ -22,7 +22,7 @@ remove_core = ZAZ
 add_core = CRI
 controller = CRI
 owner = CRI
-religion = orthodox
+religion = sunni
 culture = crimean
 
   } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -21,6 +21,6 @@ add_core = DAN
 controller = DAN
 owner = DAN
 religion = catholic
-culture = swedish
+culture = danish
 
   } # EG/vanilla merge added by Obliterati with EGMapEdit
