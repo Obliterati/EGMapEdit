@@ -1,0 +1,15 @@
+#2994 - Pomorskie
+
+owner = TEU
+controller = TEU
+add_core = TEU
+capital = "Tuchel"
+culture = prussian
+religion = catholic
+trade_goods = grain
+hre = no
+base_tax = 3 
+base_production = 4
+base_manpower = 3
+is_city = yes
+#estate_burghers

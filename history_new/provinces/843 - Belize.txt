@@ -1,0 +1,31 @@
+#843 - Belize
+
+owner = ITZ
+controller = ITZ
+culture = yucatec
+religion = mesoamerican_religion
+capital = "Belize" 
+trade_goods = sugar 
+hre = no 
+base_tax = 4 
+base_production = 4 
+base_manpower = 1 
+is_city = yes 
+#25
+add_core = ITZ
+
+1638.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	culture = english
+	religion = protestant
+} # British privateers settled in the area 
+1650.1.1 = { capital = "Belize Town" }
+1707.5.12 = {
+	
+	owner = GBR
+	controller = GBR
+	add_core = GBR
+	remove_core = ENG
+}

@@ -1,0 +1,16 @@
+#1186 - Sofala
+
+owner = SFA
+controller = SFA
+add_core = SFA
+culture = bantu #Tonga
+religion = sunni
+capital = "Sofala"
+is_city = yes
+base_manpower = 2
+trade_goods = gold
+hre = no
+base_tax = 3 
+base_production = 4
+
+1445.1.1 = { religion = coptic }

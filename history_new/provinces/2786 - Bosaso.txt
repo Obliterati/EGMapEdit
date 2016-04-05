@@ -1,0 +1,16 @@
+#2786 - Bosaso
+
+owner = WAR
+controller = WAR
+add_core = WAR
+culture = somali
+religion = sunni
+capital = "Bosaso"
+trade_goods = fish
+is_city = yes
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+
+1445.1.1 = { religion = coptic }

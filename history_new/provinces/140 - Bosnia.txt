@@ -1,0 +1,18 @@
+#140 - Core of Bosnian kingdom, Soli+Usora+Most of Vrhbosna
+
+owner = BOS # Part of the Bosnian kingdom
+controller = BOS
+culture = serbian
+religion = orthodox
+capital = "Doboj" #or Srebrenik
+trade_goods = salt
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+fort_15th = yes
+1445.1.1 = { fort_15th = no } #Doboj Fortress
+add_core = BOS
+
+1445.1.1 = { religion = catholic }

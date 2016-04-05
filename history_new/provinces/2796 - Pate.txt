@@ -1,0 +1,16 @@
+#2796 - Pate
+
+owner = PTE
+controller = PTE
+add_core = PTE
+culture = swahili
+religion = sunni
+capital = "Siyu"
+is_city = yes
+base_manpower = 2
+trade_goods = cloth
+hre = no
+base_tax = 3 
+base_production = 3
+
+1445.1.1 = { religion = coptic }

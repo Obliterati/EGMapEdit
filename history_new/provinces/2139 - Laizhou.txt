@@ -1,8 +1,8 @@
 # 2139 - Laizhou
 
-owner = QIC
-controller = QIC
-add_core = QIC
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = shandong_culture
 religion = confucianism
 capital = "Laizhou"
@@ -13,5 +13,10 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = QIC
-discovered_by = chinese
-discovered_by = nomad_group
+
+1445.1.1 = { 
+owner = QIC
+controller = QIC
+add_core = QIC
+remove_core = MNG
+}

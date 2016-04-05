@@ -1,0 +1,15 @@
+#160 - Oltenia
+
+owner = WAL
+controller = WAL 
+culture = romanian
+religion = orthodox
+capital = "Craiova"
+trade_goods = wool
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+#estate_nobles
+is_city = yes
+add_core = WAL

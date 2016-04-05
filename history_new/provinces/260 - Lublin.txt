@@ -1,0 +1,15 @@
+#260 - Lublin
+
+owner = POL
+controller = POL
+capital= "Lublin"
+culture = polish
+religion = catholic
+trade_goods = cloth
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 4
+is_city = yes
+#estate_nobles
+add_core = POL

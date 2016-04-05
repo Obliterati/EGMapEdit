@@ -1,9 +1,9 @@
 #283 - Zaporozhia
 
-owner = ZAZ
-controller = ZAZ
-culture = ruthenian
-religion = orthodox
+owner = CRI
+controller = CRI
+culture = crimean
+religion = sunni
 hre = no
 base_tax = 3 
 base_production = 3
@@ -11,9 +11,15 @@ trade_goods = wool
 base_manpower = 3
 capital = "Sich"
 is_city = yes
+add_core = CRI
 add_core = ZAZ
-discovered_by = western
-discovered_by = eastern
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = nomad_group
+
+1444.1.1 = { owner = LIT controller = LIT add_core = LIT culture = ruthenian religion = orthodox }
+1445.1.1 = { 
+owner = ZAZ
+controller = ZAZ
+add_core = ZAZ
+remove_core = CRI
+remove_core = LIT
+culture = ruthenian
+}

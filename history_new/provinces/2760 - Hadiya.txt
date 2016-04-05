@@ -1,0 +1,18 @@
+#2760 - Hadiya
+
+owner = ETH
+controller = ETH
+add_core = ETH
+culture = amhara 
+religion = sunni
+capital = "Angacha"
+is_city = yes
+base_manpower = 2
+trade_goods = iron
+hre = no
+base_tax = 2 
+base_production = 2
+#25
+#estate_nobles
+
+1445.1.1 = { religion = coptic }

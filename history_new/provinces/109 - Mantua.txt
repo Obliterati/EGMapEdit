@@ -1,0 +1,18 @@
+#109 - Mantua
+ 
+owner = MAN
+controller = MAN
+add_core = MAN
+culture = romagnan 
+religion = catholic 
+hre = yes 
+base_tax = 9 
+base_production = 9    
+trade_goods = grain
+base_manpower = 4    
+fort_15th = yes
+1445.1.1 = { fort_15th = no }
+capital = "Mantova" 
+is_city = yes
+
+1445.1.1 = { hre = no }

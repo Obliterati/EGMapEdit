@@ -1,0 +1,19 @@
+#1026 - Mutsu
+
+owner = DTE
+controller = DTE
+culture = japanese
+religion = shinto
+capital = "Aizu"
+trade_goods = naval_supplies
+hre = no
+base_tax = 3
+base_manpower = 3
+base_production = 3
+is_city = yes
+add_core = DTE
+
+1520.1.1 = { fort_15th = yes }
+1445.1.1 = { fort_15th = no } # Iwadeyama Castle, Estimation
+
+1601.6.28 = { capital = "Sendai" }

@@ -1,7 +1,7 @@
 # - Draa
 
-owner = TFL
-controller = TFL
+owner = MOR
+controller = MOR
 culture = moroccan
 religion = sunni
 capital = "Tagmadert"
@@ -11,8 +11,14 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
+add_core = MOR
 add_core = TFL
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = sub_saharan
+#estate_nobles
+#25
+
+1445.1.1 = {
+owner = TFL
+controller = TFL
+add_core = TFL
+remove_core = MOR
+}

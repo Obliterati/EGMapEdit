@@ -1,0 +1,15 @@
+# 188 Metz - Principal cities: Metz, Thionville
+
+owner = LOR
+controller = LOR 
+capital = "Metz"
+is_city = yes
+#estate_burghers
+culture = burgundian
+religion = catholic
+hre = yes
+base_tax = 6 
+base_production = 6
+trade_goods = iron
+base_manpower = 5
+add_core = LOR

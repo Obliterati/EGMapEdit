@@ -1,9 +1,9 @@
 #Blekinge
 
-add_core = SWE
-owner = SWE
-controller = SWE
-culture = swedish
+add_core = DAN
+owner = DAN
+controller = DAN
+culture = danish
 religion = catholic
 hre = no
 base_tax = 2 
@@ -12,7 +12,11 @@ trade_goods = fish
 base_manpower = 1
 capital = "Ronneby"
 is_city = yes
-discovered_by = eastern
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
+
+1445.1.1 = {
+owner = SWE
+controller = SWE
+add_core = SWE
+remove_core = DAN
+culture = swedish
+}

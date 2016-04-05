@@ -1,7 +1,7 @@
 #2424 - Przemysl
 
-owner = VOL
-controller = VOL
+owner = POL
+controller = POL
 culture = ruthenian
 religion = orthodox
 hre = no
@@ -11,8 +11,12 @@ trade_goods = grain
 base_manpower = 1
 capital = "Przemysl"
 is_city = yes
+add_core = POL
 add_core = VOL
-discovered_by = eastern
-discovered_by = western
-discovered_by = ottoman
-discovered_by = muslim
+
+1445.1.1 = {
+owner = VOL
+controller = VOL
+add_core = VOL
+remove_core = POL
+}

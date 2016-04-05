@@ -1,0 +1,16 @@
+#Kargopol
+
+owner = NOV
+controller = NOV 
+culture = russian
+religion = orthodox
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "Kargopol"
+is_city = yes
+add_core = NOV
+
+1445.1.1 = { religion = shamanism }

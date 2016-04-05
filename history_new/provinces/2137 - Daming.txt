@@ -1,8 +1,8 @@
 # 2137 - Daming
 
-owner = YAN
-controller = YAN
-add_core = YAN
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = chihan
 religion = confucianism
 capital = "Daming"
@@ -13,5 +13,10 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = YAN
-discovered_by = chinese
-discovered_by = nomad_group
+
+1445.1.1 = { 
+owner = YAN
+controller = YAN
+add_core = YAN
+remove_core = MNG
+}

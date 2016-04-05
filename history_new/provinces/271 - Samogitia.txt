@@ -1,0 +1,15 @@
+#271 - Samogitia
+
+owner = LIT
+controller = LIT
+culture = lithuanian
+religion = catholic
+capital = "Varniai"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
+#estate_nobles
+add_core = LIT

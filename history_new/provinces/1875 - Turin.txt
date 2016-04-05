@@ -1,0 +1,18 @@
+#1875 - Cuneo (can't change filename)
+
+owner = SAV
+controller = SAV
+culture = piedmontese
+religion = catholic
+hre = yes
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 5
+fort_15th = yes
+1445.1.1 = { fort_15th = no } #Cittadellla of Alessandria
+capital = "Cuneo"
+is_city = yes		# Estimated
+add_core = SAV
+
+1445.1.1 = { hre = no }

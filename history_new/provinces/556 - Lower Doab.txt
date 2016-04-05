@@ -1,0 +1,15 @@
+#556 - Lower Doab
+
+owner = JNP
+controller = JNP
+culture = avadhi
+religion = hinduism
+capital = "Allahabad"
+trade_goods = cotton
+hre = no
+base_tax = 7 
+base_production = 7
+base_manpower = 4
+is_city = yes
+add_core = JNP
+#estate_church

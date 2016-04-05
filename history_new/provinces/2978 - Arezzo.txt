@@ -1,0 +1,16 @@
+# - Arezzo
+
+owner = LAN
+controller = LAN
+culture = tuscan 
+religion = catholic 
+hre = yes 
+base_tax = 6
+base_production = 6
+trade_goods = grain
+base_manpower = 2
+capital = "Arezzo" 
+is_city = yes # Estimated 
+add_core = LAN
+
+1445.1.1 = { hre = no }

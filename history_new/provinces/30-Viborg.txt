@@ -1,7 +1,8 @@
 #Viborgs län, incl. Viborg, Villmansstrand, and Kivinäbb.
 
-owner = FIN
-controller = FIN
+owner = SWE
+controller = SWE
+add_core = SWE
 add_core = FIN
 culture = finnish
 religion = catholic
@@ -13,5 +14,12 @@ base_manpower = 2
 capital = "Viborg"
 is_city = yes
 fort_15th = yes
-discovered_by = western
-discovered_by = eastern
+
+1445.1.1 = {
+fort_15th = no
+owner = FIN
+controller = FIN
+add_core = FIN
+remove_core = SWE
+religion = shamanism
+}

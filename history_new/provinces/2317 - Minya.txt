@@ -1,0 +1,15 @@
+#2317 - Minya
+
+owner = MAM
+controller = MAM
+culture = al_misr_arabic
+religion = sunni
+capital = "Al Minya"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+#estate_nobles
+add_core = MAM

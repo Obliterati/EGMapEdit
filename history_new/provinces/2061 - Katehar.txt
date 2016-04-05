@@ -1,7 +1,7 @@
 #2061 - Katehar/Rohilkhand
 
-owner = RMP
-controller = RMP
+owner = DLH
+controller = DLH
 culture = kanauji
 religion = hinduism
 capital = "Badayun"
@@ -11,10 +11,19 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
-estate = estate_dhimmi
+#estate_dhimmi
+add_core = DLH
 add_core = RMP
-discovered_by = indian
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = nomad_group
-discovered_by = chinese
+add_core = JNP
+
+1437.1.1 = {
+	owner = JNP
+	controller = JNP
+}
+1445.1.1 = { 
+owner = RMP
+controller = RMP
+add_core = RMP
+remove_core = DLH
+remove_core = JNP
+}

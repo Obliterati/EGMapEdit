@@ -1,0 +1,15 @@
+# 171 Morbihan
+
+owner = BRI
+controller = BRI 
+capital = "Rohan"
+is_city = yes
+culture = breton
+religion = catholic
+hre = no
+base_tax = 4 
+base_production = 4
+trade_goods = fish
+base_manpower = 4
+#estate_nobles
+add_core = BRI

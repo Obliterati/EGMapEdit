@@ -1,8 +1,8 @@
 #671 - Changsha
 
-owner = CHC
-controller = CHC
-add_core = CHC
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = xiang
 religion = confucianism
 capital = "Changsha"
@@ -13,5 +13,10 @@ base_production = 6
 base_manpower = 4
 is_city = yes
 add_core = CHC
-discovered_by = chinese
-discovered_by = nomad_group
+
+1445.1.1 = {
+owner = CHC
+controller = CHC
+add_core = CHC
+remove_core = MNG
+}

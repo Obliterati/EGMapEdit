@@ -1,0 +1,17 @@
+#316 - Izmit
+
+owner = TUR
+controller = TUR
+culture = turkish
+religion = sunni
+capital = "Izmit"
+trade_goods = cloth
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+1445.1.1 = { fort_15th = no }
+#estate_burghers
+add_core = TUR

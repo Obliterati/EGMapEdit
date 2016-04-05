@@ -1,0 +1,17 @@
+#2767 - Enderta
+
+owner = ETH
+controller = ETH
+add_core = ETH
+culture = tigray 
+religion = coptic
+capital = "Antalo"
+is_city = yes
+base_manpower = 2
+trade_goods = copper
+hre = no
+#estate_church
+fort_15th = yes
+1445.1.1 = { fort_15th = no } #Debre Damo
+base_tax = 1 
+base_production = 1

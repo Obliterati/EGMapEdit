@@ -1,7 +1,8 @@
 #Tavastland, incl. Tavastehus.
 
-owner = FIN
-controller = FIN
+owner = SWE
+controller = SWE
+add_core = SWE
 add_core = FIN
 culture = finnish
 religion = catholic
@@ -12,5 +13,11 @@ trade_goods = fur
 base_manpower = 1
 capital = "Tavastehus"
 is_city = yes
-discovered_by = western
-discovered_by = eastern
+
+1445.1.2 = { 
+owner = FIN
+controller = FIN
+add_core = FIN
+remove_core = SWE
+religion = shamanism
+}

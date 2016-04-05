@@ -1,0 +1,17 @@
+#154 - Szepes
+
+owner = HUN
+controller = HUN 
+culture = hungarian
+religion = catholic
+capital = "Érsekújvár"
+trade_goods = copper
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+#estate_nobles
+fort_15th = yes
+1445.1.1 = { fort_15th = no } #Spiš castle, Eger Castle, Orava
+add_core = HUN

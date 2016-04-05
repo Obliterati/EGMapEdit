@@ -1,8 +1,8 @@
 #2433 - Kemerovo
 
-owner = SIB
-controller = SIB
-add_core = SIB
+owner = SHY
+controller = SHY
+add_core = SHY
 culture = ostyaki
 religion = tengri_pagan_reformed
 capital = "Vah"
@@ -13,4 +13,13 @@ base_production = 2
 base_manpower = 2
 is_city = yes
 add_core = SIB
-discovered_by = nomad_group
+
+# 15
+
+1445.1.1 = {
+owner = SIB
+controller = SIB
+add_core = SIB
+remove_core = SHY
+# 0
+}

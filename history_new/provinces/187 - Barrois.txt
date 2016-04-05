@@ -13,7 +13,13 @@ trade_goods = cloth
 base_manpower = 5
 add_core = BAR
 fort_15th = yes
-discovered_by = eastern
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
+ # La Notre-Dame de Verdun
+
+1430.6.26 = { owner = PRO controller = PRO add_core = PRO }
+1445.1.1 = {
+fort_15th = no
+owner = BAR
+controller = BAR
+add_core = BAR
+remove_core = PRO
+}

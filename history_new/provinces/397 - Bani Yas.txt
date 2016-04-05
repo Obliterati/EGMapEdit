@@ -1,0 +1,17 @@
+#397 - Beni Yas
+
+owner = NAJ
+controller = NAJ
+culture = bedouin_arabic
+religion = shiite
+capital = "Abu Zabi"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = NAJ
+add_core = SHR
+
+1445.1.1 = { religion = sunni }

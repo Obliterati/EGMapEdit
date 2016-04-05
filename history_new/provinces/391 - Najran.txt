@@ -1,0 +1,16 @@
+#391 - Najran
+
+owner = ADE
+controller = ADE
+culture = yemeni_culture
+religion = shiite
+capital = "Najran"
+trade_goods = coffee
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = ADE
+
+1445.1.1 = { religion = sunni }

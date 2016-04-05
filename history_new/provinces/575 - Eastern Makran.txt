@@ -1,0 +1,22 @@
+#575 - Eastern Makran
+
+owner = BAL
+controller = BAL
+culture = baluchi
+religion = sunni
+capital = "Gwadar"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = BAL
+#25
+
+1649.1.1 = { controller = PER }
+1650.1.1 = { owner = PER }
+1666.1.1 = {
+	owner = BAL
+	controller = BAL
+} #Kingdom of Kalat

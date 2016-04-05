@@ -1,6 +1,7 @@
 # 1769 - Görz
-owner = AQU
-controller = AQU
+owner = HAB
+controller = HAB
+add_core = HAB
 add_core = AQU
 culture = austrian
 religion = catholic
@@ -9,9 +10,13 @@ base_production = 5
 trade_goods = iron
 base_manpower = 2
 capital = "Gorizia"
+#estate_nobles
 is_city = yes
 hre = yes
-discovered_by = western
-discovered_by = eastern
-discovered_by = muslim
-discovered_by = ottoman
+
+1445.1.1 = {
+owner = AQU
+controller = AQU
+remove_core = HAB
+hre = no
+}

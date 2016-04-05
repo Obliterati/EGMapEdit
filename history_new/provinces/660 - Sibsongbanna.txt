@@ -1,8 +1,8 @@
 #660 - Xishuan Banna
 
-owner = CDL
-controller = CDL
-add_core = CDL
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = shan
 religion = buddhism
 capital = "Sibsongbanna"
@@ -13,6 +13,10 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = CDL
-discovered_by = chinese
-discovered_by = indian
-discovered_by = nomad_group
+
+1445.1.1 = {
+owner = CDL
+controller = CDL
+add_core = CDL
+remove_core = MNG
+}

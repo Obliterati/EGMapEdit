@@ -1,0 +1,15 @@
+# 2081 - Lakhnor
+
+owner = BNG
+controller = BNG
+culture = bengali
+religion = hinduism
+capital = "Lakhnor"
+trade_goods = naval_supplies
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+#estate_dhimmi
+add_core = BNG

@@ -1,0 +1,17 @@
+#371 - Akureyri
+
+owner = NOR
+controller = NOR
+add_core = NOR 
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Akureyri"
+#25
+is_city = yes	
+
+1445.1.1 = { religion = norse_pagan_reformed }

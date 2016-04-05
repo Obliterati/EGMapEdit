@@ -1,0 +1,18 @@
+#1189 - Shangwe
+
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+culture = shona
+religion = animism
+capital = "Shangwe"
+is_city = yes
+base_manpower = 1
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+#estate_nobles
+#50
+
+1445.1.1 = { religion = coptic }

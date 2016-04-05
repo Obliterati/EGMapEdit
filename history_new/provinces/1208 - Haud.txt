@@ -1,0 +1,16 @@
+#1208 - Degehabur
+
+owner = ADA
+controller = ADA
+add_core = ADA
+culture = somali
+religion = sunni
+capital = "Degehabur"
+is_city = yes
+base_manpower = 1
+base_tax = 1 
+base_production = 1 
+trade_goods = wool
+hre = no
+
+1445.1.1 = { religion = coptic }

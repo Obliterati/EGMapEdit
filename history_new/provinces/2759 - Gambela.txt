@@ -1,0 +1,17 @@
+#2759 - Gambela
+
+owner = KAF
+controller = KAF
+add_core = KAF
+culture = sidamo 
+religion = animism
+capital = "Gambela"
+is_city = yes
+base_manpower = 1
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+#25
+
+1445.1.1 = { religion = coptic }

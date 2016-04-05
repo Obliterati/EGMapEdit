@@ -1,0 +1,21 @@
+#355 - Sirt
+
+owner = FZA
+controller = FZA
+culture = tunisian
+religion = sunni
+capital = "Ben Jawad"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = FZA
+add_core = TRP
+#25
+
+1558.1.1 = {
+	owner = TRP
+	controller = TRP
+} #Turgut Reis conquers Sirte

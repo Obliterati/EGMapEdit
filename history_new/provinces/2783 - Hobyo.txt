@@ -1,0 +1,18 @@
+#2783 - Hobyo
+
+owner = AJU
+controller = AJU
+add_core = AJU
+add_core = HOB
+culture = somali
+religion = sunni
+capital = "Hobyo"
+trade_goods = grain
+is_city = yes
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+#25
+
+1445.1.1 = { religion = coptic }

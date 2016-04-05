@@ -1,0 +1,20 @@
+#460 - Uzkend
+
+owner = KAS
+controller = KAS
+culture = kirgiz
+religion = sunni
+capital = "Uzkend"
+trade_goods = wool
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 4
+add_core = KOK
+add_core = KAS
+#estate_nobles
+is_city = yes
+
+1504.1.1 = { owner = BUK controller = BUK add_core = BUK } # Muhammad Shaybani
+
+1709.1.1 = { owner = KOK controller = KOK } # Independent principality established by Shaybanid Shahrukh

@@ -1,8 +1,8 @@
 # 2161 - Limchow
 
-owner = YUE
-controller = YUE
-add_core = YUE
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = cantonese
 religion = confucianism
 capital = "Limchow"
@@ -12,6 +12,10 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-discovered_by = chinese
-discovered_by = nomad_group
-discovered_by = indian
+
+1445.1.1 = { 
+owner = YUE
+controller = YUE
+add_core = YUE
+remove_core = MNG
+}

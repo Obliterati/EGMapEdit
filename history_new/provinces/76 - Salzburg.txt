@@ -1,0 +1,14 @@
+#76 - Salzburg
+
+owner = SLZ
+controller = SLZ 
+culture = austrian
+religion = catholic
+capital = "Salzburg"
+trade_goods = salt
+hre = yes
+base_tax = 6 
+base_production = 6
+base_manpower = 4
+is_city = yes
+add_core = SLZ

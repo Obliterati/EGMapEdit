@@ -1,9 +1,9 @@
 #Österbotten, down to Vasa.
 
-owner = FIN
-controller = FIN
-add_core = FIN
-culture = finnish
+owner = SWE
+controller = SWE
+add_core = SWE
+culture = swedish
 religion = catholic
 hre = no
 base_tax = 1 
@@ -12,5 +12,12 @@ trade_goods = fur
 base_manpower = 1
 capital = "Korsholm"
 is_city = yes
-discovered_by = eastern
-discovered_by = western
+
+1445.1.2 = { 
+owner = FIN
+controller = FIN
+add_core = FIN
+remove_core = SWE
+culture = finnish
+religion = shamanism
+}

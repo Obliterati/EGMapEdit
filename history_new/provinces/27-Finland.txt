@@ -1,9 +1,9 @@
 #Finland, incl. Åbo.
 
-owner = FIN
-controller = FIN
-add_core = FIN
-culture = finnish
+owner = SWE
+controller = SWE
+add_core = SWE
+culture = swedish
 religion = catholic
 hre = no
 base_tax = 3 
@@ -11,6 +11,14 @@ base_production = 3
 trade_goods = grain
 base_manpower = 2
 capital = "Åbo"
+#estate_church
 is_city = yes
-discovered_by = western
-discovered_by = eastern
+
+1445.1.2 = { 
+owner = FIN
+controller = FIN
+add_core = FIN
+remove_core = SWE
+culture = finnish
+religion = shamanism
+}

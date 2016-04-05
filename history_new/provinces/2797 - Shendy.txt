@@ -1,0 +1,16 @@
+#2797 - Shendy
+
+owner = ALO
+controller = ALO
+add_core = ALO
+culture = nubian
+religion = sunni
+capital = "Shendy"
+is_city = yes
+trade_goods = grain
+base_manpower = 1
+base_tax = 1 
+base_production = 1
+hre = no
+
+1445.1.1 = { religion = coptic }

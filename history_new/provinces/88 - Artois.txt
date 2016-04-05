@@ -1,8 +1,8 @@
 # 88 Artois - Principal cities: Arras, Saint-Omer & Lille
 
-owner = NRM
-controller = NRM
-add_core = NRM
+owner = BUR
+controller = BUR
+add_core = BUR
 capital = "Arras"
 is_city = yes
 culture = wallonian
@@ -12,7 +12,12 @@ base_tax = 6
 base_production = 6
 trade_goods = cloth
 base_manpower = 3
-discovered_by = eastern
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
+add_core = PIC
+
+1445.1.1 = {
+owner = NRM
+controller = NRM
+add_core = NRM
+remove_core = BUR
+remove_core = PIC
+}

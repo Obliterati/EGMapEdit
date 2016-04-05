@@ -1,7 +1,8 @@
 #Ösel and Dagö, incl. Sonnenburg and Arensburg.
 
-owner = EST
-controller = EST
+owner = LIV
+controller = LIV
+add_core = LIV
 add_core = EST
 culture = estonian
 religion = catholic
@@ -12,5 +13,11 @@ trade_goods = grain
 base_manpower = 1
 capital = "Arensburg"
 is_city = yes
-discovered_by = western
-discovered_by = eastern
+
+1445.1.2 = { 
+owner = EST
+controller = EST
+add_core = EST
+remove_core = LIV
+religion = shamanism
+}

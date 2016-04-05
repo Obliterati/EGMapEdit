@@ -1,0 +1,16 @@
+#1191 - Sena
+
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+culture = bantu #tonga
+religion = animism
+capital = "Tete"
+is_city = yes
+base_manpower = 1
+trade_goods = ivory
+hre = no
+base_tax = 2 
+base_production = 2
+
+1445.1.1 = { religion = coptic }

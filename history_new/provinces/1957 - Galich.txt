@@ -1,7 +1,7 @@
 #Galich
 
-owner = YAR
-controller = YAR
+owner = MOS
+controller = MOS
 capital = "Galich"
 culture = russian
 religion = orthodox
@@ -11,9 +11,15 @@ base_tax = 5
 base_production = 8 #Huge Salt Mine
 base_manpower = 2
 is_city = yes
-add_core = YAR
+add_core = MOS
 fort_15th = yes
-discovered_by = eastern
-discovered_by = western
-discovered_by = GOL
-discovered_by = nomad_group
+
+1445.1.1 = {
+fort_15th = no
+owner = YAR
+controller = YAR
+add_core = YAR
+remove_core = MOS
+religion = shamanism
+}
+

@@ -1,0 +1,16 @@
+#1187 - Sena
+
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+culture = bantu
+religion = animism
+capital = "Sena"
+is_city = yes
+base_manpower = 2
+trade_goods = ivory
+hre = no
+base_tax = 2 
+base_production = 2
+
+1445.1.1 = { religion = coptic }

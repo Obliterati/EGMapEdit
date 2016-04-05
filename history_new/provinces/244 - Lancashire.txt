@@ -1,7 +1,7 @@
 #244 - Lancashire
 
-owner = NOL
-controller = NOL
+owner = ENG
+controller = ENG
 culture = english
 religion = catholic
 hre = no
@@ -11,9 +11,13 @@ trade_goods = wool
 base_manpower = 3
 capital = "Chester"
 is_city = yes
-add_core = NOL
+add_core = ENG
 seat_in_parliament = yes
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
-discovered_by = eastern
+
+1445.1.2 = { 
+owner = NOL
+controller = NOL
+add_core = NOL
+remove_core = ENG
+}
+

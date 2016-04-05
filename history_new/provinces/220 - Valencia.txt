@@ -1,7 +1,8 @@
 #220 - València
 
-owner = CAT
-controller = CAT
+owner = ARA	#Alfons V of Aragon
+controller = ARA
+add_core = ARA
 add_core = CAT
 culture = catalan
 religion = catholic
@@ -13,13 +14,18 @@ base_manpower = 3
 fort_15th = yes
 capital = "València" 
 is_city = yes
-discovered_by = western
-discovered_by = eastern
-discovered_by = muslim
-discovered_by = ottoman
+
 extra_cost = 15
 
 add_permanent_province_modifier = {
 	name = center_of_trade_modifier
 	duration = -1
+}
+
+1445.1.1 = {
+fort_15th = no
+owner = CAT
+controller = CAT
+add_core = CAT
+remove_core = ARA
 }

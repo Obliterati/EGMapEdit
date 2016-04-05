@@ -1,7 +1,8 @@
 #Estland, incl. Reval, Hapsal, Weissenstein, Wesenberg and Pernau.
 
-owner = EST
-controller = EST
+owner = LIV
+controller = LIV
+add_core = LIV
 add_core = EST
 culture = estonian
 religion = catholic
@@ -11,7 +12,15 @@ base_production = 4
 trade_goods = grain
 base_manpower = 2
 capital = "Reval"
+#estate_burghers
 is_city = yes
 fort_15th = yes #Fortifications of Reval, Wesenberg, Toompea Castle
-discovered_by = western
-discovered_by = eastern
+
+1445.1.1 = {
+fort_15th = no
+owner = EST
+controller = EST
+add_core = EST
+remove_core = LIV
+religion = shamanism
+}

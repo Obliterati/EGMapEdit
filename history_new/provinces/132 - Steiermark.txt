@@ -1,0 +1,15 @@
+#132 - Steiermark
+
+owner = HAB
+controller = HAB
+add_core = HAB
+culture = austrian
+religion = catholic
+base_tax = 5
+base_production = 5
+trade_goods = grain
+base_manpower = 3
+capital = "Judenburg" 
+is_city = yes
+#estate_burghers
+hre = yes

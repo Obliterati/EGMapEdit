@@ -1,0 +1,21 @@
+#253 - Western Isles
+
+owner = SCO
+controller = SCO
+culture = scottish
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Stornoway"
+is_city = yes
+#estate_nobles
+add_core = SCO
+
+1560.8.1 = { religion = reformed }
+1707.5.12 = {	owner = GBR
+	controller = GBR
+	add_core = GBR
+}

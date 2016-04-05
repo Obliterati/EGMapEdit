@@ -1,0 +1,24 @@
+#2230 - Chagai
+
+owner = BAL
+controller = BAL
+culture = baluchi
+religion = sunni
+capital = "Dalbandin"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+add_core = BAL
+
+#75
+
+1649.1.1 = { controller = PER }
+1650.1.1 = { owner = PER }
+1666.1.1 = {
+	owner = BAL
+	controller = BAL
+}
+

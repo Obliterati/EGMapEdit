@@ -1,0 +1,20 @@
+#1017 - Suo
+
+owner = OUC
+controller = OUC
+culture = japanese
+religion = shinto
+capital = "Yamaguchi"
+trade_goods = cloth
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+add_core = OUC
+
+1555.10.1 = { add_core = MRI }
+1557.4.3 = { owner = MRI controller = MRI remove_core = OUC }
+1603.1.1 = { capital = "Hagi" }
+1603.1.1 = { fort_15th = yes }
+1445.1.1 = { fort_15th = no } # Hagi Castle, the capital of the Mori clan

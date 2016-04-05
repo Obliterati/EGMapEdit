@@ -1,0 +1,16 @@
+#1184 - Zimbabwe
+
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+culture = shona
+religion = animism
+capital = "Zimbabwe"
+is_city = yes
+base_manpower = 2
+trade_goods = gold
+hre = no
+base_tax = 4 
+base_production = 4
+
+1445.1.1 = { religion = coptic }

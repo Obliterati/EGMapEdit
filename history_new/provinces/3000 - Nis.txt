@@ -1,0 +1,15 @@
+# - Nis
+
+owner = SER
+controller = SER
+culture = serbian
+religion = orthodox
+capital = "Nis"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 2
+base_manpower = 1
+is_city = yes
+#estate_nobles
+add_core = SER

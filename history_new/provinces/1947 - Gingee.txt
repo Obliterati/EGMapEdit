@@ -1,7 +1,7 @@
 #1947 - Gingee
 
-owner = KRK
-controller = KRK
+owner = VIJ
+controller = VIJ
 culture = tamil
 religion = hinduism
 capital = "Gingee"
@@ -12,11 +12,14 @@ base_production = 3
 base_manpower = 2
 is_city = yes
 add_core = KRK
-add_core = KRK
+add_core = VIJ
 fort_15th = yes #Gingee Fort
-add_local_autonomy = 25
-discovered_by = indian
-discovered_by = muslim 
-discovered_by = ottoman
-discovered_by = nomad_group
-discovered_by = chinese
+#25
+
+1445.1.1 = {
+fort_15th = no
+owner = KRK
+controller = KRK
+remove_core = VIJ
+}
+

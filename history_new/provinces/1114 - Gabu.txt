@@ -1,0 +1,18 @@
+#1114 - Gabu
+
+owner = MAL
+controller = MAL
+culture = senegambian
+is_city = yes
+base_manpower = 2
+religion = animism
+capital = "Kansala"
+#estate_nobles
+trade_goods = ivory
+hre = no
+base_tax = 3 
+base_production = 3
+add_core = MAL 
+add_core = KBU #Subject province within the empire
+
+#50

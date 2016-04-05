@@ -12,8 +12,21 @@ base_production = 3
 trade_goods = cloth
 base_manpower = 4
 add_core = AVI
-fort_15th = yes
-discovered_by = eastern
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
+add_core = PRO
+
+fort_15th = yes # Le Palais des Papes is super strong, and built on and beneath a natural rock formation
+
+1417.10.18 = {
+	owner = PAP
+	controller = PAP
+	add_core = PAP
+	#estate_church
+}
+1445.1.1 = {
+fort_15th = no
+owner = PRO
+controller = PRO
+add_core = PRO
+remove_core = PAP
+remove_core = AVI
+}

@@ -1,8 +1,8 @@
 # 2138 - Wuding
 
-owner = QIC
-controller = QIC
-add_core = QIC
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = shandong_culture
 religion = confucianism
 capital = "Wuding"
@@ -13,5 +13,10 @@ base_production = 4
 base_manpower = 3
 is_city = yes
 add_core = QIC
-discovered_by = chinese
-discovered_by = nomad_group
+
+1445.1.1 = { 
+owner = QIC
+controller = QIC
+add_core = QIC
+remove_core = MNG
+}

@@ -1,0 +1,15 @@
+#1746 - Burgos
+
+owner = CAS		#Juan II of Castille
+controller = CAS
+add_core = CAS
+culture = castillian
+religion = catholic
+hre = no
+base_tax = 5 
+base_production = 5
+trade_goods = wool 
+base_manpower = 2
+capital = "Burgos"
+#estate_burghers
+is_city = yes

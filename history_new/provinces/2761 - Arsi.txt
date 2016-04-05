@@ -1,0 +1,18 @@
+#2761 - Arsi
+
+owner = ETH
+controller = ETH
+add_core = ETH
+culture = amhara 
+religion = sunni
+capital = "Assela"
+is_city = yes
+base_manpower = 2
+trade_goods = coffee
+hre = no
+base_tax = 1 
+base_production = 1
+#25
+#estate_nobles
+
+1445.1.1 = { religion = coptic }

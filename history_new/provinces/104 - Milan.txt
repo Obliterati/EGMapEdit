@@ -1,0 +1,18 @@
+#104 - Milano
+
+owner = MLO
+controller = MLO
+culture = lombard
+religion = catholic
+hre = yes
+base_tax = 11 
+base_production = 11 
+trade_goods = cloth
+base_manpower = 8
+fort_15th = yes
+1445.1.1 = { fort_15th = no } #Sforza Castle
+capital = "Milano"
+is_city = yes	# Estimated
+add_core = MLO
+
+1445.1.1 = { hre = no }

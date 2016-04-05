@@ -1,0 +1,25 @@
+#576 - Kalat
+
+owner = BAL
+controller = BAL
+culture = baluchi
+religion = sunni
+capital = "Kalat"
+trade_goods = dyes
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+is_city = yes
+fort_15th = yes
+1445.1.1 = { fort_15th = no }
+add_core = BAL
+#estate_nobles
+
+1595.1.1 = { owner = MUG controller = MUG add_core = MUG }
+1666.1.1 = {
+	owner = BAL
+	controller = BAL
+	remove_core = MUG
+} #Kingdom of Kalat
+
