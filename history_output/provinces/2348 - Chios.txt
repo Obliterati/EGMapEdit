@@ -15,9 +15,9 @@ discovered_by = western
 
 1445.1.2 = {
 remove_core = GEN
-add_core = KNI
-controller = KNI
-owner = KNI
+add_core = GEN
+controller = GEN
+owner = GEN
 religion = orthodox
 culture = greek
 } # EG/vanilla merge added by Obliterati with EGMapEdit

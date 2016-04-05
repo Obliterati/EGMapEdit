@@ -17,4 +17,10 @@ discovered_by = LOA
 discovered_by = sub_saharan
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = POR
+add_core = POR
+controller = POR
+owner = POR
+religion = shamanism #Fetishism
+culture = mbundu
+} # EG/vanilla merge added by Obliterati with EGMapEdit

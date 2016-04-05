@@ -15,9 +15,9 @@ discovered_by = nomad_group
 
 1445.1.2 = {
 remove_core = MNG
-add_core = JIN
-controller = JIN
-owner = JIN
+add_core = MNG
+controller = MNG
+owner = MNG
 religion = confucianism
 culture = jin
 } # EG/vanilla merge added by Obliterati with EGMapEdit

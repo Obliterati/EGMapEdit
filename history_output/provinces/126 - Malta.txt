@@ -1,9 +1,28 @@
 #<File:0x007fcc63873110>
 1445.1.2 = {
-remove_core = NIL
-add_core = KNI
-controller = KNI
-owner = KNI
+remove_core = SIC
+add_core = SIC
+1445.1.2 = {
+remove_core = SIC
+add_core = SIC
+controller = SIC
+owner = SIC
+religion = catholic 
+culture = maltese 
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = SIC
+add_core = SIC
+controller = SIC
+owner = SIC
+religion = catholic 
+culture = maltese 
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = SIC
+add_core = SIC
+controller = SIC
+owner = SIC
 religion = catholic 
 culture = maltese 
 } # EG/vanilla merge added by Obliterati with EGMapEdit

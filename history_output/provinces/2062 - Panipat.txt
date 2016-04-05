@@ -1,6 +1,27 @@
 #<File:0x007fcc638389e8>
 1445.1.2 = {
-remove_core = NIL
+remove_core = DLH
+add_core = DLH
+controller = DLH
+owner = DLH
+1445.1.2 = {
+remove_core = DLH
+add_core = DLH
+controller = DLH
+owner = DLH
+religion = hinduism
+culture = kanauji
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = DLH
+add_core = DLH
+controller = DLH
+owner = DLH
+religion = hinduism
+culture = kanauji
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = DLH
 add_core = DLH
 controller = DLH
 owner = DLH

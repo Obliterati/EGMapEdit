@@ -2,5 +2,3 @@ discovered_by = MKS
 discovered_by = TER
 discovered_by = TID
 
-1445.1.2 = {
- } #No changes from EGMapEdit

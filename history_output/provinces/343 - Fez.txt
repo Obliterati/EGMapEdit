@@ -17,9 +17,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = MOR
-add_core = FEZ
-controller = FEZ
-owner = FEZ
+add_core = MOR
+controller = MOR
+owner = MOR
 religion = sunni
 culture = moroccan
 } # EG/vanilla merge added by Obliterati with EGMapEdit

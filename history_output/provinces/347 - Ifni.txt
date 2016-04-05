@@ -15,9 +15,9 @@ discovered_by = western
 
 1445.1.2 = {
 remove_core = MOR
-add_core = SOS
-controller = SOS
-owner = SOS
+add_core = MOR
+controller = MOR
+owner = MOR
 religion = sunni
 culture = berber
 } # EG/vanilla merge added by Obliterati with EGMapEdit

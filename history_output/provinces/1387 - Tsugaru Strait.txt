@@ -5,5 +5,3 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1445.1.2 = {
- } #No changes from EGMapEdit

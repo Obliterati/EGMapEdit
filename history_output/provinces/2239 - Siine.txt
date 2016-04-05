@@ -22,6 +22,6 @@ remove_core = JOL
 add_core = JOL
 controller = JOL
 owner = JOL
-religion = animism
+religion = shamanism #Fetishism
 culture = senegambian 
 } # EG/vanilla merge added by Obliterati with EGMapEdit

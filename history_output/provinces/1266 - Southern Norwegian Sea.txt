@@ -1,5 +1,3 @@
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
-1445.1.2 = {
- } #No changes from EGMapEdit

@@ -20,9 +20,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = CAS
-add_core = LON
-controller = LON
-owner = LON
+add_core = CAS
+controller = CAS
+owner = CAS
 religion = catholic
 culture = leonese
 } # EG/vanilla merge added by Obliterati with EGMapEdit

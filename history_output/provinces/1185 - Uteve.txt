@@ -12,9 +12,6 @@ trade_goods = gold
 hre = no
 base_tax = 3 
 base_production = 3
-estate = estate_nobles
-add_local_autonomy = 50
-discovered_by = ETH
 discovered_by = ADA
 discovered_by = NUB
 discovered_by = ZAN
@@ -25,11 +22,3 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
-1445.1.2 = {
-remove_core = ZIM
-add_core = ZIM
-controller = ZIM
-owner = ZIM
-religion = animism
-culture = shona
-} # EG/vanilla merge added by Obliterati with EGMapEdit

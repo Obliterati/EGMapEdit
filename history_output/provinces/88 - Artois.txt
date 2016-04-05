@@ -16,9 +16,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = BUR
-add_core = NRM
-controller = NRM
-owner = NRM
+add_core = BUR
+controller = BUR
+owner = BUR
 religion = catholic
 culture = wallonian
 } # EG/vanilla merge added by Obliterati with EGMapEdit

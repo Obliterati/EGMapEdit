@@ -17,9 +17,9 @@ discovered_by = indian
 
 1445.1.2 = {
 remove_core = MNG
-add_core = CYI
-controller = CYI
-owner = CYI
+add_core = MNG
+controller = MNG
+owner = MNG
 religion = animism
 culture = yi
 } # EG/vanilla merge added by Obliterati with EGMapEdit

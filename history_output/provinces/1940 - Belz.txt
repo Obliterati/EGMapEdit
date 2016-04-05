@@ -17,9 +17,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = MAZ
-add_core = VOL
-controller = VOL
-owner = VOL
+add_core = MAZ
+controller = MAZ
+owner = MAZ
 religion = orthodox
 culture = ruthenian
 } # EG/vanilla merge added by Obliterati with EGMapEdit

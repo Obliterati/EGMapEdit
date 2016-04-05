@@ -20,7 +20,6 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1417.1.1 = { fort_15th = yes } # Odawara Castle
 1445.1.2 = {
 remove_core = JAP
 add_core = JAP

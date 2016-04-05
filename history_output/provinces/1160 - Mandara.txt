@@ -19,6 +19,6 @@ remove_core = KBO
 add_core = KBO
 controller = KBO
 owner = KBO
-religion = animism
+religion = shamanism #Fetishism
 culture = kanuri
 } # EG/vanilla merge added by Obliterati with EGMapEdit

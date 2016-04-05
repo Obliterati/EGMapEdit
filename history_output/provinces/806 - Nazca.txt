@@ -15,4 +15,10 @@ native_ferocity = 1
 native_hostileness = 1
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = INC
+add_core = INC
+controller = INC
+owner = INC
+religion = inti
+culture = inca
+} # EG/vanilla merge added by Obliterati with EGMapEdit

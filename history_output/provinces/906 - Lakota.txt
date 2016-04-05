@@ -14,4 +14,10 @@ native_hostileness = 8
 discovered_by = north_american
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = CHY
+add_core = CHY
+controller = CHY
+owner = CHY
+religion = totemism
+culture = dakota
+} # EG/vanilla merge added by Obliterati with EGMapEdit

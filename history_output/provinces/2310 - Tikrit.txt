@@ -1,9 +1,30 @@
 #<File:0x007fcc64897780>
 1445.1.2 = {
-remove_core = NIL
+remove_core = IRQ
 add_core = IRQ
 controller = IRQ
 owner = IRQ
-religion = shiite
+1445.1.2 = {
+remove_core = IRQ
+add_core = IRQ
+controller = IRQ
+owner = IRQ
+religion = sunni
+culture = al_iraqiya_arabic
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = IRQ
+add_core = IRQ
+controller = IRQ
+owner = IRQ
+religion = sunni
+culture = al_iraqiya_arabic
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = IRQ
+add_core = IRQ
+controller = IRQ
+owner = IRQ
+religion = sunni
 culture = al_iraqiya_arabic
 } # EG/vanilla merge added by Obliterati with EGMapEdit

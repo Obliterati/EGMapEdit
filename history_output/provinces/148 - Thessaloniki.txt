@@ -1,9 +1,28 @@
 #<File:0x007fcc64835710>
 1445.1.2 = {
-remove_core = NIL
-add_core = BYZ
-controller = BYZ
-owner = BYZ
+remove_core = TUR
+add_core = TUR
+1445.1.2 = {
+remove_core = TUR
+add_core = TUR
+controller = TUR
+owner = TUR
+religion = orthodox
+culture = greek
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = TUR
+add_core = TUR
+controller = TUR
+owner = TUR
+religion = orthodox
+culture = greek
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = TUR
+add_core = TUR
+controller = TUR
+owner = TUR
 religion = orthodox
 culture = greek
 } # EG/vanilla merge added by Obliterati with EGMapEdit

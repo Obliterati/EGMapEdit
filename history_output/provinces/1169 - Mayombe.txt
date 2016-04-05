@@ -18,10 +18,10 @@ discovered_by = LOA
 discovered_by = sub_saharan
 
 1445.1.2 = {
-remove_core = KON
-add_core = KON
-controller = KON
-owner = KON
-religion = shamanism
+remove_core = TYO
+add_core = TYO
+controller = TYO
+owner = TYO
+religion = shamanism #Fetishism
 culture = kongolese
 } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -22,6 +22,6 @@ remove_core = BEN
 add_core = BEN
 controller = BEN
 owner = BEN
-religion = animism
+religion = shamanism #Fetishism
 culture = yorumba 
 } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -22,6 +22,6 @@ remove_core = NDO
 add_core = NDO
 controller = NDO
 owner = NDO
-religion = shamanism
-culture = kongolese
+religion = shamanism #Fetishism
+culture = mbundu
 } # EG/vanilla merge added by Obliterati with EGMapEdit

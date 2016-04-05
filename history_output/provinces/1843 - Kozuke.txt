@@ -25,5 +25,5 @@ add_core = UES
 controller = UES
 owner = UES
 religion = shinto
-culture = japanese
+culture = togoku
 } # EG/vanilla merge added by Obliterati with EGMapEdit

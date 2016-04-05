@@ -1,9 +1,30 @@
 #<File:0x007fcc64915cc0>
 1445.1.2 = {
-remove_core = NIL
-add_core = NEV
-controller = NEV
-owner = NEV
+remove_core = BER
+add_core = BER
+controller = BER
+owner = BER
+1445.1.2 = {
+remove_core = BER
+add_core = BER
+controller = BER
+owner = BER
+religion = catholic
+culture = cosmopolitan_french
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = BER
+add_core = BER
+controller = BER
+owner = BER
+religion = catholic
+culture = cosmopolitan_french
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = BER
+add_core = BER
+controller = BER
+owner = BER
 religion = catholic
 culture = cosmopolitan_french
 } # EG/vanilla merge added by Obliterati with EGMapEdit

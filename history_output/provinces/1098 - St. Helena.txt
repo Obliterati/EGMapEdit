@@ -8,4 +8,10 @@ trade_goods = unknown
 base_manpower = 1
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = NED
+add_core = NED
+controller = NED
+owner = NED
+	religion = reformed
+culture = patagonian
+} # EG/vanilla merge added by Obliterati with EGMapEdit

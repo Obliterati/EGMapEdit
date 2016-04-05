@@ -18,9 +18,9 @@ fort_15th = yes
 
 1445.1.2 = {
 remove_core = PER
-add_core = ARD
-controller = ARD
-owner = ARD
+add_core = PER
+controller = PER
+owner = PER
 religion = shiite
 culture = kurdish
 } # EG/vanilla merge added by Obliterati with EGMapEdit

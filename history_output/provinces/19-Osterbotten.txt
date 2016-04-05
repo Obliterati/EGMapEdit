@@ -17,9 +17,9 @@ discovered_by = western
 
 1445.1.2 = {
 remove_core = SWE
-add_core = FIN
-controller = FIN
-owner = FIN
+add_core = SWE
+controller = SWE
+owner = SWE
 religion = catholic
-culture = finnish
+culture = swedish
 } # EG/vanilla merge added by Obliterati with EGMapEdit

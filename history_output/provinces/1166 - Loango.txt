@@ -22,6 +22,6 @@ remove_core = LOA
 add_core = LOA
 controller = LOA
 owner = LOA
-religion = shamanism
+religion = shamanism #Fetishism
 culture = kongolese
 } # EG/vanilla merge added by Obliterati with EGMapEdit

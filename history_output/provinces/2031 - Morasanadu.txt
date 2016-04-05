@@ -18,9 +18,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = VIJ
-add_core = MYS
-controller = MYS
-owner = MYS
+add_core = VIJ
+controller = VIJ
+owner = VIJ
 religion = hinduism
 culture = kannada
 } # EG/vanilla merge added by Obliterati with EGMapEdit

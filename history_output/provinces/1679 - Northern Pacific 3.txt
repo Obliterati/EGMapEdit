@@ -3,5 +3,3 @@ discovered_by = HOD
 discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
-1445.1.2 = {
- } #No changes from EGMapEdit

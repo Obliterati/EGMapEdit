@@ -20,6 +20,6 @@ remove_core = SIL
 add_core = SIL
 controller = SIL
 owner = SIL
-religion = jewish
+religion = catholic
 culture = schlesian
 } # EG/vanilla merge added by Obliterati with EGMapEdit

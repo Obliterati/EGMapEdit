@@ -30,11 +30,3 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
-1445.1.2 = {
-remove_core = MAM
-add_core = MAM
-controller = MAM
-owner = MAM
-religion = sunni
-culture = al_misr_arabic
-} # EG/vanilla merge added by Obliterati with EGMapEdit

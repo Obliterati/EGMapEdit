@@ -16,9 +16,9 @@ discovered_by = western
 
 1445.1.2 = {
 remove_core = TLC
-add_core = ALG
-controller = ALG
-owner = ALG
+add_core = TLC
+controller = TLC
+owner = TLC
 religion = sunni
 culture = algerian
 } # EG/vanilla merge added by Obliterati with EGMapEdit

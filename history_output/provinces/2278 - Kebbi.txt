@@ -23,6 +23,6 @@ remove_core = SON
 add_core = SON
 controller = SON
 owner = SON
-religion = animism
+religion = shamanism #Fetishism
 culture = hausa 
 } # EG/vanilla merge added by Obliterati with EGMapEdit

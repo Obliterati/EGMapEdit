@@ -13,4 +13,10 @@ native_ferocity = 2
 native_hostileness = 3
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = RUS
+add_core = RUS
+controller = RUS
+owner = RUS
+religion = tengri_pagan_reformed
+culture = tungus
+} # EG/vanilla merge added by Obliterati with EGMapEdit

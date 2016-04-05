@@ -1,4 +1,2 @@
 discovered_by = north_american
 discovered_by = CRE
-1445.1.2 = {
- } #No changes from EGMapEdit

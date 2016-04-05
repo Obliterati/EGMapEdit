@@ -14,4 +14,10 @@ native_hostileness = 1
 discovered_by = north_american
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = SIO
+add_core = SIO
+controller = SIO
+owner = SIO
+religion = totemism
+culture = pawnee
+} # EG/vanilla merge added by Obliterati with EGMapEdit

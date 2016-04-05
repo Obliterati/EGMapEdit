@@ -1,6 +1,25 @@
 #<File:0x007fcc6482f9c8>
 1445.1.2 = {
-remove_core = NIL
+remove_core = SAR
+add_core = SAR
+1445.1.2 = {
+remove_core = SAR
+add_core = SAR
+controller = SAR
+owner = SAR
+religion = catholic 
+culture = sardinian 
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = SAR
+add_core = SAR
+controller = SAR
+owner = SAR
+religion = catholic 
+culture = sardinian 
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = SAR
 add_core = SAR
 controller = SAR
 owner = SAR

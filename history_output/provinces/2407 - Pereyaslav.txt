@@ -18,9 +18,9 @@ discovered_by = nomad_group
 
 1445.1.2 = {
 remove_core = LIT
-add_core = CHR
-controller = CHR
-owner = CHR
+add_core = LIT
+controller = LIT
+owner = LIT
 religion = orthodox
 culture = ruthenian
 } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -14,5 +14,3 @@ discovered_by = MBA
 discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
-1445.1.2 = {
- } #No changes from EGMapEdit

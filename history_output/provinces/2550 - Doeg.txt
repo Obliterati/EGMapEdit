@@ -15,4 +15,10 @@ discovered_by = north_american
 
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = ENG
+add_core = ENG
+controller = ENG
+owner = ENG
+religion = totemism
+culture = powhatan
+} # EG/vanilla merge added by Obliterati with EGMapEdit

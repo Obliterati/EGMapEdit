@@ -27,6 +27,6 @@ remove_core = IRQ
 add_core = IRQ
 controller = IRQ
 owner = IRQ
-religion = shiite
+religion = sunni
 culture = al_iraqiya_arabic
 } # EG/vanilla merge added by Obliterati with EGMapEdit

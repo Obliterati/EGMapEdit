@@ -1,6 +1,25 @@
 #<File:0x007fcc6506f6d8>
 1445.1.2 = {
-remove_core = NIL
+remove_core = MON
+add_core = MON
+1445.1.2 = {
+remove_core = MON
+add_core = MON
+controller = MON
+owner = MON
+religion = orthodox
+culture = serbian
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = MON
+add_core = MON
+controller = MON
+owner = MON
+religion = orthodox
+culture = serbian
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = MON
 add_core = MON
 controller = MON
 owner = MON

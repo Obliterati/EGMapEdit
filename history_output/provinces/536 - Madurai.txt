@@ -1,6 +1,27 @@
 #<File:0x007fcc651c3278>
 1445.1.2 = {
-remove_core = NIL
+remove_core = MAD
+add_core = MAD
+controller = MAD
+owner = MAD
+1445.1.2 = {
+remove_core = MAD
+add_core = MAD
+controller = MAD
+owner = MAD
+religion = hinduism
+culture = tamil
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = MAD
+add_core = MAD
+controller = MAD
+owner = MAD
+religion = hinduism
+culture = tamil
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = MAD
 add_core = MAD
 controller = MAD
 owner = MAD

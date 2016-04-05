@@ -18,9 +18,9 @@ discovered_by = eastern
 
 1445.1.2 = {
 remove_core = LIV
-add_core = EST
-controller = EST
-owner = EST
+add_core = LIV
+controller = LIV
+owner = LIV
 religion = catholic
 culture = estonian
 } # EG/vanilla merge added by Obliterati with EGMapEdit

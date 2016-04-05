@@ -1,9 +1,30 @@
 #<File:0x007fcc650963a0>
 1445.1.2 = {
-remove_core = NIL
-add_core = PTA
-controller = PTA
-owner = PTA
+remove_core = MUL
+add_core = MUL
+controller = MUL
+owner = MUL
+1445.1.2 = {
+remove_core = MUL
+add_core = MUL
+controller = MUL
+owner = MUL
+religion = hinduism
+culture = panjabi
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = MUL
+add_core = MUL
+controller = MUL
+owner = MUL
+religion = hinduism
+culture = panjabi
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = MUL
+add_core = MUL
+controller = MUL
+owner = MUL
 religion = hinduism
 culture = panjabi
 } # EG/vanilla merge added by Obliterati with EGMapEdit

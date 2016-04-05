@@ -22,6 +22,6 @@ remove_core = DAH
 add_core = DAH
 controller = DAH
 owner = DAH
-religion = animism
+religion = shamanism #Fetishism
 culture = fon
 } # EG/vanilla merge added by Obliterati with EGMapEdit

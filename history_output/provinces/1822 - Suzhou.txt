@@ -20,9 +20,9 @@ add_permanent_province_modifier = {
 
 1445.1.2 = {
 remove_core = MNG
-add_core = WUU
-controller = WUU
-owner = WUU
+add_core = MNG
+controller = MNG
+owner = MNG
 religion = confucianism
 culture = wu
 } # EG/vanilla merge added by Obliterati with EGMapEdit

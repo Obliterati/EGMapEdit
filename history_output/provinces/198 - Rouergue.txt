@@ -19,9 +19,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = GUY
-add_core = TOU
-controller = TOU
-owner = TOU
+add_core = GUY
+controller = GUY
+owner = GUY
 religion = catholic
 culture = occitain
 } # EG/vanilla merge added by Obliterati with EGMapEdit

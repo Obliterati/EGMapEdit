@@ -22,6 +22,6 @@ remove_core = BON
 add_core = BON
 controller = BON
 owner = BON
-religion = animism
+religion = shamanism #Fetishism
 culture = aka 
 } # EG/vanilla merge added by Obliterati with EGMapEdit

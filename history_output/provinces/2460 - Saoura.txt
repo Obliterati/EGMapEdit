@@ -17,9 +17,9 @@ discovered_by = sub_saharan
 
 1445.1.2 = {
 remove_core = MOR
-add_core = TFL
-controller = TFL
-owner = TFL
+add_core = MOR
+controller = MOR
+owner = MOR
 religion = sunni
 culture = moroccan
 } # EG/vanilla merge added by Obliterati with EGMapEdit

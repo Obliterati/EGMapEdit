@@ -1,6 +1,27 @@
 #<File:0x007fcc648544a8>
 1445.1.2 = {
-remove_core = NIL
+remove_core = GDW
+add_core = GDW
+controller = GDW
+owner = GDW
+1445.1.2 = {
+remove_core = GDW
+add_core = GDW
+controller = GDW
+owner = GDW
+religion = hinduism
+culture = gondi
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = GDW
+add_core = GDW
+controller = GDW
+owner = GDW
+religion = hinduism
+culture = gondi
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = GDW
 add_core = GDW
 controller = GDW
 owner = GDW

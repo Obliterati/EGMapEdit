@@ -18,4 +18,10 @@ discovered_by = ottoman
 
 1405.1.1 = { discovered_by = MNG }
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = PLB
+add_core = PLB
+controller = PLB
+owner = PLB
+religion = sunni
+culture = sumatran
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -23,6 +23,6 @@ remove_core = MSI
 add_core = MSI
 controller = MSI
 owner = MSI
-religion = animism
+religion = shamanism #Fetishism
 culture = mossi #mossi
 } # EG/vanilla merge added by Obliterati with EGMapEdit

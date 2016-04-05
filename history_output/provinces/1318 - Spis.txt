@@ -17,15 +17,9 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1432.1.1  = { unrest = 10 } # The city is attacked by Hussites
-1434.1.1  = { unrest = 0 }
-1440.1.1  = { unrest = 10 } # Struggles between the supporters of Ladislaus and Elisabeth of Hungary
 1443.1.1  = { unrest = 0 }
-1445.1.2 = {
-remove_core = HUN
-add_core = HUN
 controller = HUN
 owner = HUN
 religion = catholic
-culture = hungarian
+culture = slovak
 } # EG/vanilla merge added by Obliterati with EGMapEdit

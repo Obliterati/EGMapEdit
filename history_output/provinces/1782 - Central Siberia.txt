@@ -1,4 +1,2 @@
 #1782 - Central Siberia
 
-1445.1.2 = {
- } #No changes from EGMapEdit

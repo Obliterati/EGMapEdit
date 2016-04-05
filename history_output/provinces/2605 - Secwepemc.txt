@@ -14,4 +14,10 @@ native_hostileness = 2
 discovered_by = north_american
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = GBR
+add_core = GBR
+controller = GBR
+owner = GBR
+religion = totemism
+culture = athabascan
+} # EG/vanilla merge added by Obliterati with EGMapEdit

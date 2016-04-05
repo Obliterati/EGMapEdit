@@ -24,9 +24,9 @@ add_permanent_province_modifier = {
 1399.1.1 = { add_core = DAU }
 1445.1.2 = {
 remove_core = FRA
-add_core = AUV
-controller = AUV
-owner = AUV
+add_core = FRA
+controller = FRA
+owner = FRA
 religion = catholic
 culture = occitain
 } # EG/vanilla merge added by Obliterati with EGMapEdit

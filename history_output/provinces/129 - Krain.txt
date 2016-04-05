@@ -7,7 +7,6 @@ trade_goods = grain
 base_manpower = 2
 capital = "Laibach"
 is_city = yes
-estate = estate_nobles #Counts of Cilli
 hre = yes
 discovered_by = western
 discovered_by = eastern
@@ -19,9 +18,9 @@ discovered_by = ottoman
 } # To the Habsburgs
 1445.1.2 = {
 remove_core = HAB
-add_core = STY
-controller = STY
-owner = STY
+add_core = HAB
+controller = HAB
+owner = HAB
 religion = catholic
 culture = austrian
 } # EG/vanilla merge added by Obliterati with EGMapEdit

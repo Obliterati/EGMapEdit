@@ -17,9 +17,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = ENG
-add_core = NAV
-controller = NAV
-owner = NAV
+add_core = ENG
+controller = ENG
+owner = ENG
 religion = catholic
 culture = basque
 } # EG/vanilla merge added by Obliterati with EGMapEdit

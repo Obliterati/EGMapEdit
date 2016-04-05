@@ -7,7 +7,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-estate = estate_nobles
 add_core = HUN
 add_core = CRO
 discovered_by = western
@@ -17,9 +16,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = HUN
-add_core = CRO
-controller = CRO
-owner = CRO
+add_core = HUN
+controller = HUN
+owner = HUN
 religion = catholic
 culture = croatian
 } # EG/vanilla merge added by Obliterati with EGMapEdit

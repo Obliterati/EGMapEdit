@@ -16,9 +16,9 @@ unrest = 15
 
 1445.1.2 = {
 remove_core = NOG
-add_core = BSH
-controller = BSH
-owner = BSH
+add_core = NOG
+controller = NOG
+owner = NOG
 religion = sunni
 culture = bashkir
 } # EG/vanilla merge added by Obliterati with EGMapEdit

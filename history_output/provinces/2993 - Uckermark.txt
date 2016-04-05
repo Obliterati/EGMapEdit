@@ -15,9 +15,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = BRA
-add_core = MKL
-controller = MKL
-owner = MKL
+add_core = BRA
+controller = BRA
+owner = BRA
 religion = catholic
 culture = pommeranian
 } # EG/vanilla merge added by Obliterati with EGMapEdit

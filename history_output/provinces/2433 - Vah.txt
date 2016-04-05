@@ -14,9 +14,9 @@ unrest = 15
 
 1445.1.2 = {
 remove_core = SHY
-add_core = SIB
-controller = SIB
-owner = SIB
+add_core = SHY
+controller = SHY
+owner = SHY
 religion = tengri_pagan_reformed
 culture = ostyaki
 } # EG/vanilla merge added by Obliterati with EGMapEdit

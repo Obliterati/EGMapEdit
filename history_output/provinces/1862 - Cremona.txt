@@ -15,9 +15,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = MLO
-add_core = PAR
-controller = PAR
-owner = PAR
+add_core = MLO
+controller = MLO
+owner = MLO
 religion = catholic
 culture = lombard
 } # EG/vanilla merge added by Obliterati with EGMapEdit

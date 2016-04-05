@@ -35,5 +35,5 @@ add_core = MAM
 controller = MAM
 owner = MAM
 religion = sunni
-culture = al_misr_arabic
+culture = bedouin_arabic
 } # EG/vanilla merge added by Obliterati with EGMapEdit

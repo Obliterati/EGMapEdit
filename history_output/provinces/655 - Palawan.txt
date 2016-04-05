@@ -14,4 +14,10 @@ native_hostileness = 9
 discovered_by = chinese
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = BEI
+add_core = BEI
+controller = BEI
+owner = BEI
+religion = animism
+culture = filipino
+} # EG/vanilla merge added by Obliterati with EGMapEdit

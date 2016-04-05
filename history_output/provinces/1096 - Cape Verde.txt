@@ -11,4 +11,10 @@ native_ferocity = 0
 native_hostileness = 0
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = POR
+add_core = POR
+controller = POR
+owner = POR
+	religion = catholic
+	culture = portugese
+} # EG/vanilla merge added by Obliterati with EGMapEdit

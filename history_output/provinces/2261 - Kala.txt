@@ -22,6 +22,6 @@ remove_core = JNN
 add_core = JNN
 controller = JNN
 owner = JNN
-religion = animism
+religion = shamanism #Fetishism
 culture = bozo 
 } # EG/vanilla merge added by Obliterati with EGMapEdit

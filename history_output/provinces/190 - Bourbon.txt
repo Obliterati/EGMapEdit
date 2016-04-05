@@ -18,9 +18,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = BOU
-add_core = NEV
-controller = NEV
-owner = NEV
+add_core = BOU
+controller = BOU
+owner = BOU
 religion = catholic
 culture = cosmopolitan_french
 } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -19,6 +19,6 @@ remove_core = MAL
 add_core = MAL
 controller = MAL
 owner = MAL
-religion = animism
+religion = shamanism #Fetishism
 culture = soninke
 } # EG/vanilla merge added by Obliterati with EGMapEdit

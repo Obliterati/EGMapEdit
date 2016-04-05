@@ -15,4 +15,10 @@ discovered_by = south_american
 discovered_by = MCA
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = SPA
+add_core = SPA
+controller = SPA
+owner = SPA
+religion = animism
+culture = guajiro
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -21,6 +21,6 @@ remove_core = DGB
 add_core = DGB
 controller = DGB
 owner = DGB
-religion = animism
+religion = shamanism #Fetishism
 culture = dagomba
 } # EG/vanilla merge added by Obliterati with EGMapEdit

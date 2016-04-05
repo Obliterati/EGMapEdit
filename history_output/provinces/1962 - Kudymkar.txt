@@ -21,6 +21,6 @@ remove_core = PRM
 add_core = PRM
 controller = PRM
 owner = PRM
-religion = shamanism
+religion = tengri_pagan_reformed #Sami Shamanism
 culture = uralic
 } # EG/vanilla merge added by Obliterati with EGMapEdit

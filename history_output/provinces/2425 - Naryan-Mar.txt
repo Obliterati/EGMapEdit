@@ -17,5 +17,3 @@ discovered_by = YAR
 discovered_by = PLT
 discovered_by = SMO
 discovered_by = NZH
-1445.1.2 = {
- } #No changes from EGMapEdit

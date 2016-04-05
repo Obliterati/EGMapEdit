@@ -16,9 +16,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = FER
-add_core = MOD
-controller = MOD
-owner = MOD
+add_core = FER
+controller = FER
+owner = FER
 religion = catholic 
 culture = romagnan 
 } # EG/vanilla merge added by Obliterati with EGMapEdit

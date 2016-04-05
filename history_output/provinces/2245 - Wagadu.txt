@@ -22,6 +22,6 @@ remove_core = ZAF
 add_core = ZAF
 controller = ZAF
 owner = ZAF
-religion = animism
+religion = shamanism #Fetishism
 culture = soninke 
 } # EG/vanilla merge added by Obliterati with EGMapEdit

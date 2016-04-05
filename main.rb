@@ -5,22 +5,48 @@ def is_hidden?(filename)
   filename[0] == "."
 end
 
-def file_cleaner(filename)
+def file_cleaner(filename, *writer)
   file = File.open(filename).drop(0)
+  eg_entry_start = 0
+  eg_entry_end = 0
   safe_text = file.each { |line| line.encode!(invalid: :replace)}
+    # binding.pry
+  safe_text.each_with_index do |line, index| 
+    if line[0..7] == "1445.1.2" || line[0..7] == "1445.1.1"
+      eg_entry_start = index
+      safe_text.each_with_index do |line, index|
+        if line[0] == "}"
+          eg_entry_end = index
+        end
+      end
+    end
+  end
+
+  if eg_entry_start != 0
+    eg_entry = safe_text[eg_entry_start...(eg_entry_end+1)]
+  else
+    eg_entry = '# All changes implemented by Obliterati with EGMapEdit'
+  end
+
   safe_text.each_with_index do |line, index| 
     if line[0..3].to_i >= 1444
       first_history_line_number = index - 1
-      safe_text = safe_text.slice!(0..first_history_line_number)
+      safe_text = safe_text.slice(0..first_history_line_number)
     end
   end
+
   safe_text.each_with_index do |line, index| 
-    if line =~ /add_local_autonomy =/ || line =~ /estate/ || line =~ /fort_15th/ || line =~ /unrest/
-      puts 'found minor info'
-      safe_text = safe_text.slice(0..index-1) + safe_text.slice(index..-1)
+    if line =~ /add_local_autonomy =/ || line =~ /estate =/ || line =~ /fort_15th = yes/ || line =~ /unrest =/
+      puts "found minor info for #{filename}"
+      safe_text = safe_text.slice(0..index-1) + safe_text.slice((index+1)..-1)
     end
   end
-  File.open(filename, 'w+') {|f| f.puts safe_text}
+
+  safe_text.push(eg_entry)
+  if writer == 'yes'
+    File.open(filename, 'w+') {|f| f.puts safe_text}
+  end
+  safe_text
 end
 
 def file_reader(filename)
@@ -31,6 +57,10 @@ def file_reader(filename)
   end
   safe_text = file.each { |line| line.encode!(invalid: :replace)}
   safe_text
+end
+
+def discoveries_getter(text)
+  discoveries = text.select { |line| line =~ /(discovered_by)/ }
 end
 
 def tag_getter(text)
@@ -80,6 +110,29 @@ end
 history_string
 end
 
+def discoveries_writer(filename)
+  old_text = file_reader(old_filename(filename))
+  discoveries = discoveries_getter(old_text)
+  first_history_line_number = 0
+  
+  text = file_cleaner(filename)
+  text.each_with_index do |line, index| 
+    if line[0] == 1
+      first_history_line_number = index - 1
+    end
+  end
+  if first_history_line_number != 0
+    safe_text = text.slice(0..first_history_line_number) + discoveries + text.slice((first_history_line_number + 1)..-1)
+  else
+    final_line = text[-1]
+    safe_text = text[0..-2] + discoveries
+    safe_text.push(final_line)
+  end
+  # binding.pry
+  File.open(filename, 'w+') {|f| f.puts safe_text}
+  safe_text
+end
+
 def full_writer(filename)
   File.open(filename, 'a') { |f| f.puts history_string(filename) }
 end
@@ -114,15 +167,27 @@ def full_run(directory)
   end
 end
 
+# Dir.foreach("history_new/provinces") do |file|
+#   if !is_hidden?(file)
+#     file_cleaner("history_new/provinces/#{file}")
+#     discoveries_writer("history_new/provinces/#{file}")
+#   end
+# end
+
+
 # ACTUAL RUN
 
-puts 'cleaning files...'
-Dir.foreach("history_output/provinces") do |file|
-  if !is_hidden?(file)
-    file_cleaner("history_output/provinces/#{file}") 
-    puts "cleaned #{file}"
-  end
-end
-puts 'files cleaned'
+# puts 'cleaning files...'
+# Dir.foreach("history_output/provinces") do |file|
+#   if !is_hidden?(file)
+#     file_cleaner("history_output/provinces/#{file}") 
+#     puts "cleaned #{file}\n"
+#   end
+# end
+# puts 'files cleaned'
 
-full_run("history_output/provinces")
+file_cleaner("history_new/provinces/107 - Brescia.txt", 'yes')
+# discoveries_writer("history_new/provinces/1026 - Mutsu.txt")
+
+
+# full_run("history_output/provinces")

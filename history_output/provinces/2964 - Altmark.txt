@@ -16,9 +16,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = BRA
-add_core = MAG
-controller = MAG
-owner = MAG
+add_core = BRA
+controller = BRA
+owner = BRA
 religion = catholic
 culture = saxon
 } # EG/vanilla merge added by Obliterati with EGMapEdit

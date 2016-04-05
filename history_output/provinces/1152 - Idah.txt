@@ -22,6 +22,6 @@ remove_core = NUP
 add_core = NUP
 controller = NUP
 owner = NUP
-religion = animism
+religion = shamanism #Fetishism
 culture = nupe
 } # EG/vanilla merge added by Obliterati with EGMapEdit

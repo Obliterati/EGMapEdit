@@ -17,9 +17,9 @@ extra_cost = 10
 
 1445.1.2 = {
 remove_core = POL
-add_core = KRA
-controller = KRA
-owner = KRA
-religion = jewish
+add_core = POL
+controller = POL
+owner = POL
+religion = catholic
 culture = polish
 } # EG/vanilla merge added by Obliterati with EGMapEdit

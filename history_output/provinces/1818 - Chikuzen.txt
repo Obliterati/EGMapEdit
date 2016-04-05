@@ -30,5 +30,5 @@ add_core = OUC
 controller = OUC
 owner = OUC
 religion = shinto
-culture = japanese
+culture = kyushuan
 } # EG/vanilla merge added by Obliterati with EGMapEdit

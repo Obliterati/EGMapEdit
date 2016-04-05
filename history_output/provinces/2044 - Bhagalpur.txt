@@ -16,9 +16,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = BNG
-add_core = KMT
-controller = KMT
-owner = KMT
+add_core = BNG
+controller = BNG
+owner = BNG
 religion = hinduism
 culture = bengali
 } # EG/vanilla merge added by Obliterati with EGMapEdit

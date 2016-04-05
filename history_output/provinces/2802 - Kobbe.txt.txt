@@ -18,6 +18,6 @@ remove_core = DAR
 add_core = DAR
 controller = DAR
 owner = DAR
-religion = animism
+religion = shamanism #Fetishism
 culture = nubian 
 } # EG/vanilla merge added by Obliterati with EGMapEdit

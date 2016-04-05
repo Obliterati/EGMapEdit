@@ -18,11 +18,3 @@ discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
-1445.1.2 = {
-remove_core = CHA
-add_core = CHA
-controller = CHA
-owner = CHA
-religion = hinduism
-culture = cham
-} # EG/vanilla merge added by Obliterati with EGMapEdit

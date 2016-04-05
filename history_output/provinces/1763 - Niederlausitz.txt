@@ -17,9 +17,9 @@ discovered_by = ottoman
 1436.7.5 = { unrest = 0 } # Peace is signed in Jihlava
 1445.1.2 = {
 remove_core = BOH
-add_core = SAX
-controller = SAX
-owner = SAX
+add_core = BOH
+controller = BOH
+owner = BOH
 religion = catholic
 culture = saxon
 } # EG/vanilla merge added by Obliterati with EGMapEdit

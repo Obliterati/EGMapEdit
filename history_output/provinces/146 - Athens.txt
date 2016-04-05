@@ -1,9 +1,28 @@
 #<File:0x007fcc638623d8>
 1445.1.2 = {
-remove_core = NIL
-add_core = ATH
-controller = ATH
-owner = ATH
+remove_core = VEN
+add_core = VEN
+1445.1.2 = {
+remove_core = VEN
+add_core = VEN
+controller = VEN
+owner = VEN
+religion = orthodox
+culture = greek
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = VEN
+add_core = VEN
+controller = VEN
+owner = VEN
+religion = orthodox
+culture = greek
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = VEN
+add_core = VEN
+controller = VEN
+owner = VEN
 religion = orthodox
 culture = greek
 } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -14,4 +14,10 @@ native_hostileness = 9
 discovered_by = south_american
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = CAS
+add_core = CAS
+controller = CAS
+owner = CAS
+religion = animism
+culture = carib
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,6 +1,27 @@
 #<File:0x007fcc651a8900>
 1445.1.2 = {
-remove_core = NIL
+remove_core = BIJ
+add_core = BIJ
+controller = BIJ
+owner = BIJ
+1445.1.2 = {
+remove_core = BIJ
+add_core = BIJ
+controller = BIJ
+owner = BIJ
+religion = hinduism
+culture = marathi
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = BIJ
+add_core = BIJ
+controller = BIJ
+owner = BIJ
+religion = hinduism
+culture = marathi
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = BIJ
 add_core = BIJ
 controller = BIJ
 owner = BIJ

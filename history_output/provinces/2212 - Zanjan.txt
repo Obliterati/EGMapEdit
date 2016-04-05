@@ -16,9 +16,9 @@ discovered_by = indian
 
 1445.1.2 = {
 remove_core = PER
-add_core = TAB
-controller = TAB
-owner = TAB
+add_core = PER
+controller = PER
+owner = PER
 religion = shiite
 culture = azerbaijani
 } # EG/vanilla merge added by Obliterati with EGMapEdit

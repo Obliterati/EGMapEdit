@@ -15,4 +15,10 @@ discovered_by = MAY
 discovered_by = mesoamerican
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = GBR
+add_core = GBR
+controller = GBR
+owner = GBR
+religion = animism 
+culture = miskito 
+} # EG/vanilla merge added by Obliterati with EGMapEdit

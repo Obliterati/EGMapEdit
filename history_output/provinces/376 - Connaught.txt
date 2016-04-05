@@ -15,9 +15,9 @@ discovered_by = eastern
 
 1445.1.2 = {
 remove_core = CNN
-add_core = IRE
-controller = IRE
-owner = IRE
+add_core = CNN
+controller = CNN
+owner = CNN
 religion = catholic
 culture = irish
 } # EG/vanilla merge added by Obliterati with EGMapEdit

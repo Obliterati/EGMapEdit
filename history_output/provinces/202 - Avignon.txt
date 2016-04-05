@@ -1,6 +1,27 @@
 #<File:0x007fcc650cfee8>
 1445.1.2 = {
-remove_core = NIL
+remove_core = AVI
+add_core = AVI
+controller = AVI
+owner = AVI
+1445.1.2 = {
+remove_core = AVI
+add_core = AVI
+controller = AVI
+owner = AVI
+religion = catholic
+culture = occitain
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = AVI
+add_core = AVI
+controller = AVI
+owner = AVI
+religion = catholic
+culture = occitain
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = AVI
 add_core = AVI
 controller = AVI
 owner = AVI

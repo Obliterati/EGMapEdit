@@ -1,6 +1,27 @@
 #<File:0x007fcc63831238>
 1445.1.2 = {
-remove_core = NIL
+remove_core = CHP
+add_core = CHP
+controller = CHP
+owner = CHP
+1445.1.2 = {
+remove_core = CHP
+add_core = CHP
+controller = CHP
+owner = CHP
+religion = catholic
+culture = cosmopolitan_french
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = CHP
+add_core = CHP
+controller = CHP
+owner = CHP
+religion = catholic
+culture = cosmopolitan_french
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = CHP
 add_core = CHP
 controller = CHP
 owner = CHP

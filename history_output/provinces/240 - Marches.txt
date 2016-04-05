@@ -16,9 +16,9 @@ discovered_by = eastern
 
 1445.1.2 = {
 remove_core = ENG
-add_core = WLS
-controller = WLS
-owner = WLS
+add_core = ENG
+controller = ENG
+owner = ENG
 religion = catholic
 culture = english
 } # EG/vanilla merge added by Obliterati with EGMapEdit

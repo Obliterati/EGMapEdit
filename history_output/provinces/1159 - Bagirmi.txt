@@ -19,6 +19,6 @@ remove_core = YAO
 add_core = YAO
 controller = YAO
 owner = YAO
-religion = animism
+religion = shamanism #Fetishism
 culture = bilala #bagirmi
 } # EG/vanilla merge added by Obliterati with EGMapEdit

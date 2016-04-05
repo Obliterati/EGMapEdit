@@ -14,9 +14,9 @@ add_local_autonomy = 25
 
 1445.1.2 = {
 remove_core = NOV
-add_core = KRL
-controller = KRL
-owner = KRL
+add_core = NOV
+controller = NOV
+owner = NOV
 religion = orthodox
 culture = karelian
 } # EG/vanilla merge added by Obliterati with EGMapEdit

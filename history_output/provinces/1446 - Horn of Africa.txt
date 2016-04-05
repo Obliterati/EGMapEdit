@@ -13,5 +13,3 @@ discovered_by = MLI
 discovered_by = SFA
 
 1421.1.1 = { discovered_by = MNG }
-1445.1.2 = {
- } #No changes from EGMapEdit

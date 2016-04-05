@@ -16,9 +16,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = TEU
-add_core = MAZ
-controller = MAZ
-owner = MAZ
+add_core = TEU
+controller = TEU
+owner = TEU
 religion = catholic
 culture = polish
 } # EG/vanilla merge added by Obliterati with EGMapEdit

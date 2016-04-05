@@ -1,6 +1,25 @@
 #<File:0x007fcc65077400>
 1445.1.2 = {
-remove_core = NIL
+remove_core = PIS
+add_core = PIS
+1445.1.2 = {
+remove_core = PIS
+add_core = PIS
+controller = PIS
+owner = PIS
+religion = catholic 
+culture = tuscan 
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = PIS
+add_core = PIS
+controller = PIS
+owner = PIS
+religion = catholic 
+culture = tuscan 
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = PIS
 add_core = PIS
 controller = PIS
 owner = PIS

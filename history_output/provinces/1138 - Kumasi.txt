@@ -19,6 +19,6 @@ remove_core = ASH
 add_core = ASH
 controller = ASH
 owner = ASH
-religion = animism
+religion = shamanism #Fetishism
 culture = aka
 } # EG/vanilla merge added by Obliterati with EGMapEdit

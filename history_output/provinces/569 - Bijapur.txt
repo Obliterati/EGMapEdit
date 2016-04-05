@@ -18,9 +18,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = BAH
-add_core = BIJ
-controller = BIJ
-owner = BIJ
+add_core = BAH
+controller = BAH
+owner = BAH
 religion = hinduism
 culture = kannada
 } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -23,5 +23,5 @@ add_core = SCO
 controller = SCO
 owner = SCO
 religion = catholic
-culture = scottish
+culture = highland_scottish #Mix of Highland and Lowland Scotts 
 } # EG/vanilla merge added by Obliterati with EGMapEdit

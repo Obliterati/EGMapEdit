@@ -19,6 +19,6 @@ remove_core = OYO
 add_core = OYO
 controller = OYO
 owner = OYO
-religion = animism
+religion = shamanism #Fetishism
 culture = yorumba
 } # EG/vanilla merge added by Obliterati with EGMapEdit

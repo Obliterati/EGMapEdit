@@ -14,4 +14,10 @@ native_hostileness = 2
 discovered_by = north_american
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = APA
+add_core = APA
+controller = APA
+owner = APA
+religion = totemism
+culture = pueblo
+} # EG/vanilla merge added by Obliterati with EGMapEdit

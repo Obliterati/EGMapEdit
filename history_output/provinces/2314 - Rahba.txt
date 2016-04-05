@@ -1,9 +1,30 @@
 #<File:0x007fcc648ad6e8>
 1445.1.2 = {
-remove_core = NIL
-add_core = SYR
-controller = SYR
-owner = SYR
+remove_core = MAM
+add_core = MAM
+controller = MAM
+owner = MAM
+1445.1.2 = {
+remove_core = MAM
+add_core = MAM
+controller = MAM
+owner = MAM
+religion = sunni
+culture = al_suryah_arabic
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = MAM
+add_core = MAM
+controller = MAM
+owner = MAM
+religion = sunni
+culture = al_suryah_arabic
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = MAM
+add_core = MAM
+controller = MAM
+owner = MAM
 religion = sunni
 culture = al_suryah_arabic
 } # EG/vanilla merge added by Obliterati with EGMapEdit

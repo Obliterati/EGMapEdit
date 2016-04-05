@@ -1,6 +1,25 @@
 #<File:0x007fcc651a04f8>
 1445.1.2 = {
-remove_core = NIL
+remove_core = EPI
+add_core = EPI
+1445.1.2 = {
+remove_core = EPI
+add_core = EPI
+controller = EPI
+owner = EPI
+religion = orthodox
+culture = greek
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = EPI
+add_core = EPI
+controller = EPI
+owner = EPI
+religion = orthodox
+culture = greek
+} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = EPI
 add_core = EPI
 controller = EPI
 owner = EPI

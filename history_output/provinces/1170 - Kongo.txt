@@ -22,6 +22,6 @@ remove_core = KON
 add_core = KON
 controller = KON
 owner = KON
-religion = shamanism
+religion = shamanism #Fetishism
 culture = kongolese
 } # EG/vanilla merge added by Obliterati with EGMapEdit

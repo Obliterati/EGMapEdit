@@ -17,9 +17,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = STY
-add_core = TIR
-controller = TIR
-owner = TIR
+add_core = STY
+controller = STY
+owner = STY
 religion = catholic
 culture = austrian
 } # EG/vanilla merge added by Obliterati with EGMapEdit

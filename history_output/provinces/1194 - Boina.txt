@@ -13,4 +13,10 @@ native_ferocity = 4
 native_hostileness = 9
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = SKA
+add_core = SKA
+controller = SKA
+owner = SKA
+religion = shamanism #Fetishism
+culture = madagasque #Malagasy
+} # EG/vanilla merge added by Obliterati with EGMapEdit

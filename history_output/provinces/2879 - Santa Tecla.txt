@@ -14,4 +14,10 @@ native_ferocity = 1
 native_hostileness = 5
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = GUA
+add_core = GUA
+controller = GUA
+owner = GUA
+religion = animism
+culture = guarani
+} # EG/vanilla merge added by Obliterati with EGMapEdit

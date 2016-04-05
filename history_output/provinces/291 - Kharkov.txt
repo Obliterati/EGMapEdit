@@ -20,6 +20,6 @@ remove_core = CHR
 add_core = CHR
 controller = CHR
 owner = CHR
-religion = orthodox
+religion = sunni
 culture = ruthenian
 } # EG/vanilla merge added by Obliterati with EGMapEdit

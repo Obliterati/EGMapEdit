@@ -22,6 +22,6 @@ remove_core = SON
 add_core = SON
 controller = SON
 owner = SON
-religion = animism
+religion = shamanism #Fetishism
 culture = songhai #Dogon
 } # EG/vanilla merge added by Obliterati with EGMapEdit

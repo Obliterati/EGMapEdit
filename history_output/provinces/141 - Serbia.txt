@@ -11,7 +11,6 @@ base_tax = 5
 base_production = 4
 base_manpower = 3
 is_city = yes
-fort_15th = yes
 add_core = SER
 discovered_by = western
 discovered_by = eastern
@@ -20,11 +19,3 @@ discovered_by = ottoman
 
 1402.1.1 = { capital = "Beograd" }
 1430.1.1 = { capital = "Smederevo" }
-1445.1.2 = {
-remove_core = SER
-add_core = SER
-controller = SER
-owner = SER
-religion = orthodox
-culture = serbian
-} # EG/vanilla merge added by Obliterati with EGMapEdit

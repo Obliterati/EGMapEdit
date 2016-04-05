@@ -17,9 +17,9 @@ discovered_by = nomad_group
 
 1445.1.2 = {
 remove_core = KAR
-add_core = ERE
-controller = ERE
-owner = ERE
+add_core = KAR
+controller = KAR
+owner = KAR
 religion = sunni
 culture = turkish
 } # EG/vanilla merge added by Obliterati with EGMapEdit

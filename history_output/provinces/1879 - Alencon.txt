@@ -21,9 +21,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = ALE
-add_core = ORL
-controller = ORL
-owner = ORL
+add_core = ALE
+controller = ALE
+owner = ALE
 religion = catholic
 culture = cosmopolitan_french
 } # EG/vanilla merge added by Obliterati with EGMapEdit

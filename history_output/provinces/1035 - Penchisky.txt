@@ -18,4 +18,10 @@ discovered_by = CHV
 discovered_by = KMC
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = {
+add_core = {
+controller = {
+owner = {
+religion = tengri_pagan_reformed
+culture = kamchatkan
+} # EG/vanilla merge added by Obliterati with EGMapEdit

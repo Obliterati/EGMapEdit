@@ -22,6 +22,6 @@ remove_core = ZZZ
 add_core = ZZZ
 controller = ZZZ
 owner = ZZZ
-religion = animism
+religion = shamanism #Fetishism
 culture = hausa 
 } # EG/vanilla merge added by Obliterati with EGMapEdit

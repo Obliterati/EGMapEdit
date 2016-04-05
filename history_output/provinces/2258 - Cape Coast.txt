@@ -15,4 +15,10 @@ base_manpower = 1
 discovered_by = sub_saharan
 
 1445.1.2 = {
- } #No changes from EGMapEdit
+remove_core = POR
+add_core = POR
+controller = POR
+owner = POR
+religion = shamanism #Fetishism
+culture = aka
+} # EG/vanilla merge added by Obliterati with EGMapEdit

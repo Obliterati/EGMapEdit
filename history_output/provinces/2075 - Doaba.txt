@@ -22,9 +22,9 @@ discovered_by = chinese
 } #First revolt of Bahlul Lodi
 1445.1.2 = {
 remove_core = DLH
-add_core = PUN
-controller = PUN
-owner = PUN
+add_core = DLH
+controller = DLH
+owner = DLH
 religion = hinduism
 culture = panjabi
 } # EG/vanilla merge added by Obliterati with EGMapEdit
