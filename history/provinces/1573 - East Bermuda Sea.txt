@@ -2,3 +2,7 @@
 1516.1.23 = { discovered_by = SPA }
 1524.1.1 = { discovered_by = FRA } # Giovanni da Verrazzano
 
+
+
+
+

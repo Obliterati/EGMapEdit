@@ -1,4 +1,4 @@
-#Hï¿½lsingland-Gï¿½strikland-Medelpad, from Gï¿½vle to Nï¿½s
+#Hälsingland-Gästrikland-Medelpad, from Gävle to Näs
 
 add_core = SWE
 owner = SWE
@@ -10,8 +10,13 @@ base_tax = 2
 base_production = 2
 trade_goods = fish
 base_manpower = 2
-capital = "Gï¿½vle"
+capital = "Gävle"
 is_city = yes
+
+
+
 discovered_by = eastern
 discovered_by = western
 
+
+1527.6.1 = { religion = protestant}

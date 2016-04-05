@@ -33,12 +33,6 @@ def file_reader(filename)
   safe_text
 end
 
-def cores_getter(text)
-  added_cores = text.select { |line| line =~ /(add_core = .{3})/ }
-  tag_strings = added_cores.map { |core| core.to_s.split('=') }.flatten.select { |chunk| chunk =~ /([A-Z]{3})/}.map {|string| string.strip}
-  tags = tag_strings.map {|tag| tag[0..2]}
-end
-
 def tag_getter(text)
  tag = text.find { |line| line =~ /(add_core = .{3})/ }
  if !tag
@@ -124,8 +118,10 @@ end
 
 puts 'cleaning files...'
 Dir.foreach("history_output/provinces") do |file|
-  file_cleaner("history_output/provinces/#{file}") if !is_hidden?(file)
-  puts "cleaned #{file}" if !is_hidden?(file)
+  if !is_hidden?(file)
+    file_cleaner("history_output/provinces/#{file}") 
+    puts "cleaned #{file}"
+  end
 end
 puts 'files cleaned'
 

@@ -12,3 +12,16 @@ native_size = 2
 native_ferocity = 1
 native_hostileness = 3
 
+
+
+
+1631.1.1 = { discovered_by = RUS }
+
+1632.5.1 = {
+	owner = RUS
+	controller = RUS
+	religion = orthodox
+	culture = russian
+	is_city = yes
+	trade_goods = fur
+}

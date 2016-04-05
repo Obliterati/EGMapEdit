@@ -1,9 +1,6 @@
-#1799 - Malawi
+#1799 - Urgoma
 
-discovered_by = ZAN
-discovered_by = MBA
-discovered_by = MDI
-discovered_by = MLI
-discovered_by = SFA
-discovered_by = ZIM
-discovered_by = PTE
+
+discovered_by = east_african
+discovered_by = central_african
+

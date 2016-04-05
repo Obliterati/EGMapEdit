@@ -13,10 +13,14 @@ capital = "Venezia"
 is_city = yes	# Estimated 
 shipyard = yes
 add_core = VEN
+
+
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
 extra_cost = 15
 
 add_permanent_province_modifier = {
@@ -24,3 +28,21 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
+1797.10.17 = {
+	owner = HAB
+	controller = HAB
+	add_core = HAB
+} # Treaty of Campo Formio
+1805.12.26 = {
+	owner = ITA
+	controller = ITA
+	add_core = ITA
+	remove_core = HAB
+} # Treaty of Pressburg
+1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
+1814.4.11 = {
+	owner = HAB
+	controller = HAB
+	add_core = HAB
+	remove_core = ITA
+} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
