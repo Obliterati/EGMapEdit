@@ -9,3 +9,5 @@ discovered_by = ottoman }
  } #No changes from EGMapEdit
 1445.1.2 = {
  } #No changes from EGMapEdit
+1445.1.2 = {
+ } #No changes from EGMapEdit
