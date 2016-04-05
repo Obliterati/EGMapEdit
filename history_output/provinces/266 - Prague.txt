@@ -1,5 +1,3 @@
-#266 - Bohemia
-
 owner = BOH
 controller = BOH
 add_core = BOH
@@ -7,7 +5,7 @@ capital = "Praha"
 culture = czech
 religion = catholic
 trade_goods = cloth 
-hre = no
+hre = yes
 base_tax = 8 
 base_production = 8
 base_manpower = 5
@@ -23,12 +21,6 @@ add_permanent_province_modifier = {
 	name = inland_center_of_trade_modifier
 	duration = -1
 }
-1445.1.2 = {
-remove_core = BOH
-add_core = BOH
-controller = BOH
-owner = BOH
-religion = catholic
-culture = czech
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1419.12.1 = { revolt = { type = heretic_rebels size = 1 } controller = REB } # Hussite Wars, Battle of Nekmir
+1436.7.5 = { revolt = {} controller = BOH } # Peace is signed in Jihlava

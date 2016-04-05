@@ -1,9 +1,7 @@
-#282 - Yedisan
-
-owner = ZAZ
-controller = ZAZ
-culture = ruthenian
-religion = orthodox
+owner = CRI
+controller = CRI
+culture = crimean
+religion = sunni
 hre = no
 base_tax = 4
 base_production = 4
@@ -11,6 +9,9 @@ trade_goods = wool
 base_manpower = 3
 capital = "Hajibey"
 is_city = yes
+estate = estate_cossacks
+add_local_autonomy = 25
+add_core = CRI
 add_core = ZAZ
 discovered_by = western
 discovered_by = eastern
@@ -23,13 +24,4 @@ add_permanent_province_modifier = {
 	name = dnestr_estuary_modifier
 	duration = -1
 }
-1445.1.2 = {
-remove_core = ZAZ
-add_core = CRI
-add_core = ZAZ
-controller = CRI
-owner = CRI
-religion = sunni
-culture = crimean
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

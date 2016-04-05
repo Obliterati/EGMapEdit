@@ -1,6 +1,5 @@
-# 1769 - Görz
-owner = AQU
-controller = AQU
+controller = HAB
+add_core = HAB
 add_core = AQU
 culture = austrian
 religion = catholic
@@ -9,9 +8,15 @@ base_production = 5
 trade_goods = iron
 base_manpower = 2
 capital = "Gorizia"
+estate = estate_nobles
 is_city = yes
 hre = yes
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+
+1420.1.1 = {
+	add_core = STY
+	capital = "Gï¿½rz"
+} # To the Habsburgs

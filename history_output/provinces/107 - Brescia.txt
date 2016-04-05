@@ -1,5 +1,3 @@
-#107 - Brescia
-
 owner = MLO		# From 1426
 controller = MLO
 culture = lombard 
@@ -16,13 +14,8 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = MLO
-add_core = MLO
-add_core = VEN
-controller = MLO
-owner = MLO
-religion = catholic 
-culture = lombard 
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1426.1.1 = {	owner = VEN
+	controller = VEN
+	add_core = VEN
+}

@@ -1,7 +1,5 @@
-# 180 Poitou - Principal cities: Poitiers
-
-owner = ORL
-controller = ORL
+owner = FRA
+controller = FRA
 capital = "Poitiers"
 is_city = yes
 culture = cosmopolitan_french
@@ -11,18 +9,11 @@ base_tax = 6
 base_production = 6
 trade_goods = salt
 base_manpower = 5
-add_core = ORL
+add_core = FRA
 fort_15th = yes
+estate = estate_burghers
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = ORL
-add_core = FRA
-controller = FRA
-owner = FRA
-religion = catholic 
-culture = cosmopolitan_french
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

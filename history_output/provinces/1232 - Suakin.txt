@@ -1,8 +1,6 @@
-#1232 - Suakin
-
-owner = MAK
-controller = MAK
-add_core = MAK
+owner = MAM
+controller = MAM
+add_core = MAM
 culture = nubian #beja
 religion = sunni
 capital = "Suakin"
@@ -28,12 +26,4 @@ discovered_by = MBA
 discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
-1445.1.2 = {
-remove_core = MAK
-add_core = MAM
-controller = MAM
-owner = MAM
-religion = sunni
-culture = nubian #beja
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

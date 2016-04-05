@@ -1,7 +1,5 @@
-# - Ghadames
-
-owner = ALG
-controller = ALG 
+owner = GHD
+controller = GHD 
 culture = tunisian
 religion = sunni
 capital = "Ghadames"
@@ -11,15 +9,9 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = ALG
+add_core = GHD
+discovered_by = western
+discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-discovered_by = western1445.1.2 = {
-remove_core = ALG
-add_core = GHD
-controller = GHD
-owner = GHD
-religion = sunni
-culture = tunisian
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

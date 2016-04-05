@@ -1,9 +1,7 @@
-#230 - Algarve
-
-owner = GRA
-controller = GRA
+owner = POR
+controller = POR
 culture = portugese
-religion = sunni
+religion = catholic
 capital = "Faro"
 trade_goods = fish
 hre = no
@@ -11,17 +9,9 @@ base_tax = 4
 base_production = 4
 base_manpower = 4
 is_city = yes 
-add_core = GRA
+add_core = POR
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-1445.1.2 = {
-remove_core = GRA
-add_core = POR
-controller = POR
-owner = POR
-religion = catholic
-culture = portugese
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

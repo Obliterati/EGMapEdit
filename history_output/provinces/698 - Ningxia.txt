@@ -1,8 +1,6 @@
-#698 - Guyuan
-
-owner = CSH
-controller = CSH
-add_core = CSH
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = mongol
 religion = confucianism
 capital = "Ningxia"
@@ -16,13 +14,4 @@ add_core = CSH
 fort_15th = yes #the Nine Garrisons
 discovered_by = chinese
 discovered_by = nomad_group
-1445.1.2 = {
-remove_core = CSH
-add_core = MNG
-add_core = CSH
-controller = MNG
-owner = MNG
-religion = confucianism
-culture = mongol
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

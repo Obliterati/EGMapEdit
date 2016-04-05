@@ -1,5 +1,3 @@
-#1771 - Erz
-
 owner = BOH
 controller = BOH
 add_core = BOH
@@ -7,7 +5,7 @@ capital = "Litomerice"
 culture = czech
 religion = catholic
 trade_goods = iron 
-hre = no
+hre = yes
 base_tax = 5 
 base_production = 5
 base_manpower = 3
@@ -16,12 +14,6 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = BOH
-add_core = BOH
-controller = BOH
-owner = BOH
-religion = catholic
-culture = czech
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1419.12.1 = { unrest = 5 } # Hussite Wars, Battle of Nekmir
+1436.7.5 = { unrest = 0 } # Peace is signed in Jihlava

@@ -1,8 +1,6 @@
-# 2164 - Namning
-
-owner = CGS
-controller = CGS
-add_core = CGS
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = zhuang
 religion = confucianism
 capital = "Namning"
@@ -15,12 +13,4 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = indian
-1445.1.2 = {
-remove_core = CGS
-add_core = MNG
-controller = MNG
-owner = MNG
-religion = confucianism
-culture = zhuang
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

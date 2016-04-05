@@ -1,7 +1,5 @@
-#1247 - Corsica
-
-owner = COR
-controller = COR
+owner = GEN
+controller = GEN
 culture = sardinian
 religion = catholic
 capital = "Bastia"
@@ -11,18 +9,10 @@ base_production = 3
 trade_goods = naval_supplies
 base_manpower = 2
 is_city = yes
+add_core = GEN
 add_core = COR
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = COR
-add_core = GEN
-add_core = COR
-controller = GEN
-owner = GEN
-religion = catholic
-culture = sardinian
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

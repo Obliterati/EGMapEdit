@@ -1,5 +1,3 @@
-# 202 Avignon - Principal cities: Avignon
-
 owner = AVI		# The great Schism
 controller = AVI
 capital = "Avignon"
@@ -12,19 +10,16 @@ base_production = 3
 trade_goods = cloth
 base_manpower = 4
 add_core = AVI
-fort_15th = yes
+add_core = PRO
+
+fort_15th = yes # Le Palais des Papes is super strong, and built on and beneath a natural rock formation
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = AVI
-add_core = AVI
-add_core = PRO
-add_core = PAP
-controller = AVI
-owner = AVI
-religion = catholic
-culture = occitain
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1417.10.18 = {
+	owner = PAP
+	controller = PAP
+	add_core = PAP
+	estate = estate_church
+}

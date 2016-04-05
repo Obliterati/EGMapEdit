@@ -1,8 +1,6 @@
-# 2175 - Runing
-
-owner = LNG
-controller = LNG
-add_core = LNG
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = zhongyuan
 religion = confucianism
 capital = "Runing"
@@ -15,13 +13,4 @@ is_city = yes
 add_core = LNG
 discovered_by = chinese
 discovered_by = nomad_group
-1445.1.2 = {
-remove_core = LNG
-add_core = MNG
-add_core = LNG
-controller = MNG
-owner = MNG
-religion = confucianism
-culture = zhongyuan
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

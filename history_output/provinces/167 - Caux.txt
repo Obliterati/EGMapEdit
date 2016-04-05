@@ -1,9 +1,8 @@
-# 167 Caux - Principal cities: Rouen
-
-owner = NRM
-controller = NRM
+owner = FRA
+controller = FRA
 capital = "Rouen"
 is_city = yes
+estate = estate_burghers
 culture = normand
 religion = catholic
 hre = no
@@ -11,6 +10,7 @@ base_tax = 5
 base_production = 5
 trade_goods = cloth
 base_manpower = 5
+add_core = FRA
 add_core = NRM
 discovered_by = eastern
 discovered_by = western
@@ -22,15 +22,6 @@ add_permanent_province_modifier = {
 	name = seine_estuary_modifier
 	duration = -1
 }
-1445.1.2 = {
-remove_core = NRM
-add_core = FRA
-add_core = NRM
-add_core = ENG
-add_core = ENG
-controller = FRA
-owner = FRA
-religion = catholic
-culture = normand
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1419.1.19 = { controller = ENG } # Incorporated into England by Henry V
+1420.5.12 = { owner = ENG add_core = ENG } # Treaty of Troyes

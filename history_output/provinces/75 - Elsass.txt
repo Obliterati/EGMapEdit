@@ -1,0 +1,18 @@
+owner = ALS
+controller = ALS 
+capital = "Stra�burg"
+is_city = yes
+culture = swabian
+religion = catholic
+hre = yes
+base_tax = 4 
+base_production = 4
+trade_goods = wine
+base_manpower = 5
+add_core = ALS
+fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+

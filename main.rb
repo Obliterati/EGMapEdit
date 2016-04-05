@@ -13,6 +13,7 @@ def file_cleaner(filename)
       safe_text = safe_text.slice!(0..first_history_line_number)
     end
   end
+  File.open(filename, 'w+') {|f| f.puts safe_text}
   safe_text
 end
 
@@ -43,17 +44,39 @@ def old_filename(filename)
   old_filename = ['history', '/provinces/', filename_frag[-1]].join.to_s
 end
 
+def eg_filename(filename)
+ filename_frag = filename.split('/')
+ eg_filename = ['history_new', '/provinces/', filename_frag[-1]].join.to_s
+end
+
 def history_string(filename)
-  vanilla_tag = tag_getter(old_filename(filename))
-  eg_tag = tag_getter(filename)
-  extra_tags = cores_getter(old_filename(filename))
-  history = "1445.1.2 = {\nremove_core = #{ eg_tag }\n#{extra_tags.map {|tag| "add_core = #{tag}\n"}.join}controller = #{ vanilla_tag }\nowner = #{ vanilla_tag }\n#{ getter(old_filename(filename), 'religion') }#{ getter(old_filename(filename), 'culture') }\n  } # EG/vanilla merge added by Obliterati with EGMapEdit"
+  original_file = old_filename(filename)
+  eg_file = eg_filename(filename)
+  vanilla_tag = tag_getter(original_file)
+  eg_tag = tag_getter(eg_file)
+  extra_tags = cores_getter(original_file)
+
+
+  #{extra_tags.map {|tag| "add_core = #{tag}\n"}.join}
+
+  history = "1445.1.2 = {\nremove_core = #{ vanilla_tag }\ncontroller = #{ eg_tag }\nowner = #{ eg_tag }\n#{ getter(eg_file, 'religion') }#{ getter(eg_file, 'culture') }\n  } # EG/vanilla merge added by Obliterati with EGMapEdit"
+
+  # YOU NOW NEED TO ACCOUNT FOR DEVELOPMENT ALTERATIONS
 end
 
 def full_writer(filename)
   File.open(filename, 'a') { |f| f.puts history_string(filename) }
 end
 
+puts 'cleaning files...'
+Dir.foreach("history_output/provinces") do |file|
+  begin
+    puts "cleaned #{file}" if !is_hidden?(file)
+    file_cleaner("history_output/provinces/#{file}") if !is_hidden?(file)
+
+  end
+end
+puts 'files cleaned'
 
 puts 'merging files...'
 Dir.foreach("history_output/provinces") do |file|
@@ -62,12 +85,12 @@ Dir.foreach("history_output/provinces") do |file|
  rescue SystemCallError
   puts "FAILED: #{file} - SystemCallError"
   next
- rescue NoMethodError
-  puts "Failed: #{file} - NoMethodError"
+rescue NoMethodError
+  puts "FAILED: #{file} - NoMethodError"
   next
- rescue ArgumentError
+rescue ArgumentError
   puts "FAILED: #{file} - ArgumentError"
   next
- end
+end
 end
 puts 'all files merged.'

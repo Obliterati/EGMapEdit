@@ -1,0 +1,16 @@
+owner = PSK
+controller = PSK
+culture = russian
+religion = orthodox
+hre = no
+base_tax = 7 
+base_production = 7
+trade_goods = grain
+base_manpower = 4
+capital = "Pskov"
+is_city = yes
+fort_15th = yes
+add_core = PSK
+discovered_by = western
+discovered_by = eastern
+

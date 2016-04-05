@@ -1,7 +1,6 @@
-#208 - León
-
-owner = LON	#Juan II of Castille
-controller = LON
+owner = CAS		#Juan II of Castille
+controller = CAS
+add_core = CAS
 add_core = LON
 culture = leonese
 religion = catholic
@@ -10,19 +9,10 @@ base_tax = 5
 base_production = 5
 trade_goods = grain
 base_manpower = 2
-capital = "León"
+capital = "Leï¿½n"
 is_city = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = LON
-add_core = CAS
-add_core = LON
-controller = CAS
-owner = CAS
-religion = catholic
-culture = leonese
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

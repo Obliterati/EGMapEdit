@@ -1,0 +1,25 @@
+owner = ALO
+controller = ALO
+add_core = ALO
+culture = nubian 
+religion = animism
+capital = "Qoz Rajab"
+base_manpower = 1
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+is_city = yes
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = AJU
+discovered_by = MBA
+discovered_by = MDI
+discovered_by = MLI
+discovered_by = SFA
+discovered_by = ZIM
+discovered_by = muslim
+discovered_by = ottoman
+

@@ -1,8 +1,6 @@
-# 2137 - Daming
-
-owner = YAN
-controller = YAN
-add_core = YAN
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = chihan
 religion = confucianism
 capital = "Daming"
@@ -15,13 +13,4 @@ is_city = yes
 add_core = YAN
 discovered_by = chinese
 discovered_by = nomad_group
-1445.1.2 = {
-remove_core = YAN
-add_core = MNG
-add_core = YAN
-controller = MNG
-owner = MNG
-religion = confucianism
-culture = chihan
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,7 +1,5 @@
-#372 - Ulster
-
-owner = IRE
-controller = IRE
+owner = TYR
+controller = TYR
 culture = irish
 religion = catholic
 hre = no
@@ -11,17 +9,9 @@ trade_goods = grain
 base_manpower = 2
 capital = "Carrickfergus"
 is_city = yes
-add_core = IRE
+add_core = TYR
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-1445.1.2 = {
-remove_core = IRE
-add_core = TYR
-controller = TYR
-owner = TYR
-religion = catholic
-culture = irish
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

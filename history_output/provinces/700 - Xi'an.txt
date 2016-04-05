@@ -1,8 +1,6 @@
-#700 - Shaanxi
-
-owner = QIN
-controller = QIN
-add_core = QIN
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = xibei
 religion = confucianism
 capital = "Xi'an"
@@ -23,14 +21,4 @@ add_permanent_province_modifier = {
 	name = inland_center_of_trade_modifier
 	duration = -1
 }
-1445.1.2 = {
-remove_core = QIN
-add_core = MNG
-add_core = CSH
-add_core = QIN
-controller = MNG
-owner = MNG
-religion = confucianism
-culture = xibei
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

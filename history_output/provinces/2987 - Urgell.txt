@@ -1,7 +1,6 @@
-# - Urgell
-
-owner = CAT
-controller = CAT
+owner = ARA		#Alfons V of Aragon
+controller = ARA
+add_core = ARA
 add_core = CAT
 culture = catalan
 religion = catholic
@@ -10,19 +9,14 @@ base_tax = 3
 base_production = 3
 trade_goods = wool 
 base_manpower = 2
-capital = "Tàrrega" 
+capital = "Tï¿½rrega" 
+estate = estate_nobles
 is_city = yes 
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = CAT
-add_core = ARA
-add_core = CAT
-controller = ARA
-owner = ARA
-religion = catholic
-culture = catalan
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1412.6.29 = { revolt = { type = pretender_rebels size = 0 } controller = REB } # Jaime de Urgell Uprising
+1413.1.1 = { revolt = {} revolt = { type = pretender_rebels size = 1 leader = "Jaume d'Urgell" } controller = REB }
+1413.8.31 = { revolt = {} controller = ARA }

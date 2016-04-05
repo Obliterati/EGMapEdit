@@ -1,5 +1,3 @@
-#127 - Sardinia
-
 owner = SAR
 controller = SAR
 culture = sardinian 
@@ -16,15 +14,5 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = SAR
-add_core = SAR
-add_core = ARA
-add_core = ARA
-add_core = ARA
-controller = SAR
-owner = SAR
-religion = catholic 
-culture = sardinian 
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1420.1.1 = { owner = ARA add_core = ARA controller = ARA } # Conquered by Aragon

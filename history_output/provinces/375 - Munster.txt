@@ -1,7 +1,5 @@
-#375 - Munster
-
-owner = IRE
-controller = IRE
+owner = MNS
+controller = MNS
 culture = irish
 religion = catholic
 hre = no
@@ -11,17 +9,9 @@ trade_goods = fish
 base_manpower = 2
 capital = "Cork"
 is_city = yes
-add_core = IRE
+add_core = MNS
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-1445.1.2 = {
-remove_core = IRE
-add_core = MNS
-controller = MNS
-owner = MNS
-religion = catholic
-culture = irish
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

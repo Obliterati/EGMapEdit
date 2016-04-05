@@ -1,7 +1,5 @@
-#540 - Coromandel 
-
-owner = KRK
-controller = KRK
+owner = VIJ
+controller = VIJ
 culture = tamil
 religion = hinduism
 capital = "Kuddaluru"
@@ -11,7 +9,10 @@ base_tax = 8
 base_production = 8
 base_manpower = 5
 is_city = yes
-add_core = KRK
+estate = estate_burghers
+add_core = VIJ
+add_core = MAD
+add_local_autonomy = 25
 discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
@@ -23,13 +24,5 @@ add_permanent_province_modifier = {
 	name = center_of_trade_modifier
 	duration = -1
 }
-1445.1.2 = {
-remove_core = KRK
-add_core = VIJ
-add_core = MAD
-controller = VIJ
-owner = VIJ
-religion = hinduism
-culture = tamil
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1405.1.1 = { discovered_by = chinese }

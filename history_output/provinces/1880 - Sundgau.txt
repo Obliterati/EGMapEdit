@@ -1,8 +1,7 @@
-# 1880 - Sundgau
-
-owner = ALS
-controller = ALS
-add_core = ALS
+owner = HAB
+controller = HAB
+add_core = STY
+add_core = HAB
 capital = "Altkirch"
 is_city = yes
 culture = swabian
@@ -16,13 +15,4 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = ALS
-add_core = STY
-add_core = HAB
-controller = HAB
-owner = HAB
-religion = catholic
-culture = swabian
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

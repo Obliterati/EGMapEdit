@@ -1,9 +1,8 @@
-#1859 - Torun
-
-owner = MAZ
-controller = MAZ
+owner = TEU
+controller = TEU
 capital = "Torun"
 is_city = yes
+estate = estate_burghers
 culture = polish
 religion = catholic
 trade_goods = grain
@@ -11,17 +10,9 @@ hre = no
 base_tax = 5
 base_production = 5
 base_manpower = 2
-add_core = MAZ
+add_core = TEU
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = MAZ
-add_core = TEU
-controller = TEU
-owner = TEU
-religion = catholic
-culture = polish
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

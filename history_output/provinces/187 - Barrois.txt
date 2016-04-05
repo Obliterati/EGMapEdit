@@ -1,5 +1,3 @@
-# 187 Barrois - Principal cities: Verdun
-
 owner = BAR
 controller = BAR
 capital = "Bar-le-Duc"
@@ -13,19 +11,10 @@ trade_goods = cloth
 base_manpower = 5
 add_core = BAR
 fort_15th = yes
+ # La Notre-Dame de Verdun
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = BAR
-add_core = BAR
-add_core = PRO
-add_core = PRO
-add_core = PRO
-controller = BAR
-owner = BAR
-religion = catholic
-culture = burgundian
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1430.6.26 = { owner = PRO controller = PRO add_core = PRO }

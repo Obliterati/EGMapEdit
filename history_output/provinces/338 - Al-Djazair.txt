@@ -1,7 +1,5 @@
-#338 - Al-Djazair
-
-owner = ALG
-controller = ALG 
+owner = TUN
+controller = TUN 
 culture = algerian
 religion = sunni
 capital = "Al-Djazair"
@@ -11,18 +9,10 @@ base_tax = 5
 base_production = 5
 base_manpower = 3
 is_city = yes
+add_core = TUN
 add_core = ALG
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
-1445.1.2 = {
-remove_core = ALG
-add_core = TUN
-add_core = ALG
-controller = TUN
-owner = TUN
-religion = sunni
-culture = algerian
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

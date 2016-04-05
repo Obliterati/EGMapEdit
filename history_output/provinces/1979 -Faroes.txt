@@ -1,0 +1,14 @@
+owner = NOR
+controller = NOR 
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+trade_goods = fish
+capital = "Torshavn"
+is_city = yes
+add_core = NOR
+discovered_by = western
+

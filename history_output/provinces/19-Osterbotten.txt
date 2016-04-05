@@ -1,9 +1,7 @@
-#Österbotten, down to Vasa.
-
-owner = FIN
-controller = FIN
-add_core = FIN
-culture = finnish
+owner = SWE
+controller = SWE
+add_core = SWE
+culture = swedish
 religion = catholic
 hre = no
 base_tax = 1 
@@ -14,12 +12,4 @@ capital = "Korsholm"
 is_city = yes
 discovered_by = eastern
 discovered_by = western
-1445.1.2 = {
-remove_core = FIN
-add_core = SWE
-controller = SWE
-owner = SWE
-religion = catholic
-culture = swedish
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

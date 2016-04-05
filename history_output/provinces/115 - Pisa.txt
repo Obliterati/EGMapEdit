@@ -1,5 +1,3 @@
-#115 - Pisa
-
 owner = PIS
 controller = PIS
 culture = tuscan 
@@ -11,18 +9,13 @@ trade_goods = wine
 base_manpower = 3    
 capital = "Pisa" 
 is_city = yes	# Estimated 
+estate = estate_burghers
 add_core = PIS
+add_core = LAN
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = PIS
-add_core = PIS
-add_core = LAN
-controller = PIS
-owner = PIS
-religion = catholic 
-culture = tuscan 
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1405.1.1 = { unrest = 0 owner = LAN revolt = { type = nationalist_rebels size = 1 } controller = REB }
+1406.10.9 = { revolt = {} controller = LAN }

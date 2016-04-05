@@ -1,8 +1,6 @@
-# 182 Vermandois - Principal cities: Compiègne
-
-owner = CHP
-controller = CHP
-capital = "Compiègne"
+owner = FRA
+controller = FRA
+capital = "Compiï¿½gne"
 is_city = yes
 culture = cosmopolitan_french
 religion = catholic
@@ -12,21 +10,12 @@ base_production = 5
 trade_goods = grain
 base_manpower = 4
 add_core = CHP
+add_core = PIC
+add_core = FRA
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = CHP
-add_core = CHP
-add_core = PIC
-add_core = FRA
-add_core = ENG
-add_core = ENG
-add_core = ENG
-controller = FRA
-owner = FRA
-religion = catholic
-culture = cosmopolitan_french
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1420.5.12 = { owner = ENG controller = ENG add_core = ENG } # Treaty of Troyes, ceded to the English
+1429.1.1 = { owner = FRA controller = FRA remove_core = ENG } # Retaken by the French

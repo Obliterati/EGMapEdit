@@ -1,5 +1,3 @@
-#142 - Corfu
-
 owner = CEP
 controller = CEP
 culture = greek
@@ -17,12 +15,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = CEP
-add_core = CEP
-controller = CEP
-owner = CEP
-religion = orthodox
-culture = greek
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

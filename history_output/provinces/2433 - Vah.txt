@@ -1,8 +1,6 @@
-#2433 - Kemerovo
-
-owner = SIB
-controller = SIB
-add_core = SIB
+owner = SHY
+controller = SHY
+add_core = SHY
 culture = ostyaki
 religion = tengri_pagan_reformed
 capital = "Vah"
@@ -14,13 +12,5 @@ base_manpower = 2
 is_city = yes
 add_core = SIB
 discovered_by = nomad_group
-1445.1.2 = {
-remove_core = SIB
-add_core = SHY
-add_core = SIB
-controller = SHY
-owner = SHY
-religion = tengri_pagan_reformed
-culture = ostyaki
+unrest = 15
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

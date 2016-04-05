@@ -1,16 +1,15 @@
-#224 - Andalucía
-
-owner = GRA
-controller = GRA
-add_core = GRA
+owner = CAS	#Juan II of Castille
+controller = CAS
+add_core = CAS
 culture = andalucian
-religion = sunni
+religion = catholic
 hre = no
 base_tax = 7
 base_production = 7
 trade_goods = wine 
 base_manpower = 4
-capital = "Sevilla" 
+capital = "Sevilla"
+estate = estate_nobles
 is_city = yes
 discovered_by = western
 discovered_by = muslim
@@ -26,12 +25,4 @@ add_permanent_province_modifier = {
 	name = center_of_trade_modifier
 	duration = -1
 }
-1445.1.2 = {
-remove_core = GRA
-add_core = CAS
-controller = CAS
-owner = CAS
-religion = catholic
-culture = andalucian
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

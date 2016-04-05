@@ -1,5 +1,3 @@
-#2340 - Grane
-
 owner = ALH
 controller = ALH
 culture = bedouin_arabic
@@ -27,15 +25,5 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 discovered_by = ZIM
-1445.1.2 = {
-remove_core = ALH
-add_core = ALH
-add_core = QAR
-add_core = QAR
-add_core = QAR
-controller = ALH
-owner = ALH
-religion = shiite
-culture = bedouin_arabic
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1433.1.1 = { owner = QAR controller = QAR add_core = QAR }

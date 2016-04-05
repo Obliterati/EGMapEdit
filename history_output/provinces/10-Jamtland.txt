@@ -1,25 +1,16 @@
-#Jämtland+Härjedalen
-
-owner = SMI
-controller = SMI
-culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
-religion = shamanism
+owner = NOR
+controller = NOR
+culture = norwegian
+religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1
 trade_goods = fur
 base_manpower = 1
-capital = "Frösön"
+capital = "Frï¿½sï¿½n"
+add_local_autonomy = 25
 is_city = yes
-add_core = SMI
+add_core = NOR
 discovered_by = eastern
 discovered_by = western
-1445.1.2 = {
-remove_core = SMI
-add_core = NOR
-controller = NOR
-owner = NOR
-religion = catholic
-culture = norwegian
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

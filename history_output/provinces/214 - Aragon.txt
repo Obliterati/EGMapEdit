@@ -1,0 +1,17 @@
+owner = ARA		# Alfons V of Aragon
+controller = ARA
+add_core = ARA
+culture = aragonese
+religion = catholic
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = iron
+base_manpower = 5
+capital = "Zaragoza" 
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+

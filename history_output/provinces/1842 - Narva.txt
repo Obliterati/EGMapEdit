@@ -1,7 +1,6 @@
-#Narva
-
-owner = EST
-controller = EST
+owner = LIV
+controller = LIV
+add_core = LIV
 add_core = EST
 culture = estonian
 religion = catholic
@@ -14,13 +13,4 @@ capital = "Narva"
 is_city = yes
 discovered_by = western
 discovered_by = eastern
-1445.1.2 = {
-remove_core = EST
-add_core = LIV
-add_core = EST
-controller = LIV
-owner = LIV
-religion = catholic
-culture = estonian
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

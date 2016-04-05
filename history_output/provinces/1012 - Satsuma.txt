@@ -1,0 +1,18 @@
+owner = SMZ
+controller = SMZ
+culture = japanese
+religion = shinto
+capital = "Kagoshima"
+trade_goods = fish
+hre = no
+base_tax = 3
+base_manpower = 3
+base_production = 3
+is_city = yes
+add_core = SMZ
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+

@@ -1,7 +1,5 @@
-# 2353 - Tortkara
-
-owner = KZH
-controller = KZH
+owner = NOG
+controller = NOG
 culture = khazak
 religion = sunni
 capital = "Tortkara"
@@ -12,17 +10,10 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = KZH
+add_core = NOG
 discovered_by = KZH
+discovered_by = KAZ
 discovered_by = nomad_group
 discovered_by = ottoman
 discovered_by = muslim
-1445.1.2 = {
-remove_core = KZH
-add_core = KZH
-add_core = NOG
-controller = NOG
-owner = NOG
-religion = sunni
-culture = khazak
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

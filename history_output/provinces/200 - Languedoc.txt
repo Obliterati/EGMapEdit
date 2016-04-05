@@ -1,7 +1,5 @@
-# 200 Languedoc - Principal cities: Montpellier
-
-owner = TOU
-controller = TOU
+owner = FRA
+controller = FRA
 capital = "Montpellier"
 is_city = yes
 culture = occitain
@@ -11,18 +9,10 @@ base_tax = 7
 base_production = 7
 trade_goods = cloth
 base_manpower = 6
+add_core = FRA
 add_core = TOU
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = TOU
-add_core = FRA
-add_core = TOU
-controller = FRA
-owner = FRA
-religion = catholic
-culture = occitain
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

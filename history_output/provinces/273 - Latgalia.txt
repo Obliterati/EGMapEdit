@@ -1,0 +1,17 @@
+owner = LIV
+controller = LIV
+add_core = LIV
+culture = latvian
+religion = catholic
+capital = "D�naburg"
+fort_15th = yes #D�naburg
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+estate = estate_church #Kokenhusen
+discovered_by = western
+discovered_by = eastern
+

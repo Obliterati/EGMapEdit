@@ -1,11 +1,9 @@
-#East Karelia
-
-owner = KRL
-controller = KRL 
+owner = NOV
+controller = NOV 
 capital = "Kem"
 culture = karelian
 religion = orthodox
-add_core = KRL
+add_core = NOV
 hre = no
 is_city = yes
 base_tax = 1 
@@ -14,12 +12,5 @@ trade_goods = salt
 base_manpower = 1
 discovered_by = western
 discovered_by = eastern
-1445.1.2 = {
-remove_core = KRL
-add_core = NOV
-controller = NOV
-owner = NOV
-religion = orthodox
-culture = karelian
+add_local_autonomy = 25
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

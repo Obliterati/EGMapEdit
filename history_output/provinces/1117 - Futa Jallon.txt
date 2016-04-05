@@ -1,0 +1,16 @@
+owner = MAL
+controller = MAL
+culture = fulani
+is_city = yes
+base_manpower = 3
+religion = animism
+capital = "Timbo"
+trade_goods = ivory
+hre = no
+estate = estate_nobles
+base_tax = 3 
+base_production = 3
+add_core = MAL
+add_core = KBU #Subject province within the empire
+discovered_by = sub_saharan
+

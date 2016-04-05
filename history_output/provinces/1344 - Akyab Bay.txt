@@ -1,0 +1,4 @@
+discovered_by = ottoman
+discovered_by = chinese
+
+1405.1.1 = { discovered_by = MNG }

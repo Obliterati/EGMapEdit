@@ -1,17 +1,15 @@
-#379 - Judea
-
-owner = KOJ
-controller = KOJ
+owner = MAM
+controller = MAM
 culture = al_suryah_arabic
-religion = catholic
-capital = "Jerusalem"
+religion = sunni
+capital = "Al Quds"
 trade_goods = grain
 hre = no
 base_tax = 5 
 base_production = 5
 base_manpower = 3
 is_city = yes
-add_core = KOJ
+add_core = MAM
 estate = estate_church
 discovered_by = muslim
 discovered_by = ottoman
@@ -29,12 +27,4 @@ discovered_by = MBA
 discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
-1445.1.2 = {
-remove_core = KOJ
-add_core = MAM
-controller = MAM
-owner = MAM
-religion = sunni
-culture = al_suryah_arabic
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

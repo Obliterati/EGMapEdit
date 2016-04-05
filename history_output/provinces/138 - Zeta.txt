@@ -1,5 +1,3 @@
-#138 - Zeta
-
 owner = MON
 controller = MON
 culture = serbian
@@ -11,20 +9,11 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 is_city = yes
+estate = estate_nobles
 add_core = MON
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-1445.1.2 = {
-remove_core = MON
-add_core = MON
-add_core = SER
-add_core = SER
-add_core = SER
-controller = MON
-owner = MON
-religion = orthodox
-culture = serbian
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1421.1.1 = { owner = SER controller = SER add_core = SER } # Annexed to Serbia

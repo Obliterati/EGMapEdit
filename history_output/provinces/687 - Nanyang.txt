@@ -1,8 +1,6 @@
-#687 - Zhoujiakou
-
-owner = TNG
-controller = TNG
-add_core = TNG
+owner = MNG
+controller = MNG
+add_core = MNG
 culture = zhongyuan
 religion = confucianism
 capital = "Nanyang"
@@ -16,14 +14,4 @@ add_core = TNG
 add_core = LNG
 discovered_by = chinese
 discovered_by = nomad_group
-1445.1.2 = {
-remove_core = TNG
-add_core = MNG
-add_core = TNG
-add_core = LNG
-controller = MNG
-owner = MNG
-religion = confucianism
-culture = zhongyuan
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit

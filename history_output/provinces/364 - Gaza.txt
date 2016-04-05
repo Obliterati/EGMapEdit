@@ -1,9 +1,7 @@
-#364 - Gaza
-
-owner = KOJ
-controller = KOJ
+owner = MAM
+controller = MAM
 culture = al_suryah_arabic
-religion = catholic
+religion = sunni
 capital = "Gazzah"
 trade_goods = salt
 hre = no
@@ -12,7 +10,7 @@ base_production = 3
 base_manpower = 2
 estate = estate_nobles
 is_city = yes
-add_core = KOJ
+add_core = MAM
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
@@ -29,12 +27,4 @@ discovered_by = MBA
 discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
-1445.1.2 = {
-remove_core = KOJ
-add_core = MAM
-controller = MAM
-owner = MAM
-religion = sunni
-culture = al_suryah_arabic
 
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
