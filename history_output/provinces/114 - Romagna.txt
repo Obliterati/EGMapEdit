@@ -6,6 +6,7 @@ base_production = 6
 trade_goods = salt
 base_manpower = 4    
 capital = "Bologna"
+estate = estate_nobles
 is_city = yes	# Estimated 
 add_core = PAP
 discovered_by = western

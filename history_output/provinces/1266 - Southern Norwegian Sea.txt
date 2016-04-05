@@ -2,8 +2,4 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 1445.1.2 = {
-remove_core = NIL
-add_core = NIL
-controller = NIL
-owner = NIL
-religion = 0culture = 0} # EG/vanilla merge added by Obliterati with EGMapEdit
+ } #No changes from EGMapEdit

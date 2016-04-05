@@ -27,7 +27,6 @@ def file_reader(filename)
   begin
     file = File.open(filename).drop(0)
   rescue SystemCallError
-    puts "No corresponding file for #{filename}"
     file = File.open(old_filename(filename)).drop(0)
   end
   safe_text = file.each { |line| line.encode!(invalid: :replace)}
@@ -82,11 +81,9 @@ def history_string(filename)
  if eg_tag != 'NIL'
   history_string = "1445.1.2 = {\nremove_core = #{ vanilla_tag }\nadd_core = #{ eg_tag }\ncontroller = #{ eg_tag }\nowner = #{ eg_tag }\n#{ getter(eg_text, 'religion') }#{ getter(eg_text, 'culture') }} # EG/vanilla merge added by Obliterati with EGMapEdit"
 else
-  history_string = "1445.1.2 = {\n #No changes from EGMapEdit}"
+  history_string = "1445.1.2 = {\n } #No changes from EGMapEdit"
 end
 history_string
-
-binding.pry
 end
 
 def full_writer(filename)
@@ -98,6 +95,7 @@ def full_run(directory)
   system_call_errors = 0
   no_method_errors = 0
   argument_errors = 0
+  count = Dir.glob(File.join(directory, '**', '*')).select { |file| File.file?(file) }.count - 3
   Dir.foreach(directory) do |file|
     begin
       file_reader("#{directory}/#{file}") if !is_hidden?(file)
@@ -116,20 +114,19 @@ def full_run(directory)
       next
     end
   end
-  count = Dir.glob(File.join(directory, '**', '*')).select { |file| File.file?(file) }.count - 3
-  puts "all files merged.  Errors as follows:\nSystemCallErrors: #{system_call_errors}\nNoMethodErrors: #{no_method_errors}\nArgumentErrors: #{argument_errors}\nof a total #{count} files"
+  puts "\nAll files merged.  Errors as follows:\nSystemCallErrors: #{system_call_errors}\nNoMethodErrors: #{no_method_errors}\nArgumentErrors: #{argument_errors}\nof a total #{count} files"
+  if system_call_errors == 0 && no_method_errors == 0 && argument_errors == 0
+    puts "No errors!"
+  end
 end
-
-# file_cleaner("history/provinces/117 - Siena.txt")
-full_writer("history_output/provinces/982 - Unamakik.txt")
 
 # ACTUAL RUN
 
-# puts 'cleaning files...'
-# Dir.foreach("history_output/provinces") do |file|
-#   file_cleaner("history_output/provinces/#{file}") if !is_hidden?(file)
-#   puts "cleaned #{file}" if !is_hidden?(file)
-# end
-# puts 'files cleaned'
+puts 'cleaning files...'
+Dir.foreach("history_output/provinces") do |file|
+  file_cleaner("history_output/provinces/#{file}") if !is_hidden?(file)
+  puts "cleaned #{file}" if !is_hidden?(file)
+end
+puts 'files cleaned'
 
-# full_run("history_output/provinces")
+full_run("history_output/provinces")

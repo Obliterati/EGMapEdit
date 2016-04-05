@@ -14,10 +14,4 @@ native_ferocity = 1
 native_hostileness = 1
 
 1445.1.2 = {
-remove_core = NIL
-add_core = NIL
-controller = NIL
-owner = NIL
-religion = animism
-culture = het
-} # EG/vanilla merge added by Obliterati with EGMapEdit
+ } #No changes from EGMapEdit

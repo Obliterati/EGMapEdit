@@ -16,10 +16,4 @@ discovered_by = TER
 discovered_by = TID
 
 1445.1.2 = {
-remove_core = NIL
-add_core = NIL
-controller = NIL
-owner = NIL
-religion = animism
-culture = papuan
-} # EG/vanilla merge added by Obliterati with EGMapEdit
+ } #No changes from EGMapEdit

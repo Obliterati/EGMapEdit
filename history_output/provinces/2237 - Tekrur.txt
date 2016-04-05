@@ -14,10 +14,4 @@ base_manpower = 1
 discovered_by = sub_saharan
 
 1445.1.2 = {
-remove_core = NIL
-add_core = NIL
-controller = NIL
-owner = NIL
-religion = animism
-culture = fulani
-} # EG/vanilla merge added by Obliterati with EGMapEdit
+ } #No changes from EGMapEdit

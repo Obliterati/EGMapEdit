@@ -4,6 +4,7 @@ owner = MAL
 controller = MAL
 add_core = MAL
 is_city = yes
+estate = estate_nobles
 culture = dyola 
 religion = animism
 capital = "Tingrela"
@@ -16,6 +17,8 @@ native_ferocity = 4
 native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
+add_local_autonomy = 25
+
 1445.1.2 = {
 remove_core = MAL
 add_core = MAL
