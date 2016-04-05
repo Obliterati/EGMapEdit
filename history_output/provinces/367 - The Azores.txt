@@ -23,9 +23,9 @@ native_hostileness = 0
 }
 1445.1.2 = {
 remove_core = POR
+add_core = POR
 controller = POR
 owner = POR
 religion = animism
 culture = berber
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

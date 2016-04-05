@@ -20,9 +20,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = LOR
+add_core = LOR
 controller = LOR
 owner = LOR
 religion = catholic
 culture = burgundian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -19,9 +19,9 @@ discovered_by = north_american
 
 1445.1.2 = {
 remove_core = POW
+add_core = POW
 controller = POW
 owner = POW
 religion = totemism
 culture = powhatan
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

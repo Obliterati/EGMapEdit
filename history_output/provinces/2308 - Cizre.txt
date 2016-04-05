@@ -16,3 +16,11 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = IRQ
+add_core = IRQ
+controller = IRQ
+owner = IRQ
+religion = sunni
+culture = kurdish
+} # EG/vanilla merge added by Obliterati with EGMapEdit

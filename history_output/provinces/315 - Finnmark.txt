@@ -11,3 +11,11 @@ add_core = NOR
 discovered_by = eastern
 discovered_by = western
 
+1445.1.2 = {
+remove_core = NOR
+add_core = SMI
+controller = SMI
+owner = SMI
+religion = shamanism
+culture = sapmi
+} # EG/vanilla merge added by Obliterati with EGMapEdit

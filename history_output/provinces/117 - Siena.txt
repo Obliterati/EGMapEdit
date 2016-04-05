@@ -21,9 +21,9 @@ discovered_by = ottoman
 1404.1.1 = { unrest = 0 owner = SIE controller = SIE } # Visconti is driven out
 1445.1.2 = {
 remove_core = SIE
+add_core = SIE
 controller = SIE
 owner = SIE
 religion = catholic 
 culture = tuscan 
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

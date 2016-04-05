@@ -19,9 +19,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = LAU
+add_core = LAU
 controller = LAU
 owner = LAU
 religion = catholic
 culture = hannoverian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

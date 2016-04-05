@@ -17,9 +17,9 @@ discovered_by = andean
 
 1445.1.2 = {
 remove_core = PCJ
+add_core = PCJ
 controller = PCJ
 owner = PCJ
 religion = inti
 culture = aimara
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

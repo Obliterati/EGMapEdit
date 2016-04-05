@@ -22,10 +22,10 @@ discovered_by = chinese
 1439.1.1 = { controller = MLW }
 1441.1.1 = { controller = GDW }
 1445.1.2 = {
-remove_core = GDW
-controller = GDW
-owner = GDW
+remove_core = BRR
+add_core = BRR
+controller = BRR
+owner = BRR
 religion = hinduism
 culture = gondi
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

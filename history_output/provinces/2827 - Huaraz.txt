@@ -18,9 +18,9 @@ discovered_by = CHM
 
 1445.1.2 = {
 remove_core = HJA
+add_core = HJA
 controller = HJA
 owner = HJA
 religion = inti
 culture = inca
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

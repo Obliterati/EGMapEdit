@@ -19,9 +19,9 @@ discovered_by = north_american
 
 1445.1.2 = {
 remove_core = MMI
+add_core = MMI
 controller = MMI
 owner = MMI
 religion = totemism
 culture = illini
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

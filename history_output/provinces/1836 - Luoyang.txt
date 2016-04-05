@@ -13,3 +13,11 @@ add_core = LNG
 discovered_by = chinese
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = MNG
+add_core = LNG
+controller = LNG
+owner = LNG
+religion = confucianism
+culture = zhongyuan
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -18,9 +18,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = KOL
+add_core = KOL
 controller = KOL
 owner = KOL
 religion = catholic
 culture = hannoverian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

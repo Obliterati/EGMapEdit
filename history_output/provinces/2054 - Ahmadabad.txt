@@ -26,9 +26,9 @@ add_permanent_province_modifier = {
 
 1445.1.2 = {
 remove_core = GUJ
+add_core = GUJ
 controller = GUJ
 owner = GUJ
 religion = hinduism
 culture = gujarati
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

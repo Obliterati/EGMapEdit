@@ -30,9 +30,9 @@ discovered_by = SFA
 
 1445.1.2 = {
 remove_core = SHM
+add_core = SHM
 controller = SHM
 owner = SHM
 religion = sunni
 culture = bedouin_arabic
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,1 +1,9 @@
 #<File:0x007fcc648acb08>
+1445.1.2 = {
+remove_core = NIL
+add_core = AQU
+controller = AQU
+owner = AQU
+religion = catholic 
+culture = venetian 
+} # EG/vanilla merge added by Obliterati with EGMapEdit

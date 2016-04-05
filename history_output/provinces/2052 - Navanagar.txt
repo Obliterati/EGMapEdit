@@ -22,9 +22,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = KAT
+add_core = KAT
 controller = KAT
 owner = KAT
 religion = hinduism
 culture = gujarati
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

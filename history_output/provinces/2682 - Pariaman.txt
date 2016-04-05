@@ -20,9 +20,9 @@ discovered_by = ottoman
 1405.1.1 = { discovered_by = MNG }
 1445.1.2 = {
 remove_core = PGR
+add_core = PGR
 controller = PGR
 owner = PGR
 religion = sunni
 culture = sumatran
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

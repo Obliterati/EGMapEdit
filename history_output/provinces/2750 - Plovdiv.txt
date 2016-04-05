@@ -17,3 +17,11 @@ discovered_by = nomad_group
 
 1404.1.1 = { revolt = { type = pretender_rebels size = 0 } controller = REB }
 1413.1.1 = { revolt = {} controller = TUR }
+1445.1.2 = {
+remove_core = TUR
+add_core = BUL
+controller = BUL
+owner = BUL
+religion = orthodox
+culture = bulgarian
+} # EG/vanilla merge added by Obliterati with EGMapEdit

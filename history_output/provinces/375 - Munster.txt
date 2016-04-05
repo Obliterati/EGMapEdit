@@ -13,3 +13,11 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
+1445.1.2 = {
+remove_core = MNS
+add_core = IRE
+controller = IRE
+owner = IRE
+religion = catholic
+culture = irish
+} # EG/vanilla merge added by Obliterati with EGMapEdit

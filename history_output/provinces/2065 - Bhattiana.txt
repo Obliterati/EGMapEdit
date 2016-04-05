@@ -26,10 +26,10 @@ discovered_by = chinese
 	remove_core = MUL
 }
 1445.1.2 = {
-remove_core = MUL
-controller = MUL
-owner = MUL
+remove_core = DLH
+add_core = DLH
+controller = DLH
+owner = DLH
 religion = hinduism
 culture = rajput
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

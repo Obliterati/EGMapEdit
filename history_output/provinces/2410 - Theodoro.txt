@@ -21,9 +21,9 @@ discovered_by = nomad_group
 1390.1.1 = { owner = FEO controller = FEO add_core = FEO remove_core = TRE }
 1445.1.2 = {
 remove_core = TRE
+add_core = TRE
 controller = TRE
 owner = TRE
 religion = orthodox
 culture = goths
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

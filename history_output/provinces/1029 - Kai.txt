@@ -21,9 +21,9 @@ discovered_by = ANU
 
 1445.1.2 = {
 remove_core = TKD
+add_core = TKD
 controller = TKD
 owner = TKD
 religion = shinto
 culture = japanese
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

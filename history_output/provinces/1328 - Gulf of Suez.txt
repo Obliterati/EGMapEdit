@@ -14,3 +14,9 @@ discovered_by = MBA
 discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
+1445.1.2 = {
+remove_core = NIL
+add_core = NIL
+controller = NIL
+owner = NIL
+religion = 0culture = 0} # EG/vanilla merge added by Obliterati with EGMapEdit

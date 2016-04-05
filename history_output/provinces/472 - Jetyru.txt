@@ -20,9 +20,9 @@ discovered_by = GOL
 
 1445.1.2 = {
 remove_core = NOG
+add_core = NOG
 controller = NOG
 owner = NOG
 religion = sunni
 culture = nogaybak
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

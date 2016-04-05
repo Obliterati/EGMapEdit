@@ -21,9 +21,9 @@ discovered_by = ottoman
 1414.8.6 = { owner = URB controller = URB remove_core = NAP }
 1445.1.2 = {
 remove_core = URB
+add_core = URB
 controller = URB
 owner = URB
 religion = catholic 
 culture = umbrian 
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

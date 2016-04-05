@@ -19,9 +19,9 @@ hre = yes
 
 1445.1.2 = {
 remove_core = KLE
+add_core = KLE
 controller = KLE
 owner = KLE
 religion = catholic
 culture = hessian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

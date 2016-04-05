@@ -24,10 +24,10 @@ discovered_by = muslim
 discovered_by = ottoman
 
 1445.1.2 = {
-remove_core = FRA
+remove_core = FOI
+add_core = GUY
 controller = GUY
 owner = GUY
 religion = catholic
 culture = gascon
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -13,3 +13,11 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
+1445.1.2 = {
+remove_core = DAR
+add_core = DAR
+controller = DAR
+owner = DAR
+religion = animism
+culture = nubian 
+} # EG/vanilla merge added by Obliterati with EGMapEdit

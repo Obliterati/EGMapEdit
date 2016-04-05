@@ -21,9 +21,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = JNP
+add_core = JNP
 controller = JNP
 owner = JNP
 religion = hinduism
 culture = avadhi
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

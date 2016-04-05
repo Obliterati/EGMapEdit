@@ -17,3 +17,11 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = MOE
+add_core = MOE
+controller = MOE
+owner = MOE
+religion = orthodox
+culture = greek
+} # EG/vanilla merge added by Obliterati with EGMapEdit

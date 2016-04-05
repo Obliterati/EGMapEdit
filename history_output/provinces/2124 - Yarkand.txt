@@ -19,9 +19,9 @@ discovered_by = indian
 
 1445.1.2 = {
 remove_core = KAS
+add_core = KAS
 controller = KAS
 owner = KAS
 religion = sunni
 culture = uyghur
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

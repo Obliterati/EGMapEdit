@@ -1,2 +1,69 @@
 1741.1.1 = { discovered_by = RUS }
 1778.1.1 = { discovered_by = GBR }
+1445.1.2 = {
+remove_core = NIL
+add_core = NIL
+controller = NIL
+owner = NIL
+religion = 0culture = 0
+  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = NIL
+add_core = NIL
+controller = NIL
+owner = NIL
+religion = 0culture = 0
+  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = NIL
+add_core = NIL
+controller = NIL
+owner = NIL
+religion = 0culture = 0
+  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = NIL
+add_core = NIL
+controller = NIL
+owner = NIL
+religion = 0culture = 0  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = NIL
+add_core = NIL
+controller = NIL
+owner = NIL
+religion = 0culture = 0
+fort_15th = no
+estate = 
+unrest = 0
+ add_local_autonomy = 0  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = NIL
+add_core = NIL
+controller = NIL
+owner = NIL
+religion = 0culture = 0fort_15th = no
+estate = 
+unrest = 0
+ add_local_autonomy = 0  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = NIL
+add_core = NIL
+controller = NIL
+owner = NIL
+religion = 0culture = 0fort_15th = no
+estate = 
+unrest = 0
+ add_local_autonomy = 0  } # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = NIL
+add_core = NIL
+controller = NIL
+owner = NIL
+religion = 0culture = 0} # EG/vanilla merge added by Obliterati with EGMapEdit
+1445.1.2 = {
+remove_core = NIL
+add_core = NIL
+controller = NIL
+owner = NIL
+religion = 0culture = 0} # EG/vanilla merge added by Obliterati with EGMapEdit

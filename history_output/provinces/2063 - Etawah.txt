@@ -1,1 +1,9 @@
 #<File:0x007fcc63863b70>
+1445.1.2 = {
+remove_core = NIL
+add_core = ODH
+controller = ODH
+owner = ODH
+religion = hinduism
+culture = kanauji
+} # EG/vanilla merge added by Obliterati with EGMapEdit

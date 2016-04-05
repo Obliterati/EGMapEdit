@@ -19,9 +19,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = SLZ
+add_core = SLZ
 controller = SLZ
 owner = SLZ
 religion = catholic
 culture = austrian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

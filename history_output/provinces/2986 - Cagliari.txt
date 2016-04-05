@@ -1,1 +1,9 @@
 #<File:0x007fcc64064298>
+1445.1.2 = {
+remove_core = NIL
+add_core = SAR
+controller = SAR
+owner = SAR
+religion = catholic 
+culture = sardinian 
+} # EG/vanilla merge added by Obliterati with EGMapEdit

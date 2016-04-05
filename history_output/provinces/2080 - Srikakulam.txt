@@ -25,9 +25,9 @@ discovered_by = chinese
 } # Conquered by Gajapatis
 1445.1.2 = {
 remove_core = ORI
+add_core = ORI
 controller = ORI
 owner = ORI
 religion = hinduism
 culture = oriya
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,1 +1,9 @@
 #<File:0x007fcc650963a0>
+1445.1.2 = {
+remove_core = NIL
+add_core = PTA
+controller = PTA
+owner = PTA
+religion = hinduism
+culture = panjabi
+} # EG/vanilla merge added by Obliterati with EGMapEdit

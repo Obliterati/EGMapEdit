@@ -20,9 +20,9 @@ discovered_by = BRT
 
 1445.1.2 = {
 remove_core = BRT
+add_core = BRT
 controller = BRT
 owner = BRT
 religion = tengri_pagan_reformed
 culture = buryat
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

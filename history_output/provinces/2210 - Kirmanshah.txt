@@ -16,3 +16,11 @@ discovered_by = nomad_group
 discovered_by = indian
 fort_15th = yes
 
+1445.1.2 = {
+remove_core = PER
+add_core = ARD
+controller = ARD
+owner = ARD
+religion = shiite
+culture = kurdish
+} # EG/vanilla merge added by Obliterati with EGMapEdit

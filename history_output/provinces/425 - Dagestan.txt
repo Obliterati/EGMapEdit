@@ -19,9 +19,9 @@ discovered_by = nomad_group
 
 1445.1.2 = {
 remove_core = SRV
+add_core = SRV
 controller = SRV
 owner = SRV
 religion = shiite
 culture = dagestani
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

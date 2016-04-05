@@ -12,3 +12,11 @@ add_core = WUU
 discovered_by = chinese
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = MNG
+add_core = WUU
+controller = WUU
+owner = WUU
+religion = confucianism
+culture = jianghuai
+} # EG/vanilla merge added by Obliterati with EGMapEdit

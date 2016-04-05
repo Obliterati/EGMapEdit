@@ -20,9 +20,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = HUN
+add_core = TRA
 controller = TRA
 owner = TRA
 religion = catholic
 culture = ruthenian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

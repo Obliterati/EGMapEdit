@@ -28,9 +28,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = MDI
+add_core = MDI
 controller = MDI
 owner = MDI
 religion = sunni
 culture = somali
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -20,10 +20,10 @@ discovered_by = ottoman
 discovered_by = chinese
 
 1445.1.2 = {
-remove_core = MUL
-controller = MUL
-owner = MUL
+remove_core = DLH
+add_core = DLH
+controller = DLH
+owner = DLH
 religion = sunni
 culture = panjabi
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

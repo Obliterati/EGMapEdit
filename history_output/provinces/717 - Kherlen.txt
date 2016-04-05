@@ -18,9 +18,9 @@ discovered_by = nomad_group
 
 1445.1.2 = {
 remove_core = KHA
+add_core = KHA
 controller = KHA
 owner = KHA
 religion = tengri_pagan_reformed
 culture = khalkha
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

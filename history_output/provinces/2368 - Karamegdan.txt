@@ -22,9 +22,9 @@ discovered_by = KAS
 
 1445.1.2 = {
 remove_core = CHG
+add_core = CHG
 controller = CHG
 owner = CHG
 religion = sunni
 culture = khazak
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

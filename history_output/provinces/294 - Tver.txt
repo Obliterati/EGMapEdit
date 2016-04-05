@@ -19,9 +19,9 @@ discovered_by = KAZ
 
 1445.1.2 = {
 remove_core = TVE
+add_core = TVE
 controller = TVE
 owner = TVE
 religion = orthodox
 culture = russian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

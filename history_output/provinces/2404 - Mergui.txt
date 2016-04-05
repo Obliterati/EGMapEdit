@@ -19,9 +19,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = AYU
+add_core = AYU
 controller = AYU
 owner = AYU
 religion = buddhism
 culture = mon
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

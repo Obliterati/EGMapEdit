@@ -21,9 +21,9 @@ discovered_by = nomad_group
 
 1445.1.2 = {
 remove_core = RYA
+add_core = RYA
 controller = RYA
 owner = RYA
 religion = orthodox
 culture = russian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

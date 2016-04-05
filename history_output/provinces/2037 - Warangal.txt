@@ -19,3 +19,11 @@ discovered_by = nomad_group
 discovered_by = chinese
 add_local_autonomy = 50 #Still partly unsubdued in 1444.
 
+1445.1.2 = {
+remove_core = BAH
+add_core = GOC
+controller = GOC
+owner = GOC
+religion = hinduism
+culture = telegu
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -27,9 +27,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = SFA
+add_core = SFA
 controller = SFA
 owner = SFA
 religion = sunni
 culture = bantu #Tonga
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

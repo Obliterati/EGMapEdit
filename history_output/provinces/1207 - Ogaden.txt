@@ -22,3 +22,11 @@ discovered_by = MLI
 discovered_by = SFA
 discovered_by = ZIM
 
+1445.1.2 = {
+remove_core = NIL
+add_core = NIL
+controller = NIL
+owner = NIL
+religion = sunni
+culture = somali
+} # EG/vanilla merge added by Obliterati with EGMapEdit

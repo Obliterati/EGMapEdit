@@ -17,9 +17,9 @@ base_manpower = 1
 
 1445.1.2 = {
 remove_core = CCQ
+add_core = CCQ
 controller = CCQ
 owner = CCQ
 religion = inti
 culture = aimara
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

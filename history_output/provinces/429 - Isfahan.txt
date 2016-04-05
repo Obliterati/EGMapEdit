@@ -15,3 +15,11 @@ discovered_by = indian
 discovered_by = nomad_group
 #fort_15th = yes #Though in very poor shape and deteriorating
 
+1445.1.2 = {
+remove_core = PER
+add_core = PER
+controller = PER
+owner = PER
+religion = shiite
+culture = persian
+} # EG/vanilla merge added by Obliterati with EGMapEdit

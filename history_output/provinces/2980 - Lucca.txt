@@ -19,9 +19,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = LUC
+add_core = LUC
 controller = LUC
 owner = LUC
 religion = catholic
 culture = tuscan
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

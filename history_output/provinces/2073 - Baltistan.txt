@@ -21,9 +21,9 @@ discovered_by = chinese
 1410.1.1 = { religion = shiite } #Converted to islam in early 15th century
 1445.1.2 = {
 remove_core = LDK
+add_core = LDK
 controller = LDK
 owner = LDK
 religion = buddhism
 culture = kashmiri #Dardic/Shina and Balti
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

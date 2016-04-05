@@ -20,3 +20,11 @@ discovered_by = ottoman
 1399.1.1 = { add_core = FOI }
 1412.6.29 = { revolt = { type = pretender_rebels size = 1 leader = "Jaume d'Urgell"} controller = REB } # Jaime de Urgell Uprising
 1413.1.1 = { revolt = {} controller = ARA }
+1445.1.2 = {
+remove_core = CAT
+add_core = CAT
+controller = CAT
+owner = CAT
+religion = catholic
+culture = catalan
+} # EG/vanilla merge added by Obliterati with EGMapEdit

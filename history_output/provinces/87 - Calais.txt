@@ -14,3 +14,11 @@ discovered_by = ottoman
 fort_15th = yes
 is_city = yes
 
+1445.1.2 = {
+remove_core = ENG
+add_core = NRM
+controller = NRM
+owner = NRM
+religion = catholic
+culture = flemish
+} # EG/vanilla merge added by Obliterati with EGMapEdit

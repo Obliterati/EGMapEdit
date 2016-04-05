@@ -19,9 +19,9 @@ is_city = yes
 
 1445.1.2 = {
 remove_core = WBG
+add_core = WBG
 controller = WBG
 owner = WBG
 religion = catholic
 culture = franconian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

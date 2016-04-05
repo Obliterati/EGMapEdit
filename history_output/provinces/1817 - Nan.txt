@@ -17,9 +17,9 @@ discovered_by = indian
 
 1445.1.2 = {
 remove_core = LNA
+add_core = LNA
 controller = LNA
 owner = LNA
 religion = buddhism
 culture = northern_thai
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

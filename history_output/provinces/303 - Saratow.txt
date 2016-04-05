@@ -19,9 +19,9 @@ discovered_by = nomad_group
 
 1445.1.2 = {
 remove_core = GOL
+add_core = GOL
 controller = GOL
 owner = GOL
 religion = sunni
 culture = mishary
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

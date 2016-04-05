@@ -17,9 +17,9 @@ add_core = QTO
 
 1445.1.2 = {
 remove_core = QTO
+add_core = QTO
 controller = QTO
 owner = QTO
 religion = inti
 culture = cara
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

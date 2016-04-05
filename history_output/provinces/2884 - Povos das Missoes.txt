@@ -19,9 +19,9 @@ native_hostileness = 5
 
 1445.1.2 = {
 remove_core = GUA
+add_core = GUA
 controller = GUA
 owner = GUA
 religion = animism
 culture = guarani
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

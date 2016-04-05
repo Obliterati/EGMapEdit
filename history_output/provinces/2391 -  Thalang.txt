@@ -21,9 +21,9 @@ discovered_by = ottoman
 1405.1.1 = { discovered_by = MNG }
 1445.1.2 = {
 remove_core = LIG
+add_core = LIG
 controller = LIG
 owner = LIG
 religion = sunni
 culture = malayan
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

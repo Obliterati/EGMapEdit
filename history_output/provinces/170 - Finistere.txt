@@ -20,9 +20,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = BRI
+add_core = BRI
 controller = BRI
 owner = BRI
 religion = catholic
 culture = breton
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

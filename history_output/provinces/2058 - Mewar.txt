@@ -21,9 +21,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = MER
+add_core = MER
 controller = MER
 owner = MER
 religion = hinduism
 culture = rajput
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

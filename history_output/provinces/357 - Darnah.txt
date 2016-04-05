@@ -15,3 +15,11 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = MAM
+add_core = FZA
+controller = FZA
+owner = FZA
+religion = sunni
+culture = al_misr_arabic
+} # EG/vanilla merge added by Obliterati with EGMapEdit

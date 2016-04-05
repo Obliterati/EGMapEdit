@@ -21,9 +21,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = KNI
+add_core = KNI
 controller = KNI
 owner = KNI
 religion = orthodox
 culture = greek
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

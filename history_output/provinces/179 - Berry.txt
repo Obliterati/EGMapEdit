@@ -1,1 +1,9 @@
 #<File:0x007fcc64915cc0>
+1445.1.2 = {
+remove_core = NIL
+add_core = NEV
+controller = NEV
+owner = NEV
+religion = catholic
+culture = cosmopolitan_french
+} # EG/vanilla merge added by Obliterati with EGMapEdit

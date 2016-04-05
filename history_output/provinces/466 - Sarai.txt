@@ -14,3 +14,11 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = GOL
+add_core = AST
+controller = AST
+owner = AST
+religion = sunni
+culture = astrakhani
+} # EG/vanilla merge added by Obliterati with EGMapEdit

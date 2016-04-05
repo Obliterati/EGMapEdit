@@ -32,9 +32,9 @@ discovered_by = ottoman
 }
 1445.1.2 = {
 remove_core = DAI
+add_core = DAI
 controller = DAI
 owner = DAI
 religion = mahayana
 culture = vietnamese
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

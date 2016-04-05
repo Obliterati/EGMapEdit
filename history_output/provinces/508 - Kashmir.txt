@@ -20,9 +20,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = KSH
+add_core = KSH
 controller = KSH
 owner = KSH
 religion = hinduism
 culture = kashmiri
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -28,9 +28,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = MLI
+add_core = MLI
 controller = MLI
 owner = MLI
 religion = sunni
 culture = swahili
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

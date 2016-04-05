@@ -29,9 +29,9 @@ discovered_by = indian
 
 1445.1.2 = {
 remove_core = KAF
+add_core = KAF
 controller = KAF
 owner = KAF
 religion = coptic
 culture = sidamo
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

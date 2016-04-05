@@ -12,3 +12,11 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = NOV
+add_core = PSK
+controller = PSK
+owner = PSK
+religion = orthodox
+culture = russian
+} # EG/vanilla merge added by Obliterati with EGMapEdit

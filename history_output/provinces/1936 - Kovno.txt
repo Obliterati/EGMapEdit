@@ -20,9 +20,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = LIT
+add_core = LIT
 controller = LIT
 owner = LIT
 religion = catholic
 culture = lithuanian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

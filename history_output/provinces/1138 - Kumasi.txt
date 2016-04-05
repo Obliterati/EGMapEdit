@@ -14,3 +14,11 @@ native_hostileness = 9
 add_core = ASH
 discovered_by = sub_saharan
 
+1445.1.2 = {
+remove_core = ASH
+add_core = ASH
+controller = ASH
+owner = ASH
+religion = animism
+culture = aka
+} # EG/vanilla merge added by Obliterati with EGMapEdit

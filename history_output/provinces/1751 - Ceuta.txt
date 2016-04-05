@@ -1,1 +1,9 @@
 #<File:0x007fcc6489d720>
+1445.1.2 = {
+remove_core = NIL
+add_core = FEZ
+controller = FEZ
+owner = FEZ
+religion = sunni
+culture = moroccan
+} # EG/vanilla merge added by Obliterati with EGMapEdit

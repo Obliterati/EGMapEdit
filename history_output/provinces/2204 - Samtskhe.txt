@@ -15,3 +15,11 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = GEO
+add_core = ARM
+controller = ARM
+owner = ARM
+religion = coptic
+culture = armenian
+} # EG/vanilla merge added by Obliterati with EGMapEdit

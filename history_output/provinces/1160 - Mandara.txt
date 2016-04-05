@@ -16,9 +16,9 @@ discovered_by = sub_saharan
 
 1445.1.2 = {
 remove_core = KBO
+add_core = KBO
 controller = KBO
 owner = KBO
 religion = animism
 culture = kanuri
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

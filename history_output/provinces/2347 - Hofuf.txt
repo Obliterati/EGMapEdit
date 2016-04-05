@@ -30,9 +30,9 @@ discovered_by = ZIM
 
 1445.1.2 = {
 remove_core = ALH
+add_core = ALH
 controller = ALH
 owner = ALH
 religion = shiite
 culture = bedouin_arabic
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

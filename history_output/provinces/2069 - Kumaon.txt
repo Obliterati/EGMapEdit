@@ -20,9 +20,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = GHR
+add_core = GHR
 controller = GHR
 owner = GHR
 religion = hinduism
 culture = nepali
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -19,9 +19,9 @@ discovered_by = north_american
 
 1445.1.2 = {
 remove_core = FOX
+add_core = FOX
 controller = FOX
 owner = FOX
 religion = totemism
 culture = chiwere
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

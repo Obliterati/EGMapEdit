@@ -15,3 +15,11 @@ discovered_by = muslim
 discovered_by = ottoman
 extra_cost = 10
 
+1445.1.2 = {
+remove_core = POL
+add_core = KRA
+controller = KRA
+owner = KRA
+religion = jewish
+culture = polish
+} # EG/vanilla merge added by Obliterati with EGMapEdit

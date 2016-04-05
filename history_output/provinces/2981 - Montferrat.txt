@@ -19,9 +19,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = MFA
+add_core = MFA
 controller = MFA
 owner = MFA
 religion = catholic
 culture = piedmontese
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

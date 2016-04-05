@@ -15,9 +15,9 @@ discovered_by = sub_saharan
 
 1445.1.2 = {
 remove_core = KAN
+add_core = KAN
 controller = KAN
 owner = KAN
 religion = sunni
 culture = hausa 
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

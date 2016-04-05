@@ -31,9 +31,9 @@ fort_15th = yes #Thula Fortress
 
 1445.1.2 = {
 remove_core = ADE
+add_core = ADE
 controller = ADE
 owner = ADE
 religion = shiite
 culture = yemeni_culture
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

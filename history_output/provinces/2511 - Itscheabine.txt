@@ -19,9 +19,9 @@ discovered_by = north_american
 
 1445.1.2 = {
 remove_core = ARP
+add_core = ARP
 controller = ARP
 owner = ARP
 religion = totemism
 culture = arapaho
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

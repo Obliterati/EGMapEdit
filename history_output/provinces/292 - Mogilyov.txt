@@ -13,3 +13,11 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = LIT
+add_core = PLT
+controller = PLT
+owner = PLT
+religion = orthodox 
+culture = byelorussian
+} # EG/vanilla merge added by Obliterati with EGMapEdit

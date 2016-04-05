@@ -17,9 +17,9 @@ discovered_by = MCA
 
 1445.1.2 = {
 remove_core = MCA
+add_core = MCA
 controller = MCA
 owner = MCA
 religion = inti
 culture = muisca
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

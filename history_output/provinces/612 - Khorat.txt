@@ -17,9 +17,9 @@ discovered_by = indian
 
 1445.1.2 = {
 remove_core = AYU
+add_core = AYU
 controller = AYU
 owner = AYU
 religion = buddhism
 culture = khmer
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -15,3 +15,11 @@ discovered_by = ottoman
 
 1419.12.1 = { revolt = { type = heretic_rebels size = 0 } controller = REB } # Hussite Wars, Battle of Nekmir
 1436.7.5 = { revolt = {} controller = SIL } # Peace is signed in Jihlava
+1445.1.2 = {
+remove_core = SIL
+add_core = SIL
+controller = SIL
+owner = SIL
+religion = jewish
+culture = schlesian
+} # EG/vanilla merge added by Obliterati with EGMapEdit

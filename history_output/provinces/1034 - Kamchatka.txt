@@ -22,9 +22,9 @@ discovered_by = KMC
 
 1445.1.2 = {
 remove_core = KMC
+add_core = KMC
 controller = KMC
 owner = KMC
 religion = tengri_pagan_reformed
 culture = kamchatkan
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -11,3 +11,11 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = MNG
+add_core = WEI
+controller = WEI
+owner = WEI
+religion = confucianism
+culture = zhongyuan
+} # EG/vanilla merge added by Obliterati with EGMapEdit

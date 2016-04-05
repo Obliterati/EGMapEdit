@@ -19,9 +19,9 @@ discovered_by = north_american
 
 1445.1.2 = {
 remove_core = PEQ
+add_core = PEQ
 controller = PEQ
 owner = PEQ
 religion = totemism
 culture = pequot
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

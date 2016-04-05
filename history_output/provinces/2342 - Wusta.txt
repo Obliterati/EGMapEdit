@@ -29,9 +29,9 @@ discovered_by = SFA
 
 1445.1.2 = {
 remove_core = OMA
+add_core = OMA
 controller = OMA
 owner = OMA
 religion = ibadi
 culture = omani_culture
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

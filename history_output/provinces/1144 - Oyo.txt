@@ -16,9 +16,9 @@ discovered_by = sub_saharan
 
 1445.1.2 = {
 remove_core = OYO
+add_core = OYO
 controller = OYO
 owner = OYO
 religion = animism
 culture = yorumba 
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

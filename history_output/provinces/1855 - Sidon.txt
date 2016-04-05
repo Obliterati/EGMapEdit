@@ -18,3 +18,11 @@ discovered_by = western
 discovered_by = nomad_group
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = LEB
+add_core = LEB
+controller = LEB
+owner = LEB
+religion = catholic
+culture = al_suryah_arabic
+} # EG/vanilla merge added by Obliterati with EGMapEdit

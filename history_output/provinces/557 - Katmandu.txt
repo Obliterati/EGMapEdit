@@ -20,9 +20,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = NPL
+add_core = NPL
 controller = NPL
 owner = NPL
 religion = hinduism
 culture = nepali
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

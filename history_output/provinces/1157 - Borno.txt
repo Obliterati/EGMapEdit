@@ -14,7 +14,6 @@ base_tax = 4
 base_production = 4
 discovered_by = sub_saharan
 extra_cost = 10
-fort_15th = yes
 
 add_permanent_province_modifier = {
 	name = inland_center_of_trade_modifier
@@ -23,9 +22,9 @@ add_permanent_province_modifier = {
 
 1445.1.2 = {
 remove_core = KBO
+add_core = KBO
 controller = KBO
 owner = KBO
 religion = sunni
 culture = kanuri
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

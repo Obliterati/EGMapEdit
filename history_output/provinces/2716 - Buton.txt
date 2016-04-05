@@ -41,9 +41,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = BTN
+add_core = BTN
 controller = BTN
 owner = BTN
 religion = animism
 culture = sulawesi
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

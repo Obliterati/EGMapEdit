@@ -30,9 +30,9 @@ discovered_by = SFA
 
 1445.1.2 = {
 remove_core = NAJ
+add_core = NAJ
 controller = NAJ
 owner = NAJ
 religion = shiite
 culture = bedouin_arabic
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

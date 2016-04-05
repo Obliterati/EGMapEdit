@@ -13,3 +13,11 @@ add_core = QIN
 discovered_by = chinese
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = MNG
+add_core = QIN
+controller = QIN
+owner = QIN
+religion = confucianism
+culture = xibei
+} # EG/vanilla merge added by Obliterati with EGMapEdit

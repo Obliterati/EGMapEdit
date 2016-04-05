@@ -22,10 +22,10 @@ discovered_by = ottoman
 1420.5.12 = { owner = ENG controller = ENG add_core = ENG } # Treaty of Troyes, ceded to the English
 1429.1.1 = { owner = FRA controller = FRA remove_core = ENG } # Retaken by the French
 1445.1.2 = {
-remove_core = FRA
+remove_core = CHP
+add_core = CHP
 controller = CHP
 owner = CHP
 religion = catholic
 culture = cosmopolitan_french
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

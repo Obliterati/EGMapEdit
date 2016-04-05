@@ -21,9 +21,9 @@ discovered_by = ottoman
 1405.1.1 = { discovered_by = MNG }
 1445.1.2 = {
 remove_core = MAJ
+add_core = MAJ
 controller = MAJ
 owner = MAJ
 religion = hinduism
 culture = javanese
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

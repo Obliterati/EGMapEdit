@@ -1,1 +1,9 @@
 #<File:0x007fcc651ca0c8>
+1445.1.2 = {
+remove_core = NIL
+add_core = BYZ
+controller = BYZ
+owner = BYZ
+religion = orthodox
+culture = greek
+} # EG/vanilla merge added by Obliterati with EGMapEdit

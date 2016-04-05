@@ -17,9 +17,9 @@ discovered_by = ottoman
 discovered_by = western
 1445.1.2 = {
 remove_core = MZB
+add_core = MZB
 controller = MZB
 owner = MZB
 religion = ibadi
 culture = berber
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

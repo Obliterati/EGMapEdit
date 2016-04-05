@@ -11,3 +11,11 @@ base_manpower = 1
 is_city = yes
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = SIB
+add_core = SIB
+controller = SIB
+owner = SIB
+religion = sunni
+culture = ostyaki
+} # EG/vanilla merge added by Obliterati with EGMapEdit

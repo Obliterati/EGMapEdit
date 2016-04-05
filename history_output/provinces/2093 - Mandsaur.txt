@@ -22,9 +22,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = MLW
+add_core = MLW
 controller = MLW
 owner = MLW
 religion = hinduism
 culture = malvi
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -21,9 +21,9 @@ discovered_by = chinese
 1405.1.1 = { discovered_by = chinese }
 1445.1.2 = {
 remove_core = VND
+add_core = VND
 controller = VND
 owner = VND
 religion = hinduism
 culture = malayalam
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

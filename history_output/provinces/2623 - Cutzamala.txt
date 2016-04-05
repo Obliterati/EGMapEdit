@@ -20,9 +20,9 @@ fort_15th = yes
 
 1445.1.2 = {
 remove_core = TAR
+add_core = TAR
 controller = TAR
 owner = TAR
 religion = nahuatl
 culture = purepecha
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

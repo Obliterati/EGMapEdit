@@ -17,9 +17,9 @@ discovered_by = sub_saharan
 
 1445.1.2 = {
 remove_core = YAO
+add_core = YAO
 controller = YAO
 owner = YAO
 religion = sunni
 culture = kanuri 
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

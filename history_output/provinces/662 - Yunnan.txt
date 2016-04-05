@@ -14,3 +14,11 @@ discovered_by = chinese
 discovered_by = indian
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = MNG
+add_core = CDL
+controller = CDL
+owner = CDL
+religion = buddhism
+culture = bai
+} # EG/vanilla merge added by Obliterati with EGMapEdit

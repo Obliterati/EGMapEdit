@@ -19,9 +19,9 @@ discovered_by = TUR
 
 1445.1.2 = {
 remove_core = GHD
+add_core = GHD
 controller = GHD
 owner = GHD
 religion = sunni
 culture = tunisian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

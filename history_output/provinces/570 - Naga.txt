@@ -18,9 +18,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = KAC
+add_core = KAC
 controller = KAC
 owner = KAC
 religion = hinduism
 culture = chin
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

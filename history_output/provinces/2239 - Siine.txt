@@ -19,9 +19,9 @@ discovered_by = sub_saharan
 
 1445.1.2 = {
 remove_core = JOL
+add_core = JOL
 controller = JOL
 owner = JOL
 religion = animism
 culture = senegambian 
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

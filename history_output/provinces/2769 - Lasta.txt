@@ -28,9 +28,9 @@ discovered_by = indian
 
 1445.1.2 = {
 remove_core = ETH
+add_core = ETH
 controller = ETH
 owner = ETH
 religion = coptic
 culture = amhara 
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -18,3 +18,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = KRK
+add_core = KRK
+controller = KRK
+owner = KRK
+religion = hinduism
+culture = telegu
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -21,9 +21,9 @@ discovered_by = ANU
 
 1445.1.2 = {
 remove_core = DTE
+add_core = DTE
 controller = DTE
 owner = DTE
 religion = shinto
 culture = japanese
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

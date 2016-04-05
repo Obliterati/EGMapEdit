@@ -18,9 +18,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = TPR
+add_core = TPR
 controller = TPR
 owner = TPR
 religion = hinduism
 culture = chin
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

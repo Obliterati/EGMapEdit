@@ -23,9 +23,9 @@ discovered_by = KMC
 
 1445.1.2 = {
 remove_core = CHV
+add_core = CHV
 controller = CHV
 owner = CHV
 religion = tengri_pagan_reformed
 culture = kamchatkan
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

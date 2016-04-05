@@ -19,9 +19,9 @@ discovered_by = north_american
 
 1445.1.2 = {
 remove_core = CHI
+add_core = CHI
 controller = CHI
 owner = CHI
 religion = totemism
 culture = chickasaw
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

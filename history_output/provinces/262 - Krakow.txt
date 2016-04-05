@@ -22,3 +22,11 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
+1445.1.2 = {
+remove_core = POL
+add_core = KRA
+controller = KRA
+owner = KRA
+religion = jewish
+culture = polish
+} # EG/vanilla merge added by Obliterati with EGMapEdit

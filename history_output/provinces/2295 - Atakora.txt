@@ -18,9 +18,9 @@ base_manpower = 1
 discovered_by = sub_saharan
 1445.1.2 = {
 remove_core = DGB
+add_core = DGB
 controller = DGB
 owner = DGB
 religion = animism
 culture = dagomba
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

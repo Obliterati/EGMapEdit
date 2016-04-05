@@ -10,7 +10,6 @@ base_production = 1
 trade_goods = fur
 base_manpower = 1
 capital = "Fr�s�n"
-add_local_autonomy = 25
 is_city = yes
 add_core = NOR
 discovered_by = eastern
@@ -18,9 +17,9 @@ discovered_by = western
 
 1445.1.2 = {
 remove_core = NOR
+add_core = SMI
 controller = SMI
 owner = SMI
 religion = shamanism
 culture = norwegian # They were actually J�mts - the unique blend of Swedish, Norwegian and local tendencies
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

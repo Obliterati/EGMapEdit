@@ -19,9 +19,9 @@ discovered_by = sub_saharan
 
 1445.1.2 = {
 remove_core = NDO
+add_core = NDO
 controller = NDO
 owner = NDO
 religion = shamanism
 culture = kongolese
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

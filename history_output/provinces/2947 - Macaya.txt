@@ -17,9 +17,9 @@ base_manpower = 1
 
 1445.1.2 = {
 remove_core = CLA
+add_core = CLA
 controller = CLA
 owner = CLA
 religion = inti
 culture = aimara
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

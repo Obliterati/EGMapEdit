@@ -16,3 +16,11 @@ discovered_by = KON
 discovered_by = NDO
 discovered_by = LOA
 
+1445.1.2 = {
+remove_core = NIL
+add_core = NIL
+controller = NIL
+owner = NIL
+religion = animism
+culture = bantu
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -14,3 +14,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = NEV
+add_core = HAI
+controller = HAI
+owner = HAI
+religion = catholic
+culture = wallonian
+} # EG/vanilla merge added by Obliterati with EGMapEdit

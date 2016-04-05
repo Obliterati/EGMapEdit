@@ -19,9 +19,9 @@ native_hostileness = 3
 
 1445.1.2 = {
 remove_core = TUA
+add_core = TUA
 controller = TUA
 owner = TUA
 religion = animism
 culture = ge
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

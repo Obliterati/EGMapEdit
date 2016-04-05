@@ -20,9 +20,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = BGL
+add_core = BGL
 controller = BGL
 owner = BGL
 religion = hinduism
 culture = avadhi
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

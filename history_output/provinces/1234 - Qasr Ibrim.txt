@@ -34,10 +34,10 @@ discovered_by = SFA
 	controller = MAK		
 }
 1445.1.2 = {
-remove_core = MAM
-controller = MAM
-owner = MAM
+remove_core = MAK
+add_core = MAK
+controller = MAK
+owner = MAK
 religion = sunni
 culture = nubian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

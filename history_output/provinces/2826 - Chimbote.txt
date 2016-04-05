@@ -18,9 +18,9 @@ discovered_by = andean
 
 1445.1.2 = {
 remove_core = CHM
+add_core = CHM
 controller = CHM
 owner = CHM
 religion = inti
 culture = chimuan
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

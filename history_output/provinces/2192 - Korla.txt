@@ -17,9 +17,9 @@ discovered_by = nomad_group
 
 1445.1.2 = {
 remove_core = KAS
+add_core = KAS
 controller = KAS
 owner = KAS
 religion = vajrayana
 culture = uyghur
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

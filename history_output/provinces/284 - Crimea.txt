@@ -21,9 +21,9 @@ discovered_by = nomad_group
 
 1445.1.2 = {
 remove_core = CRI
+add_core = CRI
 controller = CRI
 owner = CRI
 religion = sunni
 culture = crimean
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -20,10 +20,10 @@ discovered_by = mesoamerican
 
 
 1445.1.2 = {
-remove_core = CLM
-controller = CLM
-owner = CLM
+remove_core = TAR
+add_core = TAR
+controller = TAR
+owner = TAR
 religion = nahuatl
 culture = tecos
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

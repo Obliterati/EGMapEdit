@@ -12,7 +12,6 @@ trade_goods = grain
 base_manpower = 3
 capital = "Stockholm"
 is_city = yes
-fort_15th = yes
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
@@ -22,11 +21,13 @@ discovered_by = ottoman
 1438.3.6 = { revolt = {} controller = SWE } # Unclear date
 1438.10.1 = { revolt = { type = pretender_rebels size = 1 leader = "Karl Knutsson Bonde" } controller = REB } # Unclear date
 1440.9.1 = { revolt = {} controller = SWE } # Christopher III elected Union King
+
+
 1445.1.2 = {
 remove_core = SWE
+add_core = SWE
 controller = SWE
 owner = SWE
 religion = catholic
 culture = swedish
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

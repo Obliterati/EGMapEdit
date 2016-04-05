@@ -14,3 +14,11 @@ native_hostileness = 5
 discovered_by = mesoamerican
 
 1428.1.1 = { discovered_by = AZT }
+1445.1.2 = {
+remove_core = NIL
+add_core = NIL
+controller = NIL
+owner = NIL
+religion = animism 
+culture = piman
+} # EG/vanilla merge added by Obliterati with EGMapEdit

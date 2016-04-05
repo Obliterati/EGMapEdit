@@ -19,9 +19,9 @@ discovered_by = mesoamerican
 
 1445.1.2 = {
 remove_core = MIX
+add_core = MIX
 controller = MIX
 owner = MIX
 religion = nahuatl
 culture = mixtec
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

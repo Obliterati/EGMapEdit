@@ -20,9 +20,9 @@ fort_15th = yes
 
 1445.1.2 = {
 remove_core = TIM
+add_core = TIM
 controller = TIM
 owner = TIM
 religion = sunni
 culture = turkmeni
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

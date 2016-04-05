@@ -22,9 +22,9 @@ extra_cost = 10
 1414.8.6 = { owner = PAP controller = PAP remove_core = NAP }
 1445.1.2 = {
 remove_core = PAP
+add_core = PAP
 controller = PAP
 owner = PAP
 religion = catholic 
 culture = umbrian 
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

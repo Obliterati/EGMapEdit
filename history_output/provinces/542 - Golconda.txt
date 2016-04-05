@@ -1,1 +1,9 @@
 #<File:0x007fcc651e19f8>
+1445.1.2 = {
+remove_core = NIL
+add_core = GOC
+controller = GOC
+owner = GOC
+religion = hinduism
+culture = telegu
+} # EG/vanilla merge added by Obliterati with EGMapEdit

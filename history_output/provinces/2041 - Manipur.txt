@@ -18,9 +18,9 @@ discovered_by = chinese
 
 1445.1.2 = {
 remove_core = MLB
+add_core = MLB
 controller = MLB
 owner = MLB
 religion = animism
 culture = chin
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

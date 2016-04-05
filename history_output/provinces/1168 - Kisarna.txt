@@ -10,7 +10,6 @@ hre = no
 base_tax = 2 
 base_production = 2
 base_manpower = 1
-estate = estate_nobles
 is_city = yes
 add_core = KON
 discovered_by = KON
@@ -20,9 +19,9 @@ discovered_by = sub_saharan
 
 1445.1.2 = {
 remove_core = KON
+add_core = KON
 controller = KON
 owner = KON
 religion = shamanism
 culture = kongolese
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

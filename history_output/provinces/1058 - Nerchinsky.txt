@@ -17,9 +17,9 @@ discovered_by = BRT
 
 1445.1.2 = {
 remove_core = KRC
+add_core = KRC
 controller = KRC
 owner = KRC
 religion = tengri_pagan_reformed
 culture = buryat
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

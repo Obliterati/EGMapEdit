@@ -14,3 +14,11 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 
+1445.1.2 = {
+remove_core = VEN
+add_core = ATH
+controller = ATH
+owner = ATH
+religion = orthodox
+culture = greek
+} # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -16,9 +16,9 @@ discovered_by = sub_saharan
 
 1445.1.2 = {
 remove_core = MAL
+add_core = MAL
 controller = MAL
 owner = MAL
 religion = animism
 culture = mali
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

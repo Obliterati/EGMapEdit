@@ -18,9 +18,9 @@ discovered_by = indian
 
 1445.1.2 = {
 remove_core = KAM
+add_core = KAM
 controller = KAM
 owner = KAM
 religion = vajrayana
 culture = tibetan
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

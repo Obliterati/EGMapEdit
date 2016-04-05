@@ -12,3 +12,11 @@ discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = MNG
+add_core = CGS
+controller = CGS
+owner = CGS
+religion = confucianism
+culture = zhuang
+} # EG/vanilla merge added by Obliterati with EGMapEdit

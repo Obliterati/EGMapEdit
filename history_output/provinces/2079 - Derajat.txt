@@ -29,10 +29,10 @@ discovered_by = chinese
 	controller = MUL
 } # Captured by Langas and separated from Sultanate
 1445.1.2 = {
-remove_core = MUL
-controller = MUL
-owner = MUL
+remove_core = PUN
+add_core = PUN
+controller = PUN
+owner = PUN
 religion = sunni
 culture = panjabi
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

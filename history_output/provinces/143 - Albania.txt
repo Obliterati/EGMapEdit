@@ -15,3 +15,11 @@ discovered_by = western
 
 1399.1.1 = { add_core = VEN }
 1431.1.1 = { add_core = TUR }
+1445.1.2 = {
+remove_core = ALB
+add_core = ALB
+controller = ALB
+owner = ALB
+religion = orthodox
+culture = albanian
+} # EG/vanilla merge added by Obliterati with EGMapEdit

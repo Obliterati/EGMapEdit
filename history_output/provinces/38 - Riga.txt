@@ -26,9 +26,9 @@ add_permanent_province_modifier = {
 
 1445.1.2 = {
 remove_core = RIG
+add_core = RIG
 controller = RIG
 owner = RIG
 religion = catholic
 culture = prussian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

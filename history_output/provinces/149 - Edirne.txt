@@ -19,3 +19,11 @@ discovered_by = nomad_group
 1402.1.1 = { revolt = { type = pretender_rebels size = 1 name = "S�leyman's Faction" leader = "S�leyman Osmanoglu" } controller = REB } # Interregnum
 1410.1.1 = { revolt = {} revolt = { type = pretender_rebels size = 1 name = "M�sa's Faction" leader = "M�sa Osmanoglu" } controller = REB }
 1413.1.1 = { revolt = {} controller = TUR }
+1445.1.2 = {
+remove_core = BYZ
+add_core = BYZ
+controller = BYZ
+owner = BYZ
+religion = orthodox
+culture = greek
+} # EG/vanilla merge added by Obliterati with EGMapEdit

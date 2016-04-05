@@ -22,9 +22,9 @@ discovered_by = ottoman
 
 1445.1.2 = {
 remove_core = SWE
+add_core = SWE
 controller = SWE
 owner = SWE
 religion = catholic
 culture = swedish
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

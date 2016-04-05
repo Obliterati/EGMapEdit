@@ -18,9 +18,9 @@ discovered_by = nomad_group
 
 1445.1.2 = {
 remove_core = KRC
+add_core = KRC
 controller = KRC
 owner = KRC
 religion = vajrayana
 culture = chahar
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

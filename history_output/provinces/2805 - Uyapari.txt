@@ -19,9 +19,9 @@ native_hostileness = 6
 
 1445.1.2 = {
 remove_core = CAB
+add_core = CAB
 controller = CAB
 owner = CAB
 religion = animism
 culture = carib
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

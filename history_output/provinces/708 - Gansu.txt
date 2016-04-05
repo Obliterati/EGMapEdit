@@ -14,3 +14,11 @@ fort_15th = yes #the Nine Garrisons
 discovered_by = chinese
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = MNG
+add_core = CSH
+controller = CSH
+owner = CSH
+religion = confucianism
+culture = xibei
+} # EG/vanilla merge added by Obliterati with EGMapEdit

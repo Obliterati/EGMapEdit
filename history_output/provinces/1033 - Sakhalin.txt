@@ -48,9 +48,9 @@ discovered_by = KMC
 
 1445.1.2 = {
 remove_core = MYR
+add_core = MYR
 controller = MYR
 owner = MYR
 religion = animism
 culture = ainu
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

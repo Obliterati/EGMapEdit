@@ -28,9 +28,9 @@ add_permanent_province_modifier = {
 1414.1.1 = { remove_core = MUL }
 1445.1.2 = {
 remove_core = DLH
+add_core = DLH
 controller = DLH
 owner = DLH
 religion = hinduism
 culture = kanauji
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

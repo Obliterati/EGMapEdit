@@ -24,9 +24,9 @@ discovered_by = ottoman
 } # To the Habsburgs
 1445.1.2 = {
 remove_core = HAB
+add_core = AQU
 controller = AQU
 owner = AQU
 religion = catholic
 culture = austrian
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

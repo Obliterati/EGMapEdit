@@ -21,9 +21,9 @@ discovered_by = ottoman
 1423.1.6 = { owner = SAX controller = SAX add_core = SAX remove_core = MEI capital = "Dresden" } # Incorporated into Saxony
 1445.1.2 = {
 remove_core = MEI
+add_core = MEI
 controller = MEI
 owner = MEI
 religion = catholic
 culture = saxon
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

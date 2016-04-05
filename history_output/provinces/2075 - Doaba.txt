@@ -20,3 +20,11 @@ discovered_by = chinese
 	revolt = { type = pretender_rebels leader = "Bahlul Lodi" }
 	controller = REB
 } #First revolt of Bahlul Lodi
+1445.1.2 = {
+remove_core = DLH
+add_core = PUN
+controller = PUN
+owner = PUN
+religion = hinduism
+culture = panjabi
+} # EG/vanilla merge added by Obliterati with EGMapEdit

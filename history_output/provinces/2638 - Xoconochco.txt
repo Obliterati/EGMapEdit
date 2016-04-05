@@ -21,9 +21,9 @@ discovered_by = mesoamerican
 
 1445.1.2 = {
 remove_core = KIC
+add_core = KIC
 controller = KIC
 owner = KIC
 religion = mesoamerican_religion
 culture = highland_mayan
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

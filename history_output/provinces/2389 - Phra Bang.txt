@@ -20,9 +20,9 @@ discovered_by = indian
 } # Sukhothai is under Personal Union with Ayutthaya
 1445.1.2 = {
 remove_core = SUK
+add_core = SUK
 controller = SUK
 owner = SUK
 religion = buddhism
 culture = central_thai
-
-  } # EG/vanilla merge added by Obliterati with EGMapEdit
+} # EG/vanilla merge added by Obliterati with EGMapEdit

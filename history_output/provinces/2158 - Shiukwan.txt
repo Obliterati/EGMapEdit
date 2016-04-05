@@ -12,3 +12,11 @@ add_core = HUA
 discovered_by = chinese
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = MNG
+add_core = HUA
+controller = HUA
+owner = HUA
+religion = confucianism
+culture = hakka
+} # EG/vanilla merge added by Obliterati with EGMapEdit
