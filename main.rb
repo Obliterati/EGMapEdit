@@ -79,9 +79,14 @@ def history_string(filename)
  vanilla_tag = tag_getter(original_text)
  eg_tag = tag_getter(eg_text)
 
+ if eg_tag != 'NIL'
   history_string = "1445.1.2 = {\nremove_core = #{ vanilla_tag }\nadd_core = #{ eg_tag }\ncontroller = #{ eg_tag }\nowner = #{ eg_tag }\n#{ getter(eg_text, 'religion') }#{ getter(eg_text, 'culture') }} # EG/vanilla merge added by Obliterati with EGMapEdit"
+else
+  history_string = "1445.1.2 = {\n #No changes from EGMapEdit}"
+end
+history_string
 
-  # INSTEAD, REMOVE THESE MINOR DETAILS FROM ALL FILES
+binding.pry
 end
 
 def full_writer(filename)
@@ -116,15 +121,15 @@ def full_run(directory)
 end
 
 # file_cleaner("history/provinces/117 - Siena.txt")
-# full_writer("history_output/provinces/117 - Siena.txt")
+full_writer("history_output/provinces/982 - Unamakik.txt")
 
 # ACTUAL RUN
 
-puts 'cleaning files...'
-Dir.foreach("history_output/provinces") do |file|
-  file_cleaner("history_output/provinces/#{file}") if !is_hidden?(file)
-  puts "cleaned #{file}" if !is_hidden?(file)
-end
-puts 'files cleaned'
+# puts 'cleaning files...'
+# Dir.foreach("history_output/provinces") do |file|
+#   file_cleaner("history_output/provinces/#{file}") if !is_hidden?(file)
+#   puts "cleaned #{file}" if !is_hidden?(file)
+# end
+# puts 'files cleaned'
 
-full_run("history_output/provinces")
+# full_run("history_output/provinces")
