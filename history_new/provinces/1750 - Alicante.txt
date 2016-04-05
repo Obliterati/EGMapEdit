@@ -1,6 +1,6 @@
-#1750 - Alàcant
+#1750 - Alï¿½cant
 
-owner = ARA		#Martí I of Aragon
+owner = ARA		#Martï¿½ I of Aragon
 controller = ARA
 add_core = ARA
 add_core = CAT
@@ -11,9 +11,13 @@ base_tax = 3
 base_production = 3
 trade_goods = wine
 base_manpower = 3 
-capital = "Alàcant" 
+capital = "Alï¿½cant" 
 is_city = yes
 
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
 1445.1.1 = {
 owner = CAT
 controller = CAT

@@ -1,4 +1,4 @@
-#Österbotten, down to Vasa.
+#ï¿½sterbotten, down to Vasa.
 
 owner = SWE
 controller = SWE
@@ -13,6 +13,8 @@ base_manpower = 1
 capital = "Korsholm"
 is_city = yes
 
+discovered_by = eastern
+discovered_by = western
 1445.1.2 = { 
 owner = FIN
 controller = FIN

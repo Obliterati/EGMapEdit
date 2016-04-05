@@ -13,4 +13,5 @@ base_manpower = 1
 is_city = yes
 capital = "Sogndal"
 
-1445.1.1 = { religion = norse_pagan_reformed }
+discovered_by = western
+discovered_by = eastern

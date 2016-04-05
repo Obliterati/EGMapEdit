@@ -15,7 +15,8 @@ add_core = FZA
 add_core = TRP
 #25
 
-1558.1.1 = {
-	owner = TRP
-	controller = TRP
-} #Turgut Reis conquers Sirte
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+# All changes implemented by Obliterati with EGMapEdit

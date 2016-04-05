@@ -11,10 +11,8 @@ trade_goods = grain
 base_manpower = 4
 capital = "Pskov"
 is_city = yes
-fort_15th = yes
-1445.1.1 = { fort_15th = no }
-add_core = PSK
-
+discovered_by = western
+discovered_by = eastern
 1445.1.1 = {
 owner = PSK
 controller = PSK

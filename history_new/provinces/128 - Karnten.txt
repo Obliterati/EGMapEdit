@@ -1,4 +1,4 @@
-#128 - Kärnten
+#128 - Kï¿½rnten
 
 owner = HAB
 controller = HAB
@@ -10,11 +10,14 @@ base_tax = 6
 base_production = 6
 trade_goods = iron 
 base_manpower = 5
-fort_15th = yes #Hochosterwitz Castle
 capital = "Klagenfurt" 
 is_city = yes
 hre = yes
 
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
 1445.1.1 = {
 fort_15th = no
 owner = STY

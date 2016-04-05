@@ -13,7 +13,9 @@ base_manpower = 4
 is_city = yes
 add_core = TAU
 
-1560.1.1 = { fort_15th = yes }
+discovered_by = chinese
+discovered_by = indian
+1535.1.1 = { discovered_by = POR }
 1445.1.1 = { fort_15th = no }
 1745.1.1 = {
 	owner = PEG

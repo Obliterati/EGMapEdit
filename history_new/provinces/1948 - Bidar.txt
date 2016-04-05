@@ -12,7 +12,12 @@ base_production = 5
 base_manpower = 3
 is_city = yes
 add_core = BAH
-fort_15th = yes
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = chinese
+1498.1.1 = { discovered_by = POR }
 1445.1.1 = { fort_15th = no } #Bidar Fort
 
 1511.8.1 = { controller = VIJ }

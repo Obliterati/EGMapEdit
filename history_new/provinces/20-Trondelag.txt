@@ -1,4 +1,4 @@
-#Tröndelag, incl. Trondheim, Frosta, Röros, Steinviksholm
+#Trï¿½ndelag, incl. Trondheim, Frosta, Rï¿½ros, Steinviksholm
 
 owner = NOR
 controller = NOR
@@ -14,8 +14,9 @@ capital = "Trondheim"
 #estate_church
 is_city = yes
 
-fort_15th = yes
 
+discovered_by = eastern
+discovered_by = western
 1445.1.1 = { 
 religion = norse_pagan_reformed
 fort_15th = no

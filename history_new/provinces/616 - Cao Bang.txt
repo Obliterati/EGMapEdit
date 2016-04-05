@@ -13,3 +13,7 @@ base_manpower = 3
 is_city = yes
 #estate_nobles
 add_core = DAI
+discovered_by = chinese
+discovered_by = indian
+1655.1.1 = { discovered_by = SPA }#Novus Atlas Sinensis
+# All changes implemented by Obliterati with EGMapEdit

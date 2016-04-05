@@ -11,7 +11,10 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 is_city = yes
-fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 1445.1.1 = { fort_15th = no }
 add_core = TEU
 
@@ -34,5 +37,3 @@ add_core = TEU
 	controller = PRU
 	remove_core = BRA
 } # Kingdom of Prussia
-1758.1.22 = { controller = RUS } # Occupied by Russia
-1762.5.5 = { controller = PRU } # Russians withdraw

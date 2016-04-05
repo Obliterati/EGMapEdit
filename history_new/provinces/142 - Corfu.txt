@@ -11,9 +11,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 1
 is_city = yes
-fort_15th = yes
-1445.1.1 = { fort_15th = no }
-add_core = CEP
-
-1444.1.1 = { add_core = VEN}
-1445.1.1 = { remove_core = VEN }
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman

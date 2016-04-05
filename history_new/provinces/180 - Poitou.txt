@@ -12,9 +12,12 @@ base_production = 6
 trade_goods = salt
 base_manpower = 5
 add_core = FRA
-fort_15th = yes
 #estate_burghers
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 1445.1.1 = {
 fort_15th = no
 owner = ORL

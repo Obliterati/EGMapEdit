@@ -19,9 +19,5 @@ base_manpower = 1
 
 #25
 
-1600.1.1 = {
-	owner = KNG
-	controller = KNG
-	add_core = KNG
-	remove_core = MAL
-} #Collapse of Mali after Jenné
+discovered_by = sub_saharan
+# All changes implemented by Obliterati with EGMapEdit

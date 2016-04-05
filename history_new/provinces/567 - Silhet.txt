@@ -13,3 +13,8 @@ base_manpower = 2
 is_city = yes
 #estate_dhimmi
 add_core = BNG
+discovered_by = indian
+discovered_by = chinese
+discovered_by = nomad_group
+1627.1.1 = { discovered_by = POR }
+# All changes implemented by Obliterati with EGMapEdit

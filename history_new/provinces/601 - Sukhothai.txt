@@ -11,7 +11,9 @@ base_tax = 6
 base_production = 6
 base_manpower = 3
 is_city = yes
-fort_15th = yes
+discovered_by = chinese
+discovered_by = indian
+1535.1.1 = { discovered_by = POR }
 1445.1.1 = { fort_15th = no }
 add_core = SUK
 
@@ -24,6 +26,3 @@ add_core = SUK
 	controller = AYU
 	remove_core = SUK
 } # Completely annexed by Ayutthaya
-
-1767.4.1 = { unrest = 7 } # The fall of Ayutthaya
-1774.1.1 = { unrest = 0 }

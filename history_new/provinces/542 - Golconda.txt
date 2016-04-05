@@ -20,20 +20,12 @@ add_core = GOC
 	controller = BAH
 }
 1405.1.1 = { add_core = BAH }
-1453.1.1 = {
-	controller = REB
-	revolt = {
-		type = nationalist_rebels size = 1
-	}
-} #Governor of Telingana revolts, invites Kalji intervention
-1456.1.1 = { controller = BAH revolt = { } }	#End of Revolt
-1490.1.1 = {
-	remove_core = BAH 
-	owner = GOC
-	controller = GOC
-} # The Breakup of the Bahmani sultanate # Qutb Shahi dynasty
-
-1550.1.1 = { fort_15th = yes }
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = chinese
+1498.1.1 = { discovered_by = POR }
 1445.1.1 = { fort_15th = no } #Golconda fort
 1590.1.1 = { capital = "Hyderabad" }
 1686.1.1 = { controller = MUG }

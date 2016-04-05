@@ -11,9 +11,13 @@ base_production = 4
 trade_goods = cloth
 base_manpower = 2
 capital = "Stendal"
-#estate_burghers #Altmärkische Städtebund
+#estate_burghers #Altmï¿½rkische Stï¿½dtebund
 is_city = yes
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 1445.1.1 = {
 owner = MAG
 controller = MAG

@@ -14,7 +14,6 @@ base_production = 6
 trade_goods = grain
 base_manpower = 5
 add_core = PIC
-fort_15th = yes
 
 1435.1.1 = {
 	owner = BUR
@@ -22,6 +21,10 @@ fort_15th = yes
 	add_core = BUR
 	remove_core = FRA
 } # Treaty of Arras
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 1445.1.1 = {
 fort_15th = no
 owner = NRM

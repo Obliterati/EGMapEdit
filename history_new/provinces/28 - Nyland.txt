@@ -1,4 +1,4 @@
-#Nyland, incl. Raseborg, Borgå, Helsingfors.
+#Nyland, incl. Raseborg, Borgï¿½, Helsingfors.
 
 owner = SWE
 controller = SWE
@@ -11,9 +11,11 @@ base_tax = 2
 base_production = 2
 trade_goods = naval_supplies
 base_manpower = 2
-capital = "Borgå"
+capital = "Borgï¿½"
 is_city = yes
 
+discovered_by = western
+discovered_by = eastern
 1445.1.2 = { 
 owner = FIN
 controller = FIN

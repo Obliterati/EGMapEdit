@@ -14,8 +14,9 @@ base_manpower = 2
 capital = "Reval"
 #estate_burghers
 is_city = yes
-fort_15th = yes #Fortifications of Reval, Wesenberg, Toompea Castle
 
+discovered_by = western
+discovered_by = eastern
 1445.1.1 = {
 fort_15th = no
 owner = EST

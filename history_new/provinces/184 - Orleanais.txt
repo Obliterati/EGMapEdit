@@ -1,8 +1,8 @@
-# 184 Orléannais - Principal cities: Orléans
+# 184 Orlï¿½annais - Principal cities: Orlï¿½ans
 
 owner = FRA
 controller = FRA
-capital = "Orléans"
+capital = "Orlï¿½ans"
 is_city = yes
 culture = cosmopolitan_french
 religion = catholic
@@ -16,6 +16,10 @@ base_manpower = 7
 add_core = ORL
 add_core = FRA
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 1445.1.1 = { 
 owner = ORL
 controller = ORL

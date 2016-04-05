@@ -1,8 +1,8 @@
-#41 - Königsberg
+#41 - Kï¿½nigsberg
 
 owner = TEU
 controller = TEU
-capital = "Königsberg"
+capital = "Kï¿½nigsberg"
 culture = prussian
 religion = catholic
 trade_goods = naval_supplies
@@ -11,7 +11,10 @@ base_tax = 7
 base_production = 7
 base_manpower = 3
 is_city = yes
-fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 1445.1.1 = { fort_15th = no }
 add_core = TEU
 
@@ -42,7 +45,3 @@ add_core = TEU
 	fort_17th = no
 	fort_18th = yes
 }
-1750.1.1 = { base_manpower = 4 base_tax = 8 
-base_production = 8 }
-1758.1.22 = { controller = RUS } # Occupied by Russia
-1762.5.5 = { controller = PRU } # Russians withdraw

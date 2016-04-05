@@ -1,4 +1,4 @@
-#Akershus, incl. Oslo (Christiania), Sarpsborg, Tönsberg
+#Akershus, incl. Oslo (Christiania), Sarpsborg, Tï¿½nsberg
  
 owner = NOR
 controller = NOR
@@ -12,7 +12,7 @@ trade_goods = fish
 base_manpower = 3
 capital = "Oslo"
 is_city = yes
-fort_15th = yes
-1445.1.1 = { fort_15th = no }
-
-1445.1.1 = { religion = norse_pagan_reformed }
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman

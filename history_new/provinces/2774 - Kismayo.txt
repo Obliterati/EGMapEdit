@@ -14,4 +14,9 @@ base_production = 2
 base_manpower = 2
 #25
 
-1445.1.1 = { religion = coptic }
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1499.1.1 = { discovered_by = POR }
+1550.1.1 = { discovered_by = TUR }

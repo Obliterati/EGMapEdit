@@ -21,4 +21,18 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-1445.1.1 = { religion = coptic }
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = AJU
+discovered_by = MBA
+discovered_by = MDI
+discovered_by = MLI
+discovered_by = SFA
+discovered_by = ZIM
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1498.3.20 = { discovered_by = POR } # Vasco Da Gama
+1600.1.1 = { discovered_by = TUR }

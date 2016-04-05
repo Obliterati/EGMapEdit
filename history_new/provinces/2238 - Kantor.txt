@@ -20,9 +20,5 @@ base_manpower = 1
 
 #50
 
-1537.1.1 = {
-	owner = KBU
-	controller = KBU
-	add_core = KBU
-	remove_core = MAL
-} #Kaabu declares independece from Mali
+discovered_by = sub_saharan
+# All changes implemented by Obliterati with EGMapEdit

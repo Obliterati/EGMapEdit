@@ -13,6 +13,9 @@ capital = "Kostroma"
 is_city = yes
 add_core = MOS
 
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
 1445.1.1 = {
 owner = YAR
 controller = YAR

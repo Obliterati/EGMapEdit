@@ -14,4 +14,5 @@ capital = "Reykjavik"
 is_city = yes 	
 add_core = NOR
 
-1445.1.1 = { religion = norse_pagan_reformed }
+discovered_by = western
+discovered_by = western

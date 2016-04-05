@@ -1,4 +1,4 @@
-#Västergötland, contains Göteborg, Skara, Skövde etc.
+#Vï¿½stergï¿½tland, contains Gï¿½teborg, Skara, Skï¿½vde etc.
 
 add_core = SWE
 owner = SWE
@@ -10,15 +10,14 @@ base_tax = 3
 base_production = 3
 trade_goods = grain
 base_manpower = 3
- #Old Älvsborg Castle
+ #Old ï¿½lvsborg Castle
 capital = "Skara"
 #estate_church #Skara, Brynolfsbo/Brunsbo
 is_city = yes
  #"Domkyrkan i Skara"
 
-1527.6.1 = { religion = protestant}
-1598.8.15 = { controller = PLC } # Sigismund tries to reconquer his crown
-1598.12.15 = { controller = SWE } # Duke Karl get it back
-1612.5.24 = { controller = DAN } # The War of Kalmar-Captured by Christian IV
-1613.1.20 = { controller = SWE }# The Peace of Knäred
-1621.1.1 = { capital = "Göteborg" }
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+# All changes implemented by Obliterati with EGMapEdit

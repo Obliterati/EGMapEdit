@@ -11,7 +11,10 @@ trade_goods = grain
 base_manpower = 7 
 capital = "Napoli" 
 is_city = yes	# Estimated
-fort_15th = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
 1445.1.1 = { fort_15th = no }
 add_core = NAP
 
@@ -35,7 +38,3 @@ add_core = NAP
 	add_core = HAB
 	remove_core = SPA
 }
-1715.1.1 = { fort_17th = no fort_18th = yes } 
-1734.6.2 = { owner = NAP controller = NAP remove_core = HAB }
-1806.2.9 = { controller = FRA } # French troops invade
-1806.3.11 = { controller = NAP } # Joseph Bonaparte becomes king of the new Kingdom of Naples

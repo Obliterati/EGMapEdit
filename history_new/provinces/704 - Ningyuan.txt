@@ -12,7 +12,9 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-#fort_15th = yes
+discovered_by = chinese
+discovered_by = nomad_group
+1519.1.1 = { discovered_by = POR } # Tome Pires
 1445.1.1 = { fort_15th = no } #the Nine Garrisons
 
 1500.1.1 = { base_tax = 9 
@@ -21,4 +23,3 @@ base_production = 9 } # Repairs of the Great Wall
 	controller = QNG
 	add_core = QNG
 }
-1662.1.1 = { remove_core = MNG } # The government in Taiwan surrendered

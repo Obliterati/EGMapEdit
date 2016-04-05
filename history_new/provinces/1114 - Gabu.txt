@@ -16,3 +16,6 @@ add_core = MAL
 add_core = KBU #Subject province within the empire
 
 #50
+discovered_by = sub_saharan
+1446.1.1 = { discovered_by = POR }
+# All changes implemented by Obliterati with EGMapEdit

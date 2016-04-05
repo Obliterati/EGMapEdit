@@ -10,7 +10,6 @@ def file_cleaner(filename, *writer)
   eg_entry_start = 0
   eg_entry_end = 0
   safe_text = file.each { |line| line.encode!(invalid: :replace)}
-    # binding.pry
   safe_text.each_with_index do |line, index| 
     if line[0..7] == "1445.1.2" || line[0..7] == "1445.1.1"
       eg_entry_start = index

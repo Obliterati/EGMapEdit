@@ -13,7 +13,10 @@ base_manpower = 1
 is_city = yes
 add_core = CHM
 
-fort_15th = yes
+discovered_by = south_american
+discovered_by = andean
+discovered_by = CHM
+1528.1.1 = { discovered_by = SPA } # Francisco Pizarro
 1445.1.1 = { fort_15th = no }
 
 1470.1.1 = {
@@ -35,4 +38,3 @@ fort_15th = yes
 	controller = COL
 	add_core = COL
 } # Colombia declares independence
-1819.8.7 = { remove_core = SPA } # Colombia's independence is recongnized

@@ -23,14 +23,14 @@ add_core = MAD
 
 1428.1.1 = { add_core = VIJ  }
 
-1529.1.1 = {
-	controller = REB
-	revolt = {
-		type = pretender_rebels size = 2
-		leader = "Vira Narisimha Saluva"
-	}
-}
-
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = chinese
+1405.1.1 = { discovered_by = chinese }
+1498.1.1 = { discovered_by = POR }
 1445.1.1 = {
 owner = MAD
 controller = MAD

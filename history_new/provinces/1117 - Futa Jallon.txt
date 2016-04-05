@@ -14,3 +14,5 @@ base_tax = 3
 base_production = 3
 add_core = MAL
 add_core = KBU #Subject province within the empire
+discovered_by = sub_saharan
+# All changes implemented by Obliterati with EGMapEdit

@@ -1,4 +1,4 @@
-#Viborgs län, incl. Viborg, Villmansstrand, and Kivinäbb.
+#Viborgs lï¿½n, incl. Viborg, Villmansstrand, and Kivinï¿½bb.
 
 owner = SWE
 controller = SWE
@@ -13,8 +13,9 @@ trade_goods = fur
 base_manpower = 2
 capital = "Viborg"
 is_city = yes
-fort_15th = yes
 
+discovered_by = western
+discovered_by = eastern
 1445.1.1 = {
 fort_15th = no
 owner = FIN

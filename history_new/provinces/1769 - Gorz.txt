@@ -1,4 +1,4 @@
-# 1769 - Görz
+# 1769 - Gï¿½rz
 owner = HAB
 controller = HAB
 add_core = HAB
@@ -14,6 +14,10 @@ capital = "Gorizia"
 is_city = yes
 hre = yes
 
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
 1445.1.1 = {
 owner = AQU
 controller = AQU

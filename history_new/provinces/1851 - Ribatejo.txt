@@ -13,3 +13,8 @@ base_manpower = 3
 is_city = yes
 #estate_nobles
 add_core = POR
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+# All changes implemented by Obliterati with EGMapEdit

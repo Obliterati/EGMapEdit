@@ -15,4 +15,6 @@ base_production = 3
 #estate_nobles
 #50
 
-1445.1.1 = { religion = coptic }
+discovered_by = east_african
+discovered_by = central_african
+1513.1.1 = { discovered_by = POR } #Travels of Antonio Fernandes in hinterland of Sofala

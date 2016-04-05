@@ -13,9 +13,10 @@ base_manpower = 3
 is_city = yes
 add_core = ASS
 
-1540.1.1 = {
-	capital = "Garhgaon"
-	fort_15th = yes
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+1627.1.1 = { discovered_by = POR }
 1445.1.1 = { fort_15th = no }
 }
 
@@ -55,4 +56,3 @@ add_core = ASS
 	controller = TAU
 	owner = TAU
 }
-1826.1.1 = { owner = ASS controller = ASS }

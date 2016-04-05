@@ -14,4 +14,4 @@ capital = "Akureyri"
 #25
 is_city = yes	
 
-1445.1.1 = { religion = norse_pagan_reformed }
+discovered_by = western

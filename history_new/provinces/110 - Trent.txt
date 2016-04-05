@@ -16,6 +16,10 @@ capital = "Trent"
 #estate_church
 is_city = yes
 
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
 1445.1.1 = { 
 owner = TIR
 controller = TIR

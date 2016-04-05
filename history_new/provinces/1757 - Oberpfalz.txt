@@ -11,7 +11,10 @@ trade_goods = iron
 base_manpower = 4
 capital	= "Amberg" 
 is_city = yes
-fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
 1445.1.1 = { fort_15th = no }
 hre = yes
 
@@ -20,6 +23,3 @@ hre = yes
 	owner = HAB
 	controller = HAB
 } # Bavaria is conquered by the Emperor, is however later restored for the balance of power
-1714.9.7 = { owner = BAV controller = BAV }
-1743.1.1 = { base_tax = 4 base_production = 4 } # Economic crisis as effect of the Austrian succession war (e.g. Straubing bancrupt)
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved

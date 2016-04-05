@@ -10,7 +10,10 @@ base_tax = 6
 base_production = 6
 trade_goods = salt
 base_manpower = 3 
-fort_15th = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
 1445.1.1 = { fort_15th = no }
 capital = "Granada"
 is_city = yes
@@ -29,8 +32,3 @@ is_city = yes
 1570.10.28 = {	unrest = 0
 	culture = castillian
 } # To quell the revolt, the morisques in Granada are forcefully deported to other Spanish territories
-1713.4.11 = { remove_core = CAS }
-1808.6.6 = { revolt = { type = pretender_rebels size = 0 } controller = REB }
-1811.1.1 = { revolt = {} controller = SPA }
-1812.10.1 = { revolt = { type = pretender_rebels size = 1 } controller = REB }
-1813.12.11 = { revolt = {} controller = SPA }
