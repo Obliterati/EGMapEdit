@@ -1,7 +1,3 @@
-#2746 - Vidin
-
-owner = TUR
-controller = TUR
 culture = bulgarian
 religion = orthodox
 capital = "Vidin"

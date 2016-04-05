@@ -24,10 +24,3 @@ native_hostileness = 0
 	culture = castillian	
 	trade_goods = sugar
 } # Castilian control
-1478.1.1 = { capital = "Las Palmas" }
-1516.1.23 = {
-	controller = SPA
-	owner = SPA
-	add_core = SPA
-} # King Fernando dies, Carlos inherits Aragon and becomes co-regent of Castille
-1713.4.11 = { remove_core = CAS }

@@ -1,5 +1,3 @@
-owner = TLC
-controller = TLC
 culture = algerian
 religion = sunni
 capital = "Mostaganem"

@@ -17,8 +17,3 @@ native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
 
-1735.1.1 = {
-	owner = ASH
-	controller = ASH
-	add_core = ASH 
-} #Ashanti conquest

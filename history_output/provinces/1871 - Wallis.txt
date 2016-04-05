@@ -1,5 +1,3 @@
-owner = SAV
-controller = SAV
 culture = swiss
 religion = catholic
 capital = "Sion"

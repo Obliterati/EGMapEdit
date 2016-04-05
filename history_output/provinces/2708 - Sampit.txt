@@ -1,3 +1,5 @@
+#2708 - Sampit
+
 culture = bornean
 religion = hinduism
 capital = "Sampit"

@@ -1,3 +1,5 @@
+#2724 - Asmat
+
 culture = papuan
 religion = animism
 capital = "Asmat"

@@ -1,3 +1,5 @@
+#1033 - Sakhalin
+
 owner = MYR
 controller = MYR
 add_core = MYR
@@ -44,3 +46,11 @@ discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
 
+1445.1.2 = {
+remove_core = MYR
+controller = MYR
+owner = MYR
+religion = animism
+culture = ainu
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

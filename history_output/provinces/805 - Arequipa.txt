@@ -1,3 +1,5 @@
+#805 - Arequipa
+
 culture = aimara
 religion = inti
 capital = "Arequipa"

@@ -1,3 +1,5 @@
+#646 - Ambon
+
 culture = moluccan
 religion = animism
 capital = "Ambon"

@@ -1,3 +1,5 @@
+# No previous file for Dallol
+
 owner = SON
 controller = SON
 add_core = SON
@@ -11,3 +13,11 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 discovered_by = sub_saharan
+1445.1.2 = {
+remove_core = SON
+controller = SON
+owner = SON
+religion = animism
+culture = songhai 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

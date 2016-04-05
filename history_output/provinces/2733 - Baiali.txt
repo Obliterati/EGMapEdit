@@ -1,3 +1,5 @@
+#2733 - Baiali
+
 culture = aboriginal
 religion = animism
 capital = "Baiali"

@@ -1,3 +1,5 @@
+#1084 - Wadjuk
+
 culture = aboriginal
 religion = animism
 capital = "Wadjuk"

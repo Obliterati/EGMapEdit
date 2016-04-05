@@ -1,3 +1,5 @@
+#860 - Tepehuan
+
 culture = navajo 
 religion = animism 
 capital = "Tepehuan" 

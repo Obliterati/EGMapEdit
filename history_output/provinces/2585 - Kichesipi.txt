@@ -1,3 +1,5 @@
+# No previous file for Kichesipi
+
 culture = anishinabe
 religion = totemism
 capital = "Kichesipi"

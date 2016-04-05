@@ -1,3 +1,5 @@
+# - Abda
+
 owner = MOR
 controller = MOR
 culture = moroccan
@@ -15,3 +17,11 @@ discovered_by = ottoman
 discovered_by = western
 discovered_by = eastern
 
+1445.1.2 = {
+remove_core = MOR
+controller = MOR
+owner = MOR
+religion = sunni
+culture = moroccan
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

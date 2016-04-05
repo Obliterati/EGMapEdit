@@ -1,5 +1,3 @@
-owner = CAS		#Juan II of Castille
-controller = CAS
 add_core = CAS
 add_core = GAL
 culture = galician

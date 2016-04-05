@@ -1,3 +1,5 @@
+#2087 - Ajmer
+
 owner = MER
 controller = MER
 culture = rajput
@@ -18,3 +20,11 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = MER
+controller = MER
+owner = MER
+religion = hinduism
+culture = rajput
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

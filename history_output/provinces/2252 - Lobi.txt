@@ -1,3 +1,5 @@
+# No previous file for Lobi
+
 owner = KNG
 controller = KNG
 add_core = KNG
@@ -16,3 +18,11 @@ base_manpower = 1
 discovered_by = sub_saharan
 
 
+1445.1.2 = {
+remove_core = KNG
+controller = KNG
+owner = KNG
+religion = animism
+culture = dyola 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

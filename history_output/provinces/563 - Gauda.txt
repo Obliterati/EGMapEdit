@@ -1,3 +1,5 @@
+#563 - Gauda
+
 owner = BNG
 controller = BNG
 culture = bengali
@@ -17,3 +19,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = BNG
+controller = BNG
+owner = BNG
+religion = hinduism
+culture = bengali
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

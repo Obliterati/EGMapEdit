@@ -1,5 +1,3 @@
-owner = CRI
-controller = CRI
 culture = crimean
 religion = sunni
 hre = no

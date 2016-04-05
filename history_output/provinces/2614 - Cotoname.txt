@@ -1,3 +1,5 @@
+# No previous file for Cotoname
+
 culture = chichimecan
 religion = nahuatl
 capital = "Cotoname"

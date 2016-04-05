@@ -1,5 +1,3 @@
-owner = NOG
-controller = NOG
 culture = bashkir
 religion = sunni
 hre = no

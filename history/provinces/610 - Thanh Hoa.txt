@@ -29,18 +29,3 @@ discovered_by = ottoman
 	controller = DAI
 	remove_core = MNG
 }
-1514.1.1 = { discovered_by = POR }
-1527.1.1 = {
-	owner = TOK
-	controller = TOK
-}
-1786.6.1 = {
-	owner = DAI
-	controller = DAI
-	remove_core = TOK
-} # Tai Son and Le dynasty annexed the Trinh Lords 
-1802.7.22 = {	
-	owner = ANN
-	controller = ANN
-	remove_core = DAI
-} # Nguyen Phuc Anh annexed the Tay Son Dynasty

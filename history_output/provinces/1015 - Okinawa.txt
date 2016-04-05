@@ -1,3 +1,5 @@
+#1015 - Okinawa
+
 owner = RYU
 controller = RYU
 culture = japanese
@@ -16,3 +18,11 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
+1445.1.2 = {
+remove_core = RYU
+controller = RYU
+owner = RYU
+religion = animism
+culture = japanese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+#1134 - Jenne
+
 owner = JNN #In effect independant in the wake of Mali's weakening
 controller = JNN
 culture = bozo
@@ -15,3 +17,11 @@ add_core = JNN
 discovered_by = sub_saharan
 fort_15th = yes
 
+1445.1.2 = {
+remove_core = JNN
+controller = JNN
+owner = JNN
+religion = animism
+culture = bozo
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

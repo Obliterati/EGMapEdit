@@ -1,3 +1,5 @@
+#1180 - Transkei
+
 culture = bantu #Thembu
 religion = animism
 capital = "Thembu"

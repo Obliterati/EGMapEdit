@@ -1,3 +1,5 @@
+#797 - Oruro
+
 owner = PCJ
 controller = PCJ
 add_core = PCJ
@@ -13,3 +15,11 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 
+1445.1.2 = {
+remove_core = PCJ
+controller = PCJ
+owner = PCJ
+religion = inti
+culture = aimara
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

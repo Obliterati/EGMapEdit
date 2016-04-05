@@ -1,3 +1,5 @@
+# - Waddai
+
 culture = nubian 
 religion = animism
 capital = "Ouara"

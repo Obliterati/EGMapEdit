@@ -1,3 +1,5 @@
+#1088 - Wergaia
+
 culture = aboriginal
 religion = animism
 capital = "Wergaia"

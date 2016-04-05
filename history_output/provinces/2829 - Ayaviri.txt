@@ -1,3 +1,5 @@
+# - Ayaviri
+
 owner = CSU
 controller = CSU
 add_core = CSU
@@ -13,3 +15,11 @@ base_manpower = 2
 discovered_by = south_american
 discovered_by = andean
 
+1445.1.2 = {
+remove_core = CSU
+controller = CSU
+owner = CSU
+religion = inti
+culture = aimara
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+#898 - Kansas
+
 culture = pawnee #Old plains people
 religion = totemism
 capital = "Kansas"

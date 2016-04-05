@@ -1,5 +1,3 @@
-owner = GEN
-controller = GEN 
 culture = pontic_greek
 religion = orthodox
 hre = no

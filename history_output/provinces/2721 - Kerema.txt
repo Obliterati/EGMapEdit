@@ -1,3 +1,5 @@
+#2721 - Kerema
+
 culture = papuan
 religion = animism
 capital = "Kerema"

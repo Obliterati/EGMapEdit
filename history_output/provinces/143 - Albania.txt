@@ -1,5 +1,3 @@
-owner = ALB
-controller = ALB
 culture = albanian
 religion = orthodox
 capital = "Durr�s"

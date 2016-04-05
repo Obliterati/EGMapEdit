@@ -1,5 +1,3 @@
-owner = HAM
-controller = HAM
 add_core = HAM
 culture = hannoverian
 religion = catholic

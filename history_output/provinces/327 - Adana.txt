@@ -1,5 +1,3 @@
-owner = RAM
-controller = RAM
 culture = turkish
 religion = sunni
 capital = "Adana"

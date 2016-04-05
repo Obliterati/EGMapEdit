@@ -1,3 +1,5 @@
+#1043 - Okhotsk
+
 culture = yakut
 religion = tengri_pagan_reformed
 capital = "Okhotsk"

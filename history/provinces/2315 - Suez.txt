@@ -29,8 +29,3 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
-1521.1.1 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-} # Conquered by the Ottomans

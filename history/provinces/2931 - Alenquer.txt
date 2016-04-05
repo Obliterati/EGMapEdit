@@ -13,14 +13,3 @@ native_size = 15
 native_ferocity = 2
 native_hostileness = 6
 
-1641.1.1 = { discovered_by = NED }
-1771.1.1 = { discovered_by = SPA }
-1796.1.1 = {
-	discovered_by = GBR
-	owner = GBR
-	controller = GBR
-	add_core = GBR
-	is_city = yes
-	trade_goods = slaves
-	culture = english
-}

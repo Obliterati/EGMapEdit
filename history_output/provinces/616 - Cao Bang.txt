@@ -1,3 +1,5 @@
+#616 - Cao Bang
+
 owner = DAI
 controller = DAI
 culture = zhuang
@@ -26,3 +28,11 @@ discovered_by = indian
 	controller = DAI
 	remove_core = MNG
 } # The Le Dynasty
+1445.1.2 = {
+remove_core = DAI
+controller = DAI
+owner = DAI
+religion = mahayana
+culture = zhuang
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+#1062 - Kachinsk
+
 culture = buryat
 religion = tengri_pagan_reformed
 capital = "Angara"

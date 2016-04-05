@@ -30,19 +30,3 @@ discovered_by = MLI
 discovered_by = SFA
 
 1421.1.1 = { discovered_by = MNG }
-1453.1.1 = { discovered_by = western }
-1488.1.1 = { discovered_by = POR }
-1517.1.1 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR
-} # Part of the Ottoman empire
-1801.1.1 = {
-	owner = NAJ
-	controller = NAJ
-	add_core = NAJ
-} # Incorporated into the First Saudi State
-1818.9.9 = {
-	owner = TUR
-	controller = TUR 
-} # The end of the Saudi State

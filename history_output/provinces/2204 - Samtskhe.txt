@@ -1,5 +1,3 @@
-owner = GEO
-controller = GEO
 culture = armenian
 religion = coptic
 capital = "Kars"

@@ -1,3 +1,5 @@
+# No previous file for Ader
+
 owner = AIR
 controller = AIR
 add_core = AIR
@@ -15,3 +17,11 @@ native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
 
+1445.1.2 = {
+remove_core = AIR
+controller = AIR
+owner = AIR
+religion = sunni
+culture = tuareg 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

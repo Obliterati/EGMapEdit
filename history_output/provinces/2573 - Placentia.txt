@@ -1,3 +1,5 @@
+# No previous file for Placentia
+
 culture = cree
 religion = totemism
 capital = "Placentia"

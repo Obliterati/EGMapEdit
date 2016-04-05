@@ -1,3 +1,5 @@
+#2038 - Midnapore
+
 owner = ORI
 controller = ORI
 culture = bengali
@@ -17,3 +19,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = ORI
+controller = ORI
+owner = ORI
+religion = hinduism
+culture = bengali
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

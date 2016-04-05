@@ -1,5 +1,3 @@
-owner = DAN 
-controller = DAN
 add_core = GOT
 add_core = DAN
 add_core = SWE

@@ -1,3 +1,5 @@
+#1992 - Nauru
+
 culture = polynesian
 religion = animism
 capital = "Yaren"

@@ -1,3 +1,5 @@
+#2440 - Kagyrgyn
+
 owner = CHU
 controller = CHU
 add_core = CHU
@@ -19,3 +21,11 @@ discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
 
+1445.1.2 = {
+remove_core = CHU
+controller = CHU
+owner = CHU
+religion = tengri_pagan_reformed
+culture = kamchatkan
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

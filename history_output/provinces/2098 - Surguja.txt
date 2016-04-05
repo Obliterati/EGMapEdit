@@ -1,5 +1,3 @@
-owner = GDW
-controller = GDW
 culture = jharkhandi
 religion = hinduism
 capital = "Surguja"

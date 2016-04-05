@@ -1,3 +1,5 @@
+#396 - Bahrain
+
 owner = ALH
 controller = ALH
 culture = bedouin_arabic
@@ -26,3 +28,11 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+1445.1.2 = {
+remove_core = ALH
+controller = ALH
+owner = ALH
+religion = shiite
+culture = bedouin_arabic
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

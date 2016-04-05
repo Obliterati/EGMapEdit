@@ -1,3 +1,5 @@
+#434 - Quhistan
+
 owner = BAL
 controller = BAL
 culture = baluchi
@@ -16,3 +18,11 @@ discovered_by = ottoman
 discovered_by = indian
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = BAL
+controller = BAL
+owner = BAL
+religion = sunni
+culture = baluchi
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

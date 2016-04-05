@@ -1,3 +1,5 @@
+#549 - Kalingandhra
+
 owner = ORI
 controller = ORI
 culture = telegu
@@ -22,3 +24,11 @@ discovered_by = chinese
 	owner = ORI
 	controller = ORI
 } # Conquered by Gajapatis
+1445.1.2 = {
+remove_core = ORI
+controller = ORI
+owner = ORI
+religion = hinduism
+culture = telegu
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

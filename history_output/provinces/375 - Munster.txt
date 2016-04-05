@@ -1,5 +1,3 @@
-owner = MNS
-controller = MNS
 culture = irish
 religion = catholic
 hre = no

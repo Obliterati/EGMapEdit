@@ -1,3 +1,5 @@
+#645 - Buru
+
 culture = moluccan
 religion = animism
 capital = "Buru"

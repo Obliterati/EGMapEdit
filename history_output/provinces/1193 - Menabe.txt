@@ -1,3 +1,5 @@
+#1193 - Menabe
+
 culture = madagasque
 religion = animism
 capital = "Morondava"

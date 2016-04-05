@@ -1,3 +1,5 @@
+#337 - Oran
+
 owner = TLC
 controller = TLC
 culture = algerian
@@ -15,3 +17,11 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
+1445.1.2 = {
+remove_core = TLC
+controller = TLC
+owner = TLC
+religion = sunni
+culture = algerian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

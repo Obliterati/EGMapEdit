@@ -1,3 +1,5 @@
+#892 - Wichita
+
 culture = wichita
 religion = totemism
 capital = "Wichita"

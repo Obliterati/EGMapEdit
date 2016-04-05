@@ -1,3 +1,5 @@
+# No previous file for Kennebec
+
 culture = abenaki
 religion = totemism
 capital = "Kennebec"

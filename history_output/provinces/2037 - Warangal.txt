@@ -1,5 +1,3 @@
-owner = BAH
-controller = BAH
 culture = telegu
 religion = hinduism
 capital = "Warangal"

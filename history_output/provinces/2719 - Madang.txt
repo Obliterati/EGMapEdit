@@ -1,3 +1,5 @@
+#2719 - Madang
+
 culture = papuan
 religion = animism
 capital = "Madang"

@@ -1,3 +1,5 @@
+#2048 - Garhjat
+
 owner = GRJ
 controller = GRJ
 culture = garjati
@@ -17,3 +19,11 @@ discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = GRJ
+controller = GRJ
+owner = GRJ
+religion = hinduism
+culture = garjati
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

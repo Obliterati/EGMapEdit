@@ -1,3 +1,5 @@
+# No previous file for Michigamea
+
 culture = illini
 religion = totemism
 capital = "Michigamea"

@@ -1,3 +1,5 @@
+#2707 - Barito
+
 culture = bornean
 religion = hinduism
 capital = "Barito"

@@ -1,5 +1,3 @@
-owner = EFR
-controller = EFR
 culture = hannoverian
 religion = catholic
 capital = "Emden"

@@ -1,5 +1,3 @@
-owner = MOS # was part of Ustyug principality, annexed by Muscovy in 1474
-controller = MOS
 culture = russian 
 religion = orthodox
 hre = no

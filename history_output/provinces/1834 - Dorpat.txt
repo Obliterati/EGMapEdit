@@ -1,3 +1,5 @@
+#Dorpat
+
 owner = LIV
 controller = LIV
 add_core = LIV
@@ -14,3 +16,11 @@ estate = estate_nobles
 discovered_by = western
 discovered_by = eastern
 
+1445.1.2 = {
+remove_core = LIV
+controller = LIV
+owner = LIV
+religion = catholic
+culture = latvian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

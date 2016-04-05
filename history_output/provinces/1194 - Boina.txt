@@ -1,3 +1,5 @@
+#1194 - Boina
+
 culture = madagasque #Malagasy
 religion = animism
 capital = "Majunga"

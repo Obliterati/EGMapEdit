@@ -1,3 +1,5 @@
+#1085 - Paredarerme
+
 culture = aboriginal
 religion = animism
 capital = "Paredarerme"

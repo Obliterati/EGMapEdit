@@ -1,3 +1,5 @@
+#1159 - Bagirmi
+
 owner = YAO
 controller = YAO
 add_core = YAO
@@ -12,3 +14,11 @@ base_tax = 3
 base_production = 3
 discovered_by = sub_saharan
 
+1445.1.2 = {
+remove_core = YAO
+controller = YAO
+owner = YAO
+religion = animism
+culture = bilala #bagirmi
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

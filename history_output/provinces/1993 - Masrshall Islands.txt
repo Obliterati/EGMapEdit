@@ -1,3 +1,5 @@
+#1993 - Marshal Islands
+
 culture = polynesian
 religion = animism
 capital = "Majuro"

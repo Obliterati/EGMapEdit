@@ -1,3 +1,5 @@
+#1819 - Tosa
+
 owner = HSK
 controller = HSK
 culture = japanese
@@ -16,3 +18,11 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
+1445.1.2 = {
+remove_core = HSK
+controller = HSK
+owner = HSK
+religion = shinto
+culture = japanese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

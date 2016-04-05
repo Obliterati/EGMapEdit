@@ -1,3 +1,5 @@
+#Lolland-Falster
+
 add_core = DAN
 owner = DAN
 controller = DAN
@@ -15,3 +17,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = DAN
+controller = DAN
+owner = DAN
+religion = catholic
+culture = danish
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

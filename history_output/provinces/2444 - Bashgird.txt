@@ -1,5 +1,3 @@
-owner = KAZ
-controller = KAZ
 culture = bashkir
 religion = sunni
 capital = "Bashgird"

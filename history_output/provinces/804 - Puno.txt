@@ -1,3 +1,5 @@
+#804 - Puno
+
 owner = CLA
 controller = CLA
 culture = aimara
@@ -13,3 +15,11 @@ add_core = CLA
 discovered_by = south_american
 discovered_by = andean
 
+1445.1.2 = {
+remove_core = CLA
+controller = CLA
+owner = CLA
+religion = inti
+culture = aimara
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

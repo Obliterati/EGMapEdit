@@ -1,3 +1,5 @@
+#653 - Lanao
+
 culture = filipino
 religion = animism
 capital = "Marawi"

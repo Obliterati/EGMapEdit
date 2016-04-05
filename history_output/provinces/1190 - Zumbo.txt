@@ -1,3 +1,5 @@
+#1190 - Zumbo
+
 owner = ZIM
 controller = ZIM
 add_core = ZIM
@@ -21,3 +23,11 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+1445.1.2 = {
+remove_core = ZIM
+controller = ZIM
+owner = ZIM
+religion = animism
+culture = bantu # tonga
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,5 +1,3 @@
-owner = MNG
-controller = MNG
 add_core = MNG
 add_core = CYI
 add_core = CDL

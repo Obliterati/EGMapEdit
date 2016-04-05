@@ -1,3 +1,5 @@
+#1847 - Shiribeshi
+
 culture = ainu
 religion = animism
 capital = "Shiribeshi"
@@ -37,3 +39,11 @@ discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
 
+1445.1.2 = {
+remove_core = ANU
+controller = ANU
+owner = ANU
+religion = animism
+culture = ainu
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

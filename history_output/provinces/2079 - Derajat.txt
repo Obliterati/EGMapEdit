@@ -1,3 +1,5 @@
+#2079 - Dera Ghazi Khan
+
 owner = MUL
 controller = MUL
 culture = panjabi
@@ -26,3 +28,11 @@ discovered_by = chinese
 	owner = MUL
 	controller = MUL
 } # Captured by Langas and separated from Sultanate
+1445.1.2 = {
+remove_core = MUL
+controller = MUL
+owner = MUL
+religion = sunni
+culture = panjabi
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

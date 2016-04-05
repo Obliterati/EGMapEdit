@@ -1,3 +1,5 @@
+# 99 Gelre - Principal cities: Arnhem, Zwolle & Nijmegen
+
 owner = GEL
 controller = GEL 
 capital = "Arnhem"
@@ -15,3 +17,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = GEL
+controller = GEL
+owner = GEL
+religion = catholic
+culture = dutch
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+# - Esmeraldas
+
 owner = QTO
 controller = QTO
 culture = cara
@@ -13,3 +15,11 @@ add_core = QTO
 discovered_by = south_american
 discovered_by = andean
 
+1445.1.2 = {
+remove_core = QTO
+controller = QTO
+owner = QTO
+religion = inti
+culture = cara
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

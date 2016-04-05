@@ -1,3 +1,5 @@
+#553 - Sambalpur
+
 owner = GRJ
 controller = GRJ
 culture = garjati
@@ -16,3 +18,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = GRJ
+controller = GRJ
+owner = GRJ
+religion = hinduism
+culture = garjati
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+# 188 Metz - Principal cities: Metz, Thionville
+
 owner = LOR
 controller = LOR 
 capital = "Metz"
@@ -16,3 +18,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = LOR
+controller = LOR
+owner = LOR
+religion = catholic
+culture = burgundian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

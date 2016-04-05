@@ -1,3 +1,5 @@
+#978 - Alaska
+
 culture = aleutian
 religion = totemism
 capital = "Alaska"

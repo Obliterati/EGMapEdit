@@ -1,3 +1,5 @@
+#Ostrov
+
 owner = PSK
 controller = PSK
 culture = russian
@@ -13,3 +15,11 @@ add_core = PSK
 discovered_by = western
 discovered_by = eastern
 
+1445.1.2 = {
+remove_core = PSK
+controller = PSK
+owner = PSK
+religion = orthodox
+culture = russian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+#508 - Kashmir
+
 owner = KSH
 controller = KSH
 culture = kashmiri
@@ -16,3 +18,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = KSH
+controller = KSH
+owner = KSH
+religion = hinduism
+culture = kashmiri
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,5 +1,3 @@
-owner = MLO
-controller = MLO
 culture = lombard
 religion = catholic
 hre = yes

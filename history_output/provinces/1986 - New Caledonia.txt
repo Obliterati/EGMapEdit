@@ -1,3 +1,5 @@
+#1986 - New Caledonia
+
 culture = polynesian
 religion = animism
 capital = "Noum�a"

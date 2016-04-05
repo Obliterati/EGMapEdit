@@ -1,5 +1,3 @@
-owner = TIM
-controller = TIM
 add_core = TIM
 culture = afghani
 religion = sunni

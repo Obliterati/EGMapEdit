@@ -1,3 +1,5 @@
+#2728 - Tiwi
+
 culture = aboriginal
 religion = animism
 capital = "Tiwi"

@@ -1,5 +1,3 @@
-owner = GOL
-controller = GOL 
 culture = astrakhani
 religion = sunni
 capital = "Cherny Yar"

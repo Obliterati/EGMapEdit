@@ -1,18 +1,1 @@
-owner = BER
-controller = BER
-capital = "Bourges"
-is_city = yes
-culture = cosmopolitan_french
-religion = catholic
-hre = no
-base_tax = 7 
-base_production = 7
-trade_goods = wine
-base_manpower = 5
-add_core = BER
-discovered_by = eastern
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
-
-1416.3.15 = { owner = FRA add_core = FRA controller = FRA } # Death of Jean de Valois
+#<File:0x007fcc64915cc0>

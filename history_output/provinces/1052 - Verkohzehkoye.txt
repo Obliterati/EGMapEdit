@@ -1,3 +1,5 @@
+#1052 - Verkohzehkoye
+
 culture = yakut
 religion = tengri_pagan_reformed
 capital = "Stanovoy"

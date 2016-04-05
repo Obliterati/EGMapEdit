@@ -1,5 +1,3 @@
-owner = TUN
-controller = TUN
 culture = berber
 religion = sunni
 capital = "Bejaia"

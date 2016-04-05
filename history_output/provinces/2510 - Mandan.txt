@@ -1,3 +1,5 @@
+# No previous file for Mandan
+
 culture = dakota
 religion = totemism
 capital = "Mandan"

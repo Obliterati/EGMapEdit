@@ -1,3 +1,5 @@
+#566 - Assam
+
 owner = ASS
 controller = ASS
 culture = assamese
@@ -14,3 +16,11 @@ discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = ASS
+controller = ASS
+owner = ASS
+religion = hinduism
+culture = assamese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

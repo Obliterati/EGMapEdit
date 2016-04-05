@@ -1,5 +1,3 @@
-owner = VEN
-controller = VEN
 culture = croatian
 religion = catholic
 capital = "Trieste"

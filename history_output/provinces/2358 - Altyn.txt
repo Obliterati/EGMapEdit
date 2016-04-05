@@ -1,5 +1,3 @@
-owner = SHY
-controller = SHY
 culture = khazak
 religion = sunni
 capital = "Altyn"

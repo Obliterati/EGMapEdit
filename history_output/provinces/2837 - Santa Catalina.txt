@@ -1,3 +1,5 @@
+# - Santa Catalina
+
 owner = CCQ
 controller = CCQ
 add_core = CCQ
@@ -13,3 +15,11 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 
+1445.1.2 = {
+remove_core = CCQ
+controller = CCQ
+owner = CCQ
+religion = inti
+culture = diaguita
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

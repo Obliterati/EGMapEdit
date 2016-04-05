@@ -28,5 +28,3 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
-1517.1.1 = { add_core = TUR remove_core = MAM } # Mamluks fall to Ottomans, Ottomans do not advance up Nile
-1540.1.1 = { owner = TUR controller = TUR capital = "Al Dirr" } #Ottomans occupy Lower Nubia

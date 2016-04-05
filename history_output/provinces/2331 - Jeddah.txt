@@ -1,3 +1,5 @@
+#2331 - Jeddah
+
 owner = HED
 controller = HED
 culture = bedouin_arabic
@@ -28,3 +30,11 @@ discovered_by = MLI
 discovered_by = SFA
 
 1421.1.1 = { discovered_by = MNG }
+1445.1.2 = {
+remove_core = HED
+controller = HED
+owner = HED
+religion = sunni
+culture = bedouin_arabic
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

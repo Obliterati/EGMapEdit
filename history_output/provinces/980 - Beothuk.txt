@@ -1,3 +1,5 @@
+#980 - Beothuk
+
 culture = cree
 religion = totemism
 capital = "Beothuk"

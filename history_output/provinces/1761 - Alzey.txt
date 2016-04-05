@@ -1,3 +1,5 @@
+#1761 - Alzey
+
 capital = "Worms"
 culture = hessian
 religion = catholic
@@ -15,3 +17,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = PAL
+controller = PAL
+owner = PAL
+religion = catholic
+culture = hessian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

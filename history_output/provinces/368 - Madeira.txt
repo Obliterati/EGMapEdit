@@ -1,3 +1,5 @@
+#368 - Madeira
+
 culture = berber
 religion = animism
 capital = "Madeira"
@@ -25,3 +27,11 @@ native_hostileness = 0
 	discovered_by = ottoman
 	trade_goods = sugar	
 }
+1445.1.2 = {
+remove_core = POR
+controller = POR
+owner = POR
+religion = animism
+culture = berber
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

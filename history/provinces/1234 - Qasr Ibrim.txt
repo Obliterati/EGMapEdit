@@ -33,8 +33,3 @@ discovered_by = SFA
 	owner = MAK
 	controller = MAK		
 }
-1517.1.1 = { add_core = TUR } # Mamluks fall to Ottomans, Ottomans do not advance up Nile
-1540.1.1 = {
-	owner = TUR
-	controller = TUR
-} #Ottomans occupy Lower Nubia

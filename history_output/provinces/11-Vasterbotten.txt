@@ -1,3 +1,5 @@
+#V�sterbotten-�ngermanland, from Sundsvall/H�rn�sand over Ume� to Torne�
+
 owner = SWE
 controller = SWE
 add_core = SWE
@@ -13,3 +15,11 @@ is_city = yes
 discovered_by = eastern
 discovered_by = western
 
+1445.1.2 = {
+remove_core = SWE
+controller = SWE
+owner = SWE
+religion = catholic
+culture = swedish
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,5 +1,3 @@
-owner = VIJ
-controller = VIJ
 capital = "Coimbatore"
 culture = tamil
 religion = hinduism

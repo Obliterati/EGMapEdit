@@ -1,3 +1,5 @@
+#814 - Huanuco
+
 owner = HJA
 controller = HJA
 culture = inca
@@ -14,3 +16,11 @@ discovered_by = south_american
 discovered_by = andean
 discovered_by = CHM
 
+1445.1.2 = {
+remove_core = HJA
+controller = HJA
+owner = HJA
+religion = inti
+culture = inca
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

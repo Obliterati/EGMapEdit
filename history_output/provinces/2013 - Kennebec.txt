@@ -1,3 +1,5 @@
+culture = abenaki
+religion = totemism
 capital = "Kennebec"
 trade_goods = unknown
 hre = no

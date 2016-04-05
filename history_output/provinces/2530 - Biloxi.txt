@@ -1,3 +1,5 @@
+# No previous file for Biloxi
+
 culture = choctaw
 religion = totemism
 capital = "Biloxi"

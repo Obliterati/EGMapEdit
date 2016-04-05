@@ -1,3 +1,5 @@
+#2401 - Mong Pai
+
 owner = HSE
 controller = HSE
 culture = karen
@@ -13,3 +15,11 @@ add_core = HSE
 discovered_by = chinese
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = HSE
+controller = HSE
+owner = HSE
+religion = animism
+culture = karen
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

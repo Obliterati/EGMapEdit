@@ -1,3 +1,5 @@
+# No previous file for Daura
+
 owner = KTS
 controller = KTS
 add_core = KTS
@@ -15,3 +17,11 @@ native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
 
+1445.1.2 = {
+remove_core = KTS
+controller = KTS
+owner = KTS
+religion = sunni
+culture = hausa 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

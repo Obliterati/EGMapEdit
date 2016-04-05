@@ -1,3 +1,5 @@
+#2723 - Yos Sudarso
+
 culture = papuan
 religion = animism
 capital = "Yos Sudarso"

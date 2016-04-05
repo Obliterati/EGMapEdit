@@ -1,3 +1,5 @@
+#1831 - Travunia
+
 owner = BOS		# Part of the Bosnian kingdom
 controller = BOS
 culture = serbian
@@ -16,3 +18,11 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = BOS
+controller = BOS
+owner = BOS
+religion = orthodox
+culture = serbian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

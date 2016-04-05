@@ -1,3 +1,5 @@
+#640 - Pontianak
+
 culture = bornean
 religion = sunni
 capital = "Pontianak"

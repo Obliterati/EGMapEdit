@@ -13,11 +13,3 @@ native_ferocity = 1
 native_hostileness = 2
 discovered_by = north_american
 
-1542.1.1 = { discovered_by = SPA } # Hernando de Soto
-1760.1.1 = {
-	owner = CAD
-	controller = CAD
-	add_core = CAD
-	trade_goods = cotton
-	is_city = yes 
-} #Great Plain tribes spread over vast territories

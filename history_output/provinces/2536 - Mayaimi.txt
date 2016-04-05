@@ -1,3 +1,5 @@
+# No previous file for Mayaimi
+
 culture = arawak
 religion = totemism
 capital = "Mayaimi"

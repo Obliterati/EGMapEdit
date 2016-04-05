@@ -1,3 +1,5 @@
+#981 - Taqamkuk
+
 culture = cree
 religion = totemism
 capital = "Taqamkuk"

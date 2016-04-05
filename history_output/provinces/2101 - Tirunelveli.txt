@@ -1,3 +1,5 @@
+#2101 - Tirunelveli
+
 owner = MAD
 controller = MAD
 culture = tamil
@@ -16,3 +18,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = MAD
+controller = MAD
+owner = MAD
+religion = hinduism
+culture = tamil
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

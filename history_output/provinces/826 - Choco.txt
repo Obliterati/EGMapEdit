@@ -1,3 +1,5 @@
+#826 - Choco
+
 culture = guajiro
 religion = animism
 capital = "Choco"

@@ -1,5 +1,3 @@
-owner = TEU
-controller = TEU
 add_core = TEU
 add_core = DNZ
 capital = "Danzig"

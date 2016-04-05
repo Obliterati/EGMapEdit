@@ -1,3 +1,5 @@
+#1183 - Inhambane
+
 culture = bantu #tonga
 religion = animism
 capital = "Inhambane"

@@ -1,3 +1,5 @@
+#501 - Barbados
+
 culture = carib
 religion = animism
 capital = "Barbados"

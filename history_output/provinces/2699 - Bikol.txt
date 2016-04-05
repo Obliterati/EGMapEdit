@@ -1,3 +1,5 @@
+#2699 - Bikol
+
 culture = filipino
 religion = animism
 capital = "Bikol"

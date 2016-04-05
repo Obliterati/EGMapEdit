@@ -1,3 +1,5 @@
+#467 - Borisoglebsk
+
 owner = GOL
 controller = GOL
 culture = mishary
@@ -16,3 +18,11 @@ discovered_by = eastern
 discovered_by = nomad_group
 discovered_by = western
 
+1445.1.2 = {
+remove_core = GOL
+controller = GOL
+owner = GOL
+religion = sunni
+culture = mishary
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+#1229 - Berber
+
 culture = nubian 
 religion = coptic
 capital = "Berber"

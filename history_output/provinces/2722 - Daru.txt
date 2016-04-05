@@ -1,3 +1,5 @@
+#2722 - Daru
+
 culture = papuan
 religion = animism
 capital = "Daru"

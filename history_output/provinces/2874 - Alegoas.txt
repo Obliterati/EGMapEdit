@@ -1,3 +1,5 @@
+# - Aysen
+
 culture = patagonian
 religion = animism
 capital = "Alacaluf"

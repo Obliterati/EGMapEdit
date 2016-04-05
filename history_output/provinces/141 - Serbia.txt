@@ -1,3 +1,5 @@
+#141 - Serbia
+
 owner = SER
 controller = SER
 culture = serbian
@@ -18,3 +20,11 @@ discovered_by = ottoman
 
 1402.1.1 = { capital = "Beograd" }
 1430.1.1 = { capital = "Smederevo" }
+1445.1.2 = {
+remove_core = SER
+controller = SER
+owner = SER
+religion = orthodox
+culture = serbian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

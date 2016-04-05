@@ -1,3 +1,5 @@
+#2002 - Gal�pagos Islands
+
 culture = guajiro
 religion = animism
 capital = "Puerto Baquerizo Moreno"

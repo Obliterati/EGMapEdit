@@ -1,3 +1,5 @@
+#1241 - Kiribati
+
 culture = polynesian
 religion = animism
 capital = "Kiribati"

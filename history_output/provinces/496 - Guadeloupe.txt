@@ -1,3 +1,5 @@
+#496 - Guadeloupe
+
 culture = carib
 religion = animism
 capital = "Guadeloupe"

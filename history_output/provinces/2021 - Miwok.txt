@@ -1,3 +1,5 @@
+#2021 - Miwok
+
 culture = piman
 religion = totemism
 capital = "Salinan" 

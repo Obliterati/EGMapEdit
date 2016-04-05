@@ -1,3 +1,5 @@
+#2439 - Zasjiversk
+
 culture = yukagyr
 religion = tengri_pagan_reformed
 capital = "Zasjiversk"

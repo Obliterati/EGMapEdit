@@ -1,5 +1,3 @@
-owner = GEN
-controller = GEN
 culture = sardinian
 religion = catholic
 capital = "Bastia"

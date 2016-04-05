@@ -1,5 +1,3 @@
-owner = POL
-controller = POL
 capital= "Halicz"
 culture = ruthenian
 religion = orthodox

@@ -1,5 +1,3 @@
-owner = NOV
-controller = NOV  
 culture = karelian
 religion = orthodox
 hre = no

@@ -1,3 +1,5 @@
+#1839 - Suruga
+
 owner = IMG
 controller = IMG
 culture = japanese
@@ -16,3 +18,11 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
+1445.1.2 = {
+remove_core = IMG
+controller = IMG
+owner = IMG
+religion = shinto
+culture = japanese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

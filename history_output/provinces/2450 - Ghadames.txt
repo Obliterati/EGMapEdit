@@ -1,5 +1,3 @@
-owner = GHD
-controller = GHD 
 culture = tunisian
 religion = sunni
 capital = "Ghadames"

@@ -1,3 +1,5 @@
+# No previous file for Yao
+
 owner = YAO
 controller = YAO
 add_core = YAO
@@ -11,3 +13,11 @@ base_production = 3
 is_city = yes
 base_manpower = 1
 discovered_by = sub_saharan
+1445.1.2 = {
+remove_core = YAO
+controller = YAO
+owner = YAO
+religion = sunni
+culture = bilala 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

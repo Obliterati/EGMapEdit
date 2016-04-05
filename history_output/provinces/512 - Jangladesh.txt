@@ -1,3 +1,5 @@
+#512 - Jangladesh
+
 owner = JAN
 controller = JAN
 culture = rajput
@@ -16,3 +18,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = JAN
+controller = JAN
+owner = JAN
+religion = hinduism
+culture = rajput
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

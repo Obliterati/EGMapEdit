@@ -1,3 +1,5 @@
+#609 - Angkor
+
 owner = KHM
 controller = KHM
 culture = khmer
@@ -13,3 +15,11 @@ add_core = KHM
 discovered_by = chinese
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = KHM
+controller = KHM
+owner = KHM
+religion = hinduism
+culture = khmer
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

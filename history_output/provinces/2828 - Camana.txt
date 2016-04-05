@@ -1,3 +1,5 @@
+# - Camana
+
 culture = aimara
 religion = inti
 capital = "Camana"

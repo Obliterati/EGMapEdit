@@ -1,3 +1,5 @@
+# 69 - Oberschwaben (incl. Lindau, Biberach, �berlingen, Ravensberg, and many of the other Free cities of Schwaben)
+culture = swabian
 owner = RVA
 controller = RVA
 add_core = RVA
@@ -14,3 +16,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = RVA
+controller = RVA
+owner = RVA
+religion = catholic
+culture = swabian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

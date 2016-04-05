@@ -1,3 +1,5 @@
+# - Ouargla
+
 owner = TGT
 controller = TGT
 culture = berber
@@ -13,3 +15,11 @@ add_core = TGT
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
+1445.1.2 = {
+remove_core = TGT
+controller = TGT
+owner = TGT
+religion = ibadi
+culture = berber
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

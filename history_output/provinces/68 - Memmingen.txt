@@ -1,3 +1,5 @@
+#68 - Memmingen
+
 owner = MEM
 controller = MEM
 add_core = MEM
@@ -15,3 +17,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = MEM
+controller = MEM
+owner = MEM
+religion = catholic
+culture = swabian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

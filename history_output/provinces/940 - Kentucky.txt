@@ -1,3 +1,5 @@
+#940 - Kentucky
+
 culture = shawnee
 religion = totemism
 capital = "Kentucky"

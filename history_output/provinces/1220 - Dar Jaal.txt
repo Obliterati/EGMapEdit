@@ -1,3 +1,5 @@
+#1220 - Dar Ja'al
+
 culture = nubian 
 religion = animism
 capital = "Bayuda"

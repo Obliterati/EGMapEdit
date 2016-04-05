@@ -1,3 +1,5 @@
+#841 - Guatemala
+
 owner = KIC 
 controller = KIC
 culture = highland_mayan 
@@ -14,3 +16,11 @@ discovered_by = MAY
 discovered_by = ZAP
 discovered_by = AZT
 
+1445.1.2 = {
+remove_core = KIC
+controller = KIC
+owner = KIC
+religion = mesoamerican_religion
+culture = highland_mayan 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

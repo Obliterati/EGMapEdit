@@ -1,3 +1,5 @@
+#2443 - Kansk
+
 culture = buryat
 religion = tengri_pagan_reformed
 capital = "Kansk"

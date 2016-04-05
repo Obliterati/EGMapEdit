@@ -1,3 +1,5 @@
+#1028 - Musashi
+
 owner = JAP
 controller = JAP
 culture = japanese
@@ -19,3 +21,11 @@ discovered_by = QNG
 discovered_by = ANU
 
 1417.1.1 = { fort_15th = yes } # Odawara Castle
+1445.1.2 = {
+remove_core = JAP
+controller = JAP
+owner = JAP
+religion = shinto
+culture = japanese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

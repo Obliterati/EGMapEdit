@@ -1,3 +1,5 @@
+#2056 - Rewa Kantha
+
 owner = CMP
 controller = CMP
 culture = gujarati
@@ -17,3 +19,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = CMP
+controller = CMP
+owner = CMP
+religion = hinduism
+culture = gujarati
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

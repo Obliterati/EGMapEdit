@@ -1,3 +1,5 @@
+#847 - Mixtec
+
 owner = MIX 
 controller = MIX
 culture = mixtec 
@@ -14,3 +16,11 @@ discovered_by = MAY
 discovered_by = ZAP
 discovered_by = AZT
 
+1445.1.2 = {
+remove_core = MIX
+controller = MIX
+owner = MIX
+religion = nahuatl
+culture = mixtec 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

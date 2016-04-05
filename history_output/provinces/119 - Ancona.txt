@@ -1,3 +1,5 @@
+#119 - Ancona
+
 owner = PAP
 controller = PAP
 culture = umbrian 
@@ -16,3 +18,11 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = PAP
+controller = PAP
+owner = PAP
+religion = catholic 
+culture = umbrian 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

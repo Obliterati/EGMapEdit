@@ -1,3 +1,5 @@
+#583 - Hsenwi
+
 owner = HSE
 controller = HSE
 culture = shan
@@ -14,3 +16,11 @@ add_core = CDL
 discovered_by = chinese
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = HSE
+controller = HSE
+owner = HSE
+religion = buddhism
+culture = shan
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

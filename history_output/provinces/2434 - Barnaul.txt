@@ -1,3 +1,5 @@
+#2434 - Barnaul
+
 culture = kirgiz
 religion = tengri_pagan_reformed
 capital = "Barnaul"

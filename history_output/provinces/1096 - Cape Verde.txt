@@ -1,3 +1,5 @@
+#1096 - Cape Verde
+
 capital = "Cape Verde"
 trade_goods = unknown
 hre = no

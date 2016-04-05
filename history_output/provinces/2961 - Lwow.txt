@@ -1,5 +1,3 @@
-owner = POL
-controller = POL
 capital= "Lwow"
 culture = ruthenian
 religion = orthodox

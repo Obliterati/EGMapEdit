@@ -1,3 +1,5 @@
+#656 - Manila
+
 culture = filipino
 religion = animism
 capital = "Manila"

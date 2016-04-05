@@ -1,3 +1,5 @@
+#371 - Akureyri
+
 owner = NOR
 controller = NOR
 add_core = NOR 
@@ -13,3 +15,11 @@ add_local_autonomy = 25
 is_city = yes	
 discovered_by = western
 
+1445.1.2 = {
+remove_core = NOR
+controller = NOR
+owner = NOR
+religion = catholic
+culture = norwegian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

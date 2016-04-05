@@ -1,5 +1,3 @@
-owner = TUN
-controller = TUN 
 culture = algerian
 religion = sunni
 capital = "Al-Djazair"

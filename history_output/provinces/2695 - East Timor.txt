@@ -1,3 +1,5 @@
+#2695 - East Timor
+
 culture = papuan
 religion = animism
 capital = "Timor"

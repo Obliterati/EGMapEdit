@@ -1,3 +1,5 @@
+#2718 - Fak-Fak
+
 culture = papuan
 religion = animism
 capital = "Fak-Fak"

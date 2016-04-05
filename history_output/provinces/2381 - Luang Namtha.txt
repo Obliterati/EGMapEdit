@@ -1,3 +1,5 @@
+#2381 - Luang Namtha
+
 owner = LXA
 controller = LXA
 culture = lao
@@ -14,3 +16,11 @@ add_core = LUA
 discovered_by = chinese
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = LXA
+controller = LXA
+owner = LXA
+religion = buddhism
+culture = lao
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

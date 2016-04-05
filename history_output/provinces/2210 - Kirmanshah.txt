@@ -1,5 +1,3 @@
-owner = TIM
-controller = TIM
 culture = kurdish
 religion = shiite
 capital = "Kirmanshah"

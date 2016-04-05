@@ -1,5 +1,3 @@
-owner = HUN
-controller = HUN
 culture = croatian
 religion = catholic
 capital = "Zagreb"

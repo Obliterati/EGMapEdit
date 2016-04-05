@@ -1,3 +1,5 @@
+#834 - Barinas
+
 culture = guajiro
 discovered_by = south_american
 religion = animism

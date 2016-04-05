@@ -1,3 +1,5 @@
+#1118 - Sierra Leone
+
 culture = dyola
 religion = animism
 capital = "Sherbro"

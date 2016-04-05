@@ -1,3 +1,5 @@
+#2727 - Minang
+
 culture = aboriginal
 religion = animism
 capital = "Minang"

@@ -1,3 +1,5 @@
+#394 - El Catif
+
 owner = ALH
 controller = ALH
 culture = bedouin_arabic
@@ -27,3 +29,11 @@ discovered_by = SFA
 discovered_by = ZIM
 fort_15th = yes
 
+1445.1.2 = {
+remove_core = ALH
+controller = ALH
+owner = ALH
+religion = shiite
+culture = bedouin_arabic
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

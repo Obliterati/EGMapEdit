@@ -1,3 +1,5 @@
+# - S�o Tom�
+
 culture = yorumba
 religion = animism
 capital = "S�o Tom�"

@@ -1,3 +1,5 @@
+#2099 - Kandy
+
 owner = CEY
 controller = CEY
 culture = sinhala
@@ -16,3 +18,11 @@ discovered_by = ottoman
 discovered_by = indian
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = CEY
+controller = CEY
+owner = CEY
+religion = buddhism
+culture = sinhala
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

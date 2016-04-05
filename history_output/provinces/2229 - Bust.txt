@@ -1,5 +1,3 @@
-owner = TIM
-controller = TIM
 culture = afghani
 religion = sunni
 capital = "Kandahar"

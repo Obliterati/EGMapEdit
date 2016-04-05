@@ -1,3 +1,5 @@
+#853 - Huastec
+
 owner = AZT
 controller = AZT
 add_core = AZT
@@ -15,3 +17,11 @@ discovered_by = MAY
 discovered_by = ZAP
 discovered_by = mesoamerican
 
+1445.1.2 = {
+remove_core = AZT
+controller = AZT
+owner = AZT
+religion = nahuatl
+culture = aztek 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

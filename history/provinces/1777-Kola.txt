@@ -1,7 +1,3 @@
-#Kola
-
-owner = NOV
-controller = NOV 
 capital = "Kola"
 culture = sapmi
 religion = orthodox
@@ -19,5 +15,3 @@ discovered_by = western
 discovered_by = eastern
 add_local_autonomy = 25
 
-1478.1.15 = { owner = MOS controller = MOS add_core = MOS remove_core = NOV }
-1503.4.1 = { owner = RUS controller = RUS add_core = RUS remove_core = MOS }

@@ -1,3 +1,5 @@
+#1244 - Tahiti
+
 culture = polynesian
 religion = animism
 capital = "Tahiti"

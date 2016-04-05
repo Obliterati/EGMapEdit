@@ -1,3 +1,5 @@
+#866 - Guaycura
+
 culture = piman
 religion = animism 
 capital = "Guaycura" 

@@ -1,5 +1,3 @@
-owner = TUR
-controller = TUR
 culture = serbian
 religion = orthodox
 capital = "Skopje"

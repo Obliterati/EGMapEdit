@@ -1,3 +1,5 @@
+# 2127 - Yashilkul
+
 owner = KAS
 controller = KAS
 add_core = KAS
@@ -16,3 +18,11 @@ discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = KAS
+controller = KAS
+owner = KAS
+religion = sunni
+culture = uzbehk
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

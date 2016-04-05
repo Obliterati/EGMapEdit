@@ -28,21 +28,3 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
-1480.1.1 = { discovered_by = TUR }
-1488.1.1 = { discovered_by = POR } # Pêro da Covilhã
-1500.1.1 = { discovered_by = TUR }
-1514.1.1 = {
-	owner = POR
-	controller = POR
-	add_core = POR
-} # Captured by the Portuguese
-1624.1.1 = {
-	owner = OMA
-	controller = OMA
-	remove_core = POR
-}
-1727.1.1 = {
-	owner = SHR
-	controller = SHR
-	remove_core = OMA
-} # Declared independent

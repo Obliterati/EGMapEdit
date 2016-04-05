@@ -1,3 +1,5 @@
+#920 - Choctaw
+
 add_core = CHO
 owner = CHO
 controller = CHO
@@ -15,3 +17,11 @@ native_ferocity = 1
 native_hostileness = 3
 discovered_by = north_american
 
+1445.1.2 = {
+remove_core = CHO
+controller = CHO
+owner = CHO
+religion = totemism
+culture = choctaw
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

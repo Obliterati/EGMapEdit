@@ -1,5 +1,3 @@
-owner = MNG
-controller = MNG
 add_core = MNG
 add_core = HMI
 add_core = CSH

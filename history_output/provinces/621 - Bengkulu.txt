@@ -1,3 +1,5 @@
+#621 - Bengkulu
+
 culture = sumatran
 religion = sunni
 capital = "Bengkulu"

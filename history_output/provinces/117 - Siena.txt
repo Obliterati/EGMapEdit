@@ -1,3 +1,5 @@
+#117 - Siena
+
 owner = SIE
 controller = SIE
 culture = tuscan 
@@ -17,3 +19,11 @@ discovered_by = ottoman
 
 1399.1.1 = { unrest = 3 owner = MLO controller = MLO } # The city's seigniory given to Gian Galeazzo, Visconti of Milan
 1404.1.1 = { unrest = 0 owner = SIE controller = SIE } # Visconti is driven out
+1445.1.2 = {
+remove_core = SIE
+controller = SIE
+owner = SIE
+religion = catholic 
+culture = tuscan 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

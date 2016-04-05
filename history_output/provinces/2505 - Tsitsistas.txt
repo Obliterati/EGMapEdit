@@ -1,3 +1,5 @@
+# No previous file for Tsitsistas
+
 culture = shoshone
 religion = totemism
 capital = "Outoulibi"

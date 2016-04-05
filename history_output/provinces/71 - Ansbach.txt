@@ -1,3 +1,5 @@
+# 71 - Ansbach
+
 owner = ANS
 controller = ANS
 add_core = ANS
@@ -15,3 +17,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = ANS
+controller = ANS
+owner = ANS
+religion = catholic
+culture = franconian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

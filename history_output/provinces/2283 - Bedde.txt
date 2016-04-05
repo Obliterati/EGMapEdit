@@ -1,3 +1,5 @@
+# No previous file for Bedde
+
 
 owner = KBO
 controller = KBO
@@ -16,3 +18,11 @@ native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
 
+1445.1.2 = {
+remove_core = KBO
+controller = KBO
+owner = KBO
+religion = sunni
+culture = kanuri 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

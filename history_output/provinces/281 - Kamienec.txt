@@ -1,5 +1,3 @@
-owner = POL
-controller = POL
 culture = ruthenian
 religion = orthodox
 hre = no

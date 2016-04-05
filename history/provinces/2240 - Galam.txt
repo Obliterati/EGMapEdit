@@ -13,10 +13,3 @@ native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
 
-1490.1.1 = {
-	owner = FUL
-	controller = FUL
-	add_core = FUL
-	trade_goods = gold
-	is_city = yes 
-} #Rise of Great Fulo

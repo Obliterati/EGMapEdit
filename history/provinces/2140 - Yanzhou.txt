@@ -1,7 +1,3 @@
-# 2140 - Yanzhou
-
-owner = MNG
-controller = MNG
 add_core = MNG
 culture = zhongyuan
 religion = confucianism
@@ -17,10 +13,3 @@ add_core = QIC
 discovered_by = chinese
 discovered_by = nomad_group
 
-1601.1.1 = { discovered_by = SPA }
-1644.4.1 = { owner = CSH controller = CSH } # The Shun dynasty of Li Zicheng
-1644.11.1 = {
-	owner = QNG
-	controller = QNG
-	add_core = QNG
-}

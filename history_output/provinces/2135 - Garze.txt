@@ -1,3 +1,5 @@
+# 2135 - Garze
+
 owner = KAM
 controller = KAM
 add_core = KAM
@@ -14,3 +16,11 @@ discovered_by = chinese
 discovered_by = indian
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = KAM
+controller = KAM
+owner = KAM
+religion = vajrayana
+culture = tibetan
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

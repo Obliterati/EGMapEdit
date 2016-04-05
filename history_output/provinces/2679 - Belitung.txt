@@ -1,3 +1,5 @@
+#2679 - Belitung
+
 culture = sumatran
 religion = sunni
 capital = "Belitung"

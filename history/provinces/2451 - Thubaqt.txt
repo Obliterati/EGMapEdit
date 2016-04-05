@@ -1,7 +1,3 @@
-# - Thubaqt
-
-owner = TUN
-controller = TUN
 culture = tunisian
 religion = sunni
 capital = "Thubaqt"
@@ -18,8 +14,3 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1558.1.1 = {
-	owner = TRP
-	controller = TRP
-	add_core = TRP
-} #Turgut Reis conquers Thubaqt

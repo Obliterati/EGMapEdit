@@ -1,5 +1,3 @@
-owner = MOS
-controller = MOS
 culture = russian 
 religion = orthodox
 hre = no

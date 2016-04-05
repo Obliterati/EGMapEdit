@@ -1,3 +1,5 @@
+#2720 - Lae
+
 culture = papuan
 religion = animism
 capital = "Lae"

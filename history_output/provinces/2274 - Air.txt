@@ -1,3 +1,5 @@
+# No previous file for Air
+
 owner = AIR
 controller = AIR
 add_core = AIR
@@ -16,3 +18,11 @@ base_manpower = 1
 discovered_by = sub_saharan
 fort_15th = yes
 
+1445.1.2 = {
+remove_core = AIR
+controller = AIR
+owner = AIR
+religion = sunni
+culture = tuareg 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,5 +1,3 @@
-owner = OLD
-controller = OLD
 culture = hannoverian
 religion = catholic
 capital = "Oldenburg"

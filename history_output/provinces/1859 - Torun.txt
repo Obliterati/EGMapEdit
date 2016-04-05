@@ -1,5 +1,3 @@
-owner = TEU
-controller = TEU
 capital = "Torun"
 is_city = yes
 estate = estate_burghers

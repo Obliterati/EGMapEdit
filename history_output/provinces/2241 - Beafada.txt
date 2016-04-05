@@ -1,3 +1,5 @@
+# No previous file for Beafada
+
 culture = senegambian 
 religion = animism
 capital = "Beafada"

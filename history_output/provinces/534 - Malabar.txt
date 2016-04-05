@@ -1,3 +1,5 @@
+#534 - Malabar
+
 owner = MAB
 controller = MAB
 culture = malayalam
@@ -23,3 +25,11 @@ add_permanent_province_modifier = {
 }
 
 1405.1.1 = { discovered_by = chinese }
+1445.1.2 = {
+remove_core = MAB
+controller = MAB
+owner = MAB
+religion = hinduism
+culture = malayalam
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

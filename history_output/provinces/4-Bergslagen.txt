@@ -1,3 +1,5 @@
+#Bergslagen, contains Falun, V�ster�s etc.
+
 add_core = SWE
 owner = SWE
 controller = SWE
@@ -21,3 +23,11 @@ discovered_by = ottoman
 1438.3.1 = { revolt = {} controller = SWE } # Unclear date
 1438.10.1 = { revolt = { type = anti_tax_rebels size = 1 } controller = REB } # Karl Knutsson Bonde, unclear date
 1440.9.1 = { revolt = {} controller = SWE } # Christopher III elected Union King
+1445.1.2 = {
+remove_core = SWE
+controller = SWE
+owner = SWE
+religion = catholic
+culture = swedish
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

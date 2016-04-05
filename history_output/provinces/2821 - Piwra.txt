@@ -1,3 +1,5 @@
+# - Piwra
+
 owner = CHM
 controller = CHM
 culture = chimuan
@@ -14,3 +16,11 @@ discovered_by = CHM
 discovered_by = south_american
 discovered_by = andean
 
+1445.1.2 = {
+remove_core = CHM
+controller = CHM
+owner = CHM
+religion = inti
+culture = chimuan
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

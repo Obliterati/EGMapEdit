@@ -1,3 +1,5 @@
+#Keksholms l�n+Karelen, incl. Sordavala and Keksholm.
+
 owner = NOV
 controller = NOV
 add_core = NOV
@@ -14,3 +16,11 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = NOV
+controller = KRL
+owner = KRL
+religion = orthodox
+culture = karelian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

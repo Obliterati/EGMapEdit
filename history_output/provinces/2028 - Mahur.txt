@@ -1,3 +1,5 @@
+#2028 - Mahur
+
 owner = BAH
 controller = BAH
 culture = telegu
@@ -16,3 +18,11 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = BAH
+controller = BAH
+owner = BAH
+religion = hinduism
+culture = telegu
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+# No previous file for Haayre
+
 owner = MSI
 controller = MSI
 add_core = MSI
@@ -16,3 +18,11 @@ native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
 
+1445.1.2 = {
+remove_core = MSI
+controller = MSI
+owner = MSI
+religion = animism
+culture = bozo 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,5 +1,3 @@
-owner = ENG
-controller = ENG 
 capital = "Calais"
 culture = flemish
 religion = catholic

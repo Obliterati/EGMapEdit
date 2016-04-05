@@ -1,3 +1,5 @@
+#2684 - Nias
+
 culture = sumatran
 religion = sunni
 capital = "Nias"

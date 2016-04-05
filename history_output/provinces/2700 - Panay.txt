@@ -1,3 +1,5 @@
+#2700 - Panay
+
 culture = filipino
 religion = animism
 capital = "Panay"

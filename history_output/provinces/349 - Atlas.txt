@@ -1,5 +1,3 @@
-owner = TLC
-controller = TLC
 culture = berber
 religion = sunni
 capital = "Figuig"

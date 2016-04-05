@@ -1,3 +1,5 @@
+#483 - Turks Islands
+
 culture = carib
 religion = animism
 capital = "Grand Turk"

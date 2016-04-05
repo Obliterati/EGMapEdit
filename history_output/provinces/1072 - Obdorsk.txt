@@ -1,3 +1,5 @@
+#1072 - Obdorsk
+
 culture = samoyed
 religion = shamanism
 capital = "Obdorsk"

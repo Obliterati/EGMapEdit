@@ -1,3 +1,5 @@
+#993 - Hochelega
+
 culture = huron
 religion = totemism
 capital = "Hochelega"

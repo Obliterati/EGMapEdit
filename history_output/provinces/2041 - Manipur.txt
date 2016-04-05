@@ -1,3 +1,5 @@
+#2041 - Manipur
+
 owner = MLB
 controller = MLB
 culture = chin
@@ -14,3 +16,11 @@ discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = MLB
+controller = MLB
+owner = MLB
+religion = animism
+culture = chin
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

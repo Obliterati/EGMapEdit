@@ -1,3 +1,5 @@
+#1989 - Tonga
+
 culture = polynesian
 religion = animism
 capital = "Nuku'alofa"

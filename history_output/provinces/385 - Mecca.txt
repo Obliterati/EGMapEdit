@@ -1,3 +1,5 @@
+#385 - Mecca
+
 owner = HED
 controller = HED
 culture = bedouin_arabic
@@ -33,3 +35,11 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
+1445.1.2 = {
+remove_core = HED
+controller = HED
+owner = HED
+religion = sunni
+culture = bedouin_arabic
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

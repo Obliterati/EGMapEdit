@@ -1,3 +1,5 @@
+# No previous file for Karou
+
 culture = dyola
 religion = animism
 capital = "Karou"

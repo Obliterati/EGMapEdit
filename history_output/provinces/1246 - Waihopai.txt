@@ -1,3 +1,5 @@
+#1246 - Waihopai
+
 culture = polynesian
 religion = animism
 capital = "Waihopai"

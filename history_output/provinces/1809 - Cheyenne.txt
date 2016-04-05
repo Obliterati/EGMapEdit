@@ -1,3 +1,5 @@
+#1809 - Cheyenne
+
 culture = shoshone
 religion = totemism
 capital = "Cheyenne"

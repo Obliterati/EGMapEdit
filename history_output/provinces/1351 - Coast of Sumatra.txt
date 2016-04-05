@@ -1,3 +1,5 @@
+discovered_by = MLC
+discovered_by = ATJ
 discovered_by = MAJ
 discovered_by = MKS
 discovered_by = BLI

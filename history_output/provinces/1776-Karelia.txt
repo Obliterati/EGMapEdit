@@ -1,5 +1,3 @@
-owner = NOV
-controller = NOV 
 capital = "Kem"
 culture = karelian
 religion = orthodox

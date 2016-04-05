@@ -1,5 +1,3 @@
-owner = BRE
-controller = BRE
 culture = hannoverian
 religion = catholic
 capital = "Bremen"

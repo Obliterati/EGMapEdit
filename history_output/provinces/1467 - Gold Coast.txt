@@ -1,3 +1,5 @@
+discovered_by = MAL
+discovered_by = SOF
 discovered_by = ASH
 discovered_by = SON
 discovered_by = HAU

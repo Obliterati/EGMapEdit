@@ -1,7 +1,3 @@
-#339 - Bejaia
-
-owner = TUN
-controller = TUN
 culture = berber
 religion = sunni
 capital = "Bejaia"
@@ -18,9 +14,3 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1510.1.1 = {
-	owner = KBA
-	controller = KBA
-	capital = "Kalâa"
-}
-1600.1.1 = { capital = "Medjana" }

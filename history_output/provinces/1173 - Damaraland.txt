@@ -1,1 +1,2 @@
-1487.1.1 = { discovered_by = POR } # Bartolomeu Dias
+#1173 - Namib Desert / Skeleton Coast
+

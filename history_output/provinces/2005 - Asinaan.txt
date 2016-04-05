@@ -1,3 +1,5 @@
+#2005 - Asinaan
+
 culture = cheyenne
 religion = totemism
 capital = "Asinaan"

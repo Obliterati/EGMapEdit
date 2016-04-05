@@ -1,3 +1,5 @@
+#1215 - Tajura
+
 owner = ADA
 controller = ADA
 add_core = ADA
@@ -24,3 +26,11 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = ADA
+controller = ADA
+owner = ADA
+religion = sunni
+culture = somali #afar
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

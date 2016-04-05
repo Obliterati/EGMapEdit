@@ -1,3 +1,5 @@
+#2069 - Kumaon
+
 owner = GHR
 controller = GHR
 culture = nepali
@@ -16,3 +18,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = GHR
+controller = GHR
+owner = GHR
+religion = hinduism
+culture = nepali
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

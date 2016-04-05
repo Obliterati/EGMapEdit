@@ -1,3 +1,5 @@
+#966 - Nipmuc (Western Massachusetts)
+
 culture = pequot
 religion = totemism 
 capital = "Nipmuc" 

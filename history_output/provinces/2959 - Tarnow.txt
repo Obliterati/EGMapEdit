@@ -1,5 +1,3 @@
-owner = POL
-controller = POL
 capital = "Tarnow"
 culture = polish
 religion = catholic

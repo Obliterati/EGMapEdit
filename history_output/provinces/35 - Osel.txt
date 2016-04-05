@@ -1,3 +1,5 @@
+#�sel and Dag�, incl. Sonnenburg and Arensburg.
+
 owner = LIV
 controller = LIV
 add_core = LIV
@@ -14,3 +16,11 @@ is_city = yes
 discovered_by = western
 discovered_by = eastern
 
+1445.1.2 = {
+remove_core = LIV
+controller = EST
+owner = EST
+religion = catholic
+culture = estonian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

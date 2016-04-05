@@ -1,3 +1,5 @@
+#967 - Narraganset
+
 culture = pequot
 religion = totemism
 capital = "Narraganset"

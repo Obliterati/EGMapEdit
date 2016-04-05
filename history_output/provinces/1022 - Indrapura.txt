@@ -1,3 +1,5 @@
+#1022 - Indrapura
+
 owner = CHA
 controller = CHA
 culture = cham
@@ -22,3 +24,11 @@ discovered_by = ottoman
 	controller = DAI
 	add_core = DAI
 } # Severe defeat against the Vietnamese, Indrapura is annexed
+1445.1.2 = {
+remove_core = CHA
+controller = CHA
+owner = CHA
+religion = hinduism
+culture = cham
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

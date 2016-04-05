@@ -1,3 +1,5 @@
+#1068 - Pegaya Orda
+
 culture = ostyaki
 religion = tengri_pagan_reformed
 capital = "Ket"

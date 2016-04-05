@@ -1,3 +1,5 @@
+#2074 - Ladakh
+
 owner = LDK
 controller = LDK
 culture = kashmiri
@@ -16,3 +18,11 @@ discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = LDK
+controller = LDK
+owner = LDK
+religion = vajrayana
+culture = kashmiri
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

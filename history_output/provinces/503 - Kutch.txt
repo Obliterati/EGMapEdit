@@ -1,3 +1,5 @@
+#503 - Kutch
+
 owner = KAT
 controller = KAT
 culture = gujarati
@@ -17,3 +19,11 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = KAT
+controller = KAT
+owner = KAT
+religion = hinduism
+culture = gujarati
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

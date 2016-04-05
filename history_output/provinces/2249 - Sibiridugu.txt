@@ -1,3 +1,5 @@
+# No previous file for Sibiridugu
+
 owner = MAL
 controller = MAL
 add_core = MAL
@@ -16,3 +18,11 @@ native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
 
+1445.1.2 = {
+remove_core = MAL
+controller = MAL
+owner = MAL
+religion = animism
+culture = mali 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

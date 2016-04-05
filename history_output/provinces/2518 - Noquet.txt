@@ -1,3 +1,5 @@
+# No previous file for Noquet
+
 culture = anishinabe
 religion = totemism
 capital = "Noquet"

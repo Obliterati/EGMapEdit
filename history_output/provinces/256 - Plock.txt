@@ -1,5 +1,3 @@
-owner = MAZ
-controller = MAZ
 capital = "Plock"
 is_city = yes
 culture = polish

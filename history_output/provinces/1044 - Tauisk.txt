@@ -1,3 +1,5 @@
+#1044 - Tauisk
+
 culture = kamchatkan
 religion = tengri_pagan_reformed
 capital = "Tauisk"

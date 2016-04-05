@@ -1,7 +1,3 @@
-# - Dahra
-
-owner = TLC
-controller = TLC
 culture = algerian
 religion = sunni
 capital = "Mostaganem"
@@ -18,7 +14,3 @@ discovered_by = ottoman
 discovered_by = western
 discovered_by = eastern
 
-1517.1.1 = {
-	owner = ALG
-	controller = ALG
-}

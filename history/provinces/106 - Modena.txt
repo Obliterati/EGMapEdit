@@ -1,7 +1,3 @@
-#106 - Modena
-
-owner = FER
-controller = FER
 culture = romagnan 
 religion = catholic 
 hre = yes 
@@ -18,14 +14,3 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
-1495.1.1 = { hre = no }
-1597.10.28 = {
-	owner = MOD
-	controller = MOD
-}
-1797.6.29 = {
-	owner = ITA
-	controller = ITA
-	add_core = ITA
-} # Transpadane and Cispadane Merge
-1814.4.11 = { owner = MOD controller = MOD remove_core = ITA }

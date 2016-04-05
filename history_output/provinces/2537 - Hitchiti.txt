@@ -1,3 +1,5 @@
+# No previous file for Hitchiti
+
 culture = creek
 religion = totemism
 capital = "Hitchiti"

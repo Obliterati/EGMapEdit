@@ -1,3 +1,5 @@
+#2438 - Kharya
+
 culture = yakut
 religion = tengri_pagan_reformed
 capital = "Kharya"

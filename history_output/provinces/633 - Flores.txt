@@ -1,3 +1,5 @@
+#633 - Flores
+
 culture = papuan
 religion = animism
 capital = "Flores"

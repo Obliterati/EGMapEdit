@@ -1,3 +1,5 @@
+#1249 - Yola
+
 culture = bantu #Jukun 
 religion = animism
 capital = "Kwararafa"

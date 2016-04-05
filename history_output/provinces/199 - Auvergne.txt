@@ -1,5 +1,3 @@
-owner = FRA
-controller = FRA
 capital = "Clermont"
 is_city = yes
 culture = occitain

@@ -1,3 +1,5 @@
+#825 - Bogota
+
 owner = MCA
 controller = MCA
 culture = muisca
@@ -13,3 +15,11 @@ base_production = 6
 base_manpower = 2
 add_core = MCA
 
+1445.1.2 = {
+remove_core = MCA
+controller = MCA
+owner = MCA
+religion = inti
+culture = muisca
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

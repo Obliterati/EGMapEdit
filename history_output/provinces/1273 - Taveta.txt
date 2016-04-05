@@ -1,3 +1,5 @@
+#1273 - Taveta
+
 culture = bantu #Taveta People
 religion = animism
 trade_goods = unknown

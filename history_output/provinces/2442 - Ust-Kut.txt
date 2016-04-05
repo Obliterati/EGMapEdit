@@ -1,3 +1,5 @@
+#2442 - Ust-Kut
+
 culture = buryat
 religion = tengri_pagan_reformed
 capital = "Ust-Kut"

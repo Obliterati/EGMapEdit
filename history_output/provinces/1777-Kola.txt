@@ -1,5 +1,3 @@
-owner = NOV
-controller = NOV 
 capital = "Kola"
 culture = sapmi
 religion = orthodox

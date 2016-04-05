@@ -1,3 +1,5 @@
+#57 - Brunswick
+
 owner = BRU
 controller = BRU
 culture = hannoverian
@@ -16,3 +18,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = BRU
+controller = BRU
+owner = BRU
+religion = catholic
+culture = hannoverian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

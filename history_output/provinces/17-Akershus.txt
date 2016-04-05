@@ -1,3 +1,5 @@
+#Akershus, incl. Oslo (Christiania), Sarpsborg, T�nsberg
+ 
 owner = NOR
 controller = NOR
 add_core = NOR
@@ -16,3 +18,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = NOR
+controller = NOR
+owner = NOR
+religion = catholic
+culture = norwegian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

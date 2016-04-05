@@ -1,3 +1,5 @@
+#832 - Tunja
+
 owner = MCA
 controller = MCA
 culture = muisca
@@ -13,3 +15,11 @@ add_core = MCA
 discovered_by = south_american
 discovered_by = MCA
 
+1445.1.2 = {
+remove_core = MCA
+controller = MCA
+owner = MCA
+religion = inti
+culture = muisca
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

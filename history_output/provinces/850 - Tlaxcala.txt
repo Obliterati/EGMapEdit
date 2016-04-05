@@ -1,3 +1,5 @@
+#850 - Tlaxcala
+
 owner = TLX
 controller = TLX
 culture = aztek
@@ -13,3 +15,11 @@ add_core = TLX
 discovered_by = mesoamerican
 fort_15th = yes
 
+1445.1.2 = {
+remove_core = TLX
+controller = TLX
+owner = TLX
+religion = nahuatl
+culture = aztek
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

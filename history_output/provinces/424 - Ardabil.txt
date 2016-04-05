@@ -1,3 +1,5 @@
+#424 - Ardabil
+
 owner = QAR
 controller = QAR
 culture = azerbaijani
@@ -17,3 +19,11 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = QAR
+controller = QAR
+owner = QAR
+religion = shiite
+culture = azerbaijani
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

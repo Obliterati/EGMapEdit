@@ -1,3 +1,5 @@
+#727 - Aigun
+
 owner = MHX
 controller = MHX
 add_core = MHX
@@ -13,3 +15,11 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = MHX
+controller = MHX
+owner = MHX
+religion = tengri_pagan_reformed
+culture = manchu
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

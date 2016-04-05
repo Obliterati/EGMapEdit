@@ -1,3 +1,5 @@
+# No previous file for Atikamekw
+
 culture = cree
 religion = totemism
 capital = "Atikamekw"

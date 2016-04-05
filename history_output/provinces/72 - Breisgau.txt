@@ -1,3 +1,5 @@
+#72 - Breisgau
+
 owner = BAD
 controller = BAD
 add_core = BAD
@@ -15,3 +17,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = BAD
+controller = BAD
+owner = BAD
+religion = catholic
+culture = swabian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

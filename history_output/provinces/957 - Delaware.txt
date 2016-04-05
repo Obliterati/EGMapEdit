@@ -1,3 +1,5 @@
+#957 - Delaware
+
 culture = delaware
 religion = totemism
 capital = "Delaware"

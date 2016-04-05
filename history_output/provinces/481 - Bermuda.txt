@@ -1,3 +1,5 @@
+#481 - Bermuda
+
 capital = "Bermuda"
 trade_goods = unknown
 hre = no

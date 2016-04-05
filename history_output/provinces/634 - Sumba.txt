@@ -1,3 +1,5 @@
+#634 - Sumba
+
 culture = papuan
 religion = animism
 capital = "Sumba"

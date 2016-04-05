@@ -1,3 +1,5 @@
+#1245 - Manokwari
+
 culture = papuan
 religion = animism
 capital = "Manokwari"

@@ -1,3 +1,5 @@
+#838 - Mosquito
+
 culture = miskito 
 religion = animism 
 capital = "Mosquito" 

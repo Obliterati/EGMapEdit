@@ -1,3 +1,5 @@
+#1162 - Wukari
+
 culture = bantu #Jukun 
 religion = animism
 capital = "Wukari"

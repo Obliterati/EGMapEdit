@@ -1,3 +1,5 @@
+# - Arezzo
+
 owner = LAN
 controller = LAN
 culture = tuscan 
@@ -15,3 +17,11 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = LAN
+controller = LAN
+owner = LAN
+religion = catholic 
+culture = tuscan 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,5 +1,3 @@
-owner = ENG
-controller = ENG
 capital = "Bayonne"
 is_city = yes
 culture = basque

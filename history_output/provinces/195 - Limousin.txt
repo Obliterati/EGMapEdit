@@ -1,5 +1,3 @@
-owner = FRA
-controller = FRA
 capital = "Limoges"
 is_city = yes
 culture = aquitaine

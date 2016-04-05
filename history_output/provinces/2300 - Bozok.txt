@@ -1,5 +1,3 @@
-owner = TUR
-controller = TUR
 culture = turkish
 religion = sunni
 capital = "Yozgat"

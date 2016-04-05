@@ -1,3 +1,5 @@
+#1792 - Antananarivo
+
 culture = madagasque
 religion = animism
 capital = "Antananarivo"

@@ -1,3 +1,5 @@
+#2726 - Malgana
+
 culture = aboriginal
 religion = animism
 capital = "Malgana"

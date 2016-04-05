@@ -1,3 +1,5 @@
+#2025 - South Georgia
+
 capital = "South Georgia"
 culture = patagonian
 trade_goods = unknown

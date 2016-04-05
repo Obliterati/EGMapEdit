@@ -1,3 +1,5 @@
+#V�sterg�tland, contains G�teborg, Skara, Sk�vde etc.
+
 add_core = SWE
 owner = SWE
 controller = SWE
@@ -18,3 +20,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = SWE
+controller = SWE
+owner = SWE
+religion = catholic
+culture = swedish
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+#782 - Tierra del Fuego
+
 culture = patagonian
 religion = animism
 capital = "Tierra del Fuego"

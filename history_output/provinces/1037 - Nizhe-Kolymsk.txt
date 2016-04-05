@@ -1,3 +1,5 @@
+#1037 - Nizhe-Kolymsk
+
 owner = HOD
 controller = HOD
 add_core = HOD
@@ -18,3 +20,11 @@ discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
 
+1445.1.2 = {
+remove_core = HOD
+controller = HOD
+owner = HOD
+religion = tengri_pagan_reformed
+culture = yukagyr
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

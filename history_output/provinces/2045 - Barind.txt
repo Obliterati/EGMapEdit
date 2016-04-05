@@ -1,5 +1,3 @@
-owner = BNG
-controller = BNG
 culture = bengali
 religion = hinduism
 capital = "Pandua"

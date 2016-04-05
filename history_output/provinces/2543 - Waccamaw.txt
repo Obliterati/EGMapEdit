@@ -1,3 +1,5 @@
+# No previous file for Waccamaw
+
 culture = catawba
 religion = totemism
 capital = "Waccamaw"

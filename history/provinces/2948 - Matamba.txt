@@ -17,4 +17,3 @@ discovered_by = LOA
 discovered_by = NDO
 discovered_by = sub_saharan
 
-1483.1.1 = { discovered_by = POR } # Diogo Cão

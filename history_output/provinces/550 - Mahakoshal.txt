@@ -1,3 +1,5 @@
+#550 - Mahakoshal
+
 owner = GDW
 controller = GDW
 culture = gondi
@@ -19,3 +21,11 @@ discovered_by = chinese
 
 1439.1.1 = { controller = MLW }
 1441.1.1 = { controller = GDW }
+1445.1.2 = {
+remove_core = GDW
+controller = GDW
+owner = GDW
+religion = hinduism
+culture = gondi
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

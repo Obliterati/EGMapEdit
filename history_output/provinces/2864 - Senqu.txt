@@ -1,3 +1,5 @@
+# - Senqu
+
 culture = bantu
 religion = animism
 capital = "Senqu"

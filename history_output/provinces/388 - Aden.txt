@@ -1,3 +1,5 @@
+#388 - Aden
+
 owner = ADE
 controller = ADE
 culture = yemeni_culture
@@ -31,3 +33,11 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
+1445.1.2 = {
+remove_core = ADE
+controller = ADE
+owner = ADE
+religion = sunni
+culture = yemeni_culture
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

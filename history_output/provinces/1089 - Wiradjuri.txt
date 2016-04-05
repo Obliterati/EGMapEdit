@@ -1,3 +1,5 @@
+#1089 - Wiradjuri
+
 culture = aboriginal
 religion = animism
 capital = "Wiradjuri"

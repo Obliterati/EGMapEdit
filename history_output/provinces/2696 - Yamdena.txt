@@ -1,3 +1,5 @@
+#2696 - Yamdena
+
 culture = moluccan
 religion = animism
 capital = "Yamdena"

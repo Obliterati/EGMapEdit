@@ -1,3 +1,5 @@
+#1105 - Vestbygden
+
 culture = inuit
 religion = shamanism
 capital = "Vestbygden"

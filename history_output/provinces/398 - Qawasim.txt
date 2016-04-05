@@ -1,3 +1,5 @@
+#398 - Qawasim
+
 owner = OMA
 controller = OMA
 culture = bedouin_arabic
@@ -26,3 +28,11 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+1445.1.2 = {
+remove_core = OMA
+controller = OMA
+owner = OMA
+religion = ibadi
+culture = bedouin_arabic
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

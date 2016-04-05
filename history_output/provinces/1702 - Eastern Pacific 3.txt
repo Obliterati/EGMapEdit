@@ -1,1 +1,2 @@
-1528.1.1 = { discovered_by = SPA }
+discovered_by = INC
+discovered_by = CHM

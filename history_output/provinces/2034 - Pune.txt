@@ -1,5 +1,3 @@
-owner = BAH
-controller = BAH
 culture = marathi
 religion = hinduism
 capital = "Pune"

@@ -1,3 +1,5 @@
+#1038 - Karalveyem
+
 culture = yukagyr
 religion = tengri_pagan_reformed
 capital = "Karalveyem"

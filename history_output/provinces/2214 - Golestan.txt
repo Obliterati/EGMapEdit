@@ -1,5 +1,3 @@
-owner = TIM
-controller = TIM
 culture = mazandarani
 religion = shiite
 capital = "Asatarabad"

@@ -1,5 +1,3 @@
-owner = BOH
-controller = BOH
 capital = "Brunn"
 culture = czech
 religion = catholic

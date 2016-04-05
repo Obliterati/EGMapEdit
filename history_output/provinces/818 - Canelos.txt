@@ -1,3 +1,5 @@
+#818 - Canelos
+
 culture = jivaro
 religion = animism
 capital = "Canelos"

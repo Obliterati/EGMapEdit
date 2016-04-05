@@ -27,7 +27,3 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
-1488.1.1 = { discovered_by = POR }
-1507.1.1 = { owner = POR controller = POR } # Conquered by the Portuguese
-1511.1.1 = { owner = ADE controller = ADE } # Reverts to Aden rule
-1550.1.1 = { discovered_by = TUR }

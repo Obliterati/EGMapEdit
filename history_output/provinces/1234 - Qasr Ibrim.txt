@@ -1,3 +1,5 @@
+#1234 - Qasr Ibrim
+
 owner = MAM
 controller = MAM
 add_core = MAK
@@ -31,3 +33,11 @@ discovered_by = SFA
 	owner = MAK
 	controller = MAK		
 }
+1445.1.2 = {
+remove_core = MAM
+controller = MAM
+owner = MAM
+religion = sunni
+culture = nubian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

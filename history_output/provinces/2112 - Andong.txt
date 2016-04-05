@@ -1,3 +1,5 @@
+# 2112 - Andong
+
 owner = MNG
 controller = MNG
 add_core = MNG
@@ -13,3 +15,11 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = MNG
+controller = MNG
+owner = MNG
+religion = confucianism
+culture = manchu
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

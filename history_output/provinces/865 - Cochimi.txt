@@ -1,3 +1,5 @@
+#865 - Cochimi
+
 culture = piman
 religion = animism 
 capital = "Cochimi" 

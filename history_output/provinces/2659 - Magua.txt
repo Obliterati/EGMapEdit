@@ -1,3 +1,5 @@
+# No previous file for Magua
+
 culture = arawak
 religion = animism
 capital = "Magua"

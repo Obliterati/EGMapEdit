@@ -1,3 +1,5 @@
+#997 - Labrador
+
 culture = inuit
 religion = totemism
 capital = "Labrador"

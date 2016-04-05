@@ -1,5 +1,3 @@
-owner = KAZ
-controller = KAZ
 culture = uralic
 religion = shamanism
 hre = no

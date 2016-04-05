@@ -1,3 +1,5 @@
+#1165 - Gabon
+
 culture = kongolese
 religion = shamanism
 capital = "Gabon"

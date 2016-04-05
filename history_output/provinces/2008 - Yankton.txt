@@ -1,3 +1,5 @@
+#2008 - Yankton
+
 culture = pawnee #Old plains people
 religion = totemism
 capital = "Lakota"

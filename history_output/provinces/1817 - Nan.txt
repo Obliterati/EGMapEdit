@@ -1,3 +1,5 @@
+#1817 - Nan
+
 owner = LNA
 controller = LNA
 culture = northern_thai
@@ -13,3 +15,11 @@ add_core = LNA
 discovered_by = chinese
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = LNA
+controller = LNA
+owner = LNA
+religion = buddhism
+culture = northern_thai
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

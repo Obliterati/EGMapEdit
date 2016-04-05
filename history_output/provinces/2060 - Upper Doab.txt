@@ -1,3 +1,5 @@
+#2060 - Upper Doab
+
 owner = DLH
 controller = DLH
 culture = kanauji
@@ -19,3 +21,11 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 1414.1.1 = { remove_core = MUL }
+1445.1.2 = {
+remove_core = DLH
+controller = DLH
+owner = DLH
+religion = hinduism
+culture = kanauji
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

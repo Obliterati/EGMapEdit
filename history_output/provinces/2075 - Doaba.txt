@@ -1,5 +1,3 @@
-owner = DLH
-controller = DLH
 culture = panjabi
 religion = hinduism
 capital = "Jalandhar"

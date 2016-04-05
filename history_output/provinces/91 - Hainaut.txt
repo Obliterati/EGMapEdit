@@ -1,5 +1,3 @@
-owner = BUR
-controller = BUR
 add_core = BUR
 capital = "Mons"
 is_city = yes

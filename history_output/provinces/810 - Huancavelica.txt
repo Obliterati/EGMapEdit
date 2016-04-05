@@ -1,3 +1,5 @@
+#810 - Huancavelica
+
 owner = WKA
 controller = WKA
 culture = inca
@@ -13,3 +15,11 @@ add_core = WKA
 discovered_by = south_american
 discovered_by = andean
 
+1445.1.2 = {
+remove_core = WKA
+controller = WKA
+owner = WKA
+religion = inti
+culture = inca
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

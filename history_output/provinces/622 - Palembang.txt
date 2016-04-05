@@ -1,3 +1,5 @@
+#622 - Palembang
+
 culture = sumatran
 religion = sunni
 capital = "Palembang"

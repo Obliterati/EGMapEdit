@@ -1,3 +1,5 @@
+#1032 - Kurils
+
 culture = ainu
 religion = animism
 capital = "Kuril"

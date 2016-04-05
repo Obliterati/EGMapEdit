@@ -1,3 +1,5 @@
+#423 - Kartli
+
 owner = GEO
 controller = GEO
 culture = georgian
@@ -17,3 +19,11 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = GEO
+controller = GEO
+owner = GEO
+religion = orthodox
+culture = georgian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+#2230 - Chagai
+
 owner = BAL
 controller = BAL
 culture = baluchi
@@ -16,3 +18,11 @@ discovered_by = indian
 discovered_by = nomad_group
 add_local_autonomy = 75
 
+1445.1.2 = {
+remove_core = BAL
+controller = BAL
+owner = BAL
+religion = sunni
+culture = baluchi
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+#601 - Sukhothai
+
 owner = SUK
 controller = SUK
 culture = central_thai
@@ -17,3 +19,11 @@ discovered_by = indian
 1438.1.1 = {	
 	add_core = AYU
 } # Sukhothai is under Personal Union with Ayutthaya
+1445.1.2 = {
+remove_core = SUK
+controller = SUK
+owner = SUK
+religion = buddhism
+culture = central_thai
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

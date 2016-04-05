@@ -1,7 +1,3 @@
-#1874 - Bremen
-
-owner = BRE
-controller = BRE
 culture = hannoverian
 religion = catholic
 capital = "Bremen"
@@ -25,22 +21,3 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-1532.1.1 = { religion = protestant }
-1563.1.1 = {
-} # Bremen kicked out of the Hansa due to religious conflicts
-1576.1.1 = {
-	owner = HSA
-	controller = HSA
-} # Bremen again member of the Hansa
-1627.5.1 = { controller = HAB }
-1806.7.12 = { hre = no } # The Holy Roman Empire is dissolved
-1811.12.13 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-}# Annexed by France
-1814.4.11 = {
-	owner = BRE
-	controller = BRE
-	remove_core = FRA
-}# Napoleon abdicates unconditionally

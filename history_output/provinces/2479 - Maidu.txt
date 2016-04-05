@@ -1,3 +1,5 @@
+# No previous file for Maidu
+
 culture = chinook
 religion = totemism
 capital = "Maidu"

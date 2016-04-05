@@ -1,3 +1,5 @@
+#2698 - Pangasinan
+
 culture = filipino
 religion = animism
 capital = "Pangasinan"

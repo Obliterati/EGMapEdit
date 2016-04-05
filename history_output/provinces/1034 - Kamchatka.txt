@@ -1,3 +1,5 @@
+#1034 - Kamchatka
+
 owner = KMC
 controller = KMC
 add_core = KMC
@@ -18,3 +20,11 @@ discovered_by = CHU
 discovered_by = CHV
 discovered_by = KMC
 
+1445.1.2 = {
+remove_core = KMC
+controller = KMC
+owner = KMC
+religion = tengri_pagan_reformed
+culture = kamchatkan
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

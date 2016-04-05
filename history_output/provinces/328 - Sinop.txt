@@ -1,5 +1,3 @@
-owner = CND
-controller = CND
 culture = turkish
 religion = sunni
 capital = "Sinop"

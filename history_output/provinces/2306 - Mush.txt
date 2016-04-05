@@ -1,5 +1,3 @@
-owner = QAR
-controller = QAR
 culture = kurdish
 religion = sunni
 capital = "Mus"

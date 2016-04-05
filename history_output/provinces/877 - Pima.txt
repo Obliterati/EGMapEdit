@@ -1,3 +1,5 @@
+#877 - Pima
+
 add_core = PIM
 owner = PIM
 controller = PIM
@@ -15,3 +17,11 @@ native_ferocity = 2
 native_hostileness = 1 
 discovered_by = north_american
 
+1445.1.2 = {
+remove_core = PIM
+controller = PIM
+owner = PIM
+religion = totemism
+culture = piman 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

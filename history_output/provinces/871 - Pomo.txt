@@ -1,3 +1,5 @@
+#871 - Pomo
+
 culture = piman 
 religion = totemism
 capital = "Pomo" 

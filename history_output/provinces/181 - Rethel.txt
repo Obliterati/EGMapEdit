@@ -1,5 +1,3 @@
-owner = NEV
-controller = NEV
 capital = "Rethel"
 is_city = yes
 culture = wallonian

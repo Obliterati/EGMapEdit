@@ -1,3 +1,5 @@
+#2713 - Gorontalo
+
 culture = sulawesi
 religion = animism
 capital = "Gorontalo"

@@ -1,3 +1,5 @@
+# - Quillacas
+
 culture = aimara
 religion = inti
 capital = "Quillacas"
@@ -13,3 +15,11 @@ owner = PCJ
 controller = PCJ
 add_core = PCJ
 
+1445.1.2 = {
+remove_core = PCJ
+controller = PCJ
+owner = PCJ
+religion = inti
+culture = aimara
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

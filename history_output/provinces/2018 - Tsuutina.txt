@@ -1,3 +1,5 @@
+#2018 - Tsuu Tina
+
 culture = athabascan
 religion = totemism 
 capital = "Tsuutina" 

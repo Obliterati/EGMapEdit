@@ -1,3 +1,5 @@
+#1166 - Loango
+
 owner = LOA
 controller = LOA
 add_core = LOA
@@ -15,3 +17,11 @@ discovered_by = NDO
 discovered_by = LOA
 discovered_by = sub_saharan
 
+1445.1.2 = {
+remove_core = LOA
+controller = LOA
+owner = LOA
+religion = shamanism
+culture = kongolese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

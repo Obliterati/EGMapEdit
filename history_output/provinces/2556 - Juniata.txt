@@ -1,3 +1,5 @@
+# No previous file for Juniata
+
 culture = susquehannock
 religion = totemism
 capital = "Juniata"

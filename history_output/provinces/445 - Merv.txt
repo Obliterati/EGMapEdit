@@ -1,3 +1,5 @@
+#445 - Marv
+
 owner = TIM
 controller = TIM
 culture = turkmeni
@@ -16,3 +18,11 @@ discovered_by = indian
 discovered_by = nomad_group
 fort_15th = yes
 
+1445.1.2 = {
+remove_core = TIM
+controller = TIM
+owner = TIM
+religion = sunni
+culture = turkmeni
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

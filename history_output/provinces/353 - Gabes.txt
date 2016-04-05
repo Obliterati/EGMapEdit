@@ -1,5 +1,3 @@
-owner = TUN
-controller = TUN 
 culture = tunisian
 religion = sunni
 capital = "Tataouine"

@@ -1,3 +1,5 @@
+# No previous file for Utsehta
+
 culture = osage
 religion = totemism
 capital = "Utsehta"

@@ -1,3 +1,5 @@
+#1042 - Kamnuskoye
+
 culture = yakut
 religion = tengri_pagan_reformed
 capital = "Sakha"

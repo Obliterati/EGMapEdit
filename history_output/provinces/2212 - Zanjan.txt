@@ -1,5 +1,3 @@
-owner = TIM
-controller = TIM
 culture = azerbaijani
 religion = shiite
 capital = "Zanjan"

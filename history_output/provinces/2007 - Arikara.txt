@@ -1,3 +1,5 @@
+#2007 - Arikara
+
 culture = pawnee
 religion = totemism
 capital = "Arikara"

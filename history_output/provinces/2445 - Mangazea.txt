@@ -1,3 +1,5 @@
+#2445 - Mangazea
+
 culture = samoyed
 religion = shamanism
 capital = "Mangazea"

@@ -1,3 +1,5 @@
+#796 - Arica
+
 culture = aimara
 religion = inti
 capital = "Arica"

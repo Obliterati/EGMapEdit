@@ -1,3 +1,5 @@
+#1156 - Damagaram
+
 owner = AIR
 controller = AIR
 add_core = AIR
@@ -12,3 +14,11 @@ base_tax = 1
 base_production = 1
 discovered_by = sub_saharan
 
+1445.1.2 = {
+remove_core = AIR
+controller = AIR
+owner = AIR
+religion = sunni
+culture = tuareg
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

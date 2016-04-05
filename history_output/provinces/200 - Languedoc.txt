@@ -1,5 +1,3 @@
-owner = FRA
-controller = FRA
 capital = "Montpellier"
 is_city = yes
 culture = occitain

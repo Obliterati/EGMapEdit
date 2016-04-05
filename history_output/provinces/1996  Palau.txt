@@ -1,3 +1,5 @@
+#1996 - Palau
+
 culture = polynesian
 religion = animism
 capital = "Ngerulmud"

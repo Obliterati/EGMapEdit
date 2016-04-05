@@ -1,5 +1,3 @@
-owner = JNP
-controller = JNP
 culture = avadhi
 religion = hinduism
 capital = "Bahreich"

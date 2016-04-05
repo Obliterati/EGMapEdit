@@ -1,5 +1,3 @@
-owner = TUN
-controller = TUN 
 culture = tunisian
 religion = ibadi
 capital = "Djerba"

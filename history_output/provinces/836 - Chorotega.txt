@@ -1,3 +1,5 @@
+#836 - Chorotega
+
 culture = muisca
 discovered_by = MCA
 religion = animism

@@ -1,3 +1,5 @@
+#486 - Guantanamo		
+
 culture = arawak
 religion = animism
 capital = "Guantanamo"

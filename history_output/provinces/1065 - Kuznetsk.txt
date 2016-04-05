@@ -1,3 +1,5 @@
+#1065 - Kuznetsk
+
 culture = kirgiz
 religion = tengri_pagan_reformed
 capital = "Kuznetsk"

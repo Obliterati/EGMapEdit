@@ -1,3 +1,5 @@
+#2403 - Martaban
+
 owner = PEG
 controller = PEG
 culture = karen
@@ -15,3 +17,11 @@ discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = PEG
+controller = PEG
+owner = PEG
+religion = buddhism
+culture = karen
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+# No previous file for Veraguas
+
 culture = muisca
 discovered_by = MCA
 religion = animism

@@ -1,3 +1,5 @@
+#2077 - Margalla
+
 owner = MUL
 controller = MUL
 culture = panjabi
@@ -21,3 +23,11 @@ discovered_by = chinese
 	owner = DLH
 	controller = DLH
 }
+1445.1.2 = {
+remove_core = MUL
+controller = MUL
+owner = MUL
+religion = hinduism
+culture = panjabi
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

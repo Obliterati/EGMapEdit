@@ -1,3 +1,5 @@
+#910 - Chippewa
+
 add_core = CHY
 owner = CHY
 controller = CHY
@@ -15,3 +17,11 @@ native_ferocity = 3
 native_hostileness = 9
 discovered_by = north_american
 
+1445.1.2 = {
+remove_core = CHY
+controller = CHY
+owner = CHY
+religion = totemism
+culture = cheyenne
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

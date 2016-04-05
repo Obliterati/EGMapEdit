@@ -1,3 +1,5 @@
+# 1872 - Ulm
+owner = ULM
 controller = ULM
 add_core = ULM
 culture = swabian
@@ -14,3 +16,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = ULM
+controller = ULM
+owner = ULM
+religion = catholic
+culture = swabian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+#480 - Kulunda
+
 culture = kirgiz
 religion = tengri_pagan_reformed
 capital = "Pegaya Orda"

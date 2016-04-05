@@ -1,5 +1,3 @@
-owner = ARA
-controller = ARA
 add_core = CAT
 capital = "Perpignan"
 is_city = yes

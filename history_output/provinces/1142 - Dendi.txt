@@ -1,3 +1,5 @@
+#1142 - Dendi
+
 owner = SON
 controller = SON
 add_core = SON
@@ -11,3 +13,11 @@ hre = no
 base_tax = 3 
 base_production = 3
 discovered_by = sub_saharan
+1445.1.2 = {
+remove_core = SON
+controller = SON
+owner = SON
+religion = sunni
+culture = songhai
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

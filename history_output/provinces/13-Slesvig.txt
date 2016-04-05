@@ -1,3 +1,5 @@
+#S�nderjylland-Slesvig, incl. Ribe, Slesvig and Flensborg
+
 add_core = SHL
 owner = SHL
 controller = SHL
@@ -16,3 +18,11 @@ discovered_by = muslim
 discovered_by = ottoman
 
 1000.1.1 = { add_core = DAN }
+1445.1.2 = {
+remove_core = SHL
+controller = DAN
+owner = DAN
+religion = catholic
+culture = danish
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

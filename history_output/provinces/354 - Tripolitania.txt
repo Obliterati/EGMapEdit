@@ -1,5 +1,3 @@
-owner = TUN
-controller = TUN
 culture = tunisian
 religion = sunni
 capital = "Tripoli" #Tripoli in the West.

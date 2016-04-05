@@ -1,3 +1,5 @@
+#2398 - Thaungdut
+
 owner = MYA
 controller = MYA
 culture = chin
@@ -13,3 +15,11 @@ add_core = MYA
 discovered_by = chinese
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = MYA
+controller = MYA
+owner = MYA
+religion = animism
+culture = chin
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

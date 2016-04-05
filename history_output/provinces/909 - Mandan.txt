@@ -1,3 +1,5 @@
+#909 - Mandan
+
 culture = nakota
 religion = totemism
 capital = "Mandan"

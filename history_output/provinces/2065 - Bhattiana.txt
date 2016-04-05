@@ -1,3 +1,5 @@
+#2065 - Bhattiana
+
 owner = MUL
 controller = MUL
 culture = rajput
@@ -23,3 +25,11 @@ discovered_by = chinese
 	controller = DLH
 	remove_core = MUL
 }
+1445.1.2 = {
+remove_core = MUL
+controller = MUL
+owner = MUL
+religion = hinduism
+culture = rajput
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

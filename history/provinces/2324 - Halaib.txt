@@ -1,7 +1,3 @@
-#2324 - Halaib
-
-owner = MAM
-controller = MAM
 add_core = MAM
 culture = nubian #beja
 religion = sunni
@@ -29,17 +25,3 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
-1510.1.1 = {
-	discovered_by = NUB
-	owner = NUB
-	controller = NUB
-	add_core = NUB
-	remove_core = MAM
-} # Funj replace Mamluks in control of Suakin
-1524.1.1 = {
-	owner = TUR
-	controller = TUR
-	add_core = TUR	
-} # Ottomans occupy Suakin
-1571.1.1 = { unrest = 8 } # Local Beja revolt against Ottoman governors
-1572.1.1 = { unrest = 0 } # Ottomans crush Beja revolt

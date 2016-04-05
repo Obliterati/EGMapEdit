@@ -1,3 +1,5 @@
+#2779 - Afder
+
 culture = somali
 religion = sunni
 capital = "Afder"

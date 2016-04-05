@@ -1,3 +1,5 @@
+#990 - Kwedech
+
 culture = huron
 religion = totemism
 capital = "Kwedech"

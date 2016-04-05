@@ -1,3 +1,5 @@
+#1040 - Suntar Khayat
+
 culture = yukagyr
 religion = tengri_pagan_reformed
 capital = "Suntar Khayata"

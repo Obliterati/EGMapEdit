@@ -1,3 +1,5 @@
+#2782 - Warsheikh
+
 owner = MDI
 controller = MDI
 add_core = MDI
@@ -24,3 +26,11 @@ discovered_by = indian
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = MDI
+controller = MDI
+owner = MDI
+religion = sunni
+culture = somali
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

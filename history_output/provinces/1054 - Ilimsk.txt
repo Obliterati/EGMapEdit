@@ -1,3 +1,5 @@
+#1054 - Ilimsk
+
 culture = tungus
 religion = tengri_pagan_reformed
 capital = "Mukhtuya"

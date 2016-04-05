@@ -1,3 +1,5 @@
+#1000 - Cree
+
 culture = cree
 religion = totemism
 capital = "Cree"

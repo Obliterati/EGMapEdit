@@ -1,5 +1,3 @@
-owner = GOL
-controller = GOL
 culture = dagestani
 religion = shiite
 capital = "Mozdok"

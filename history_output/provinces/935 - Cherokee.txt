@@ -1,3 +1,5 @@
+#935 - Cherokee
+
 owner = CHE
 controller = CHE
 culture = cherokee
@@ -15,3 +17,11 @@ native_ferocity = 7
 native_hostileness = 2
 discovered_by = north_american
 
+1445.1.2 = {
+remove_core = CHE
+controller = CHE
+owner = CHE
+religion = totemism
+culture = cherokee
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

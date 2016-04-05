@@ -1,5 +1,3 @@
-owner = VIJ
-controller = VIJ
 culture = telegu
 religion = hinduism
 capital = "Srisailam"

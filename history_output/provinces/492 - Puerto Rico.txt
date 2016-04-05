@@ -1,3 +1,5 @@
+#492 - Puerto Rico
+
 culture = arawak
 religion = animism
 capital = "Puerto Rico"

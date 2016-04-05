@@ -1,3 +1,5 @@
+#639 - Banjar
+
 culture = bornean
 religion = hinduism
 capital = "Banjar"

@@ -1,3 +1,5 @@
+#482 - Bahamas
+
 culture = arawak
 religion = animism
 capital = "Bahamas"

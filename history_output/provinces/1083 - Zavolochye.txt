@@ -1,5 +1,3 @@
-owner = MOS
-controller = MOS
 capital = "Yur"
 culture = russian
 religion = orthodox

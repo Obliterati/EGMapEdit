@@ -1,3 +1,5 @@
+# 2114 - Ereen
+
 owner = KHA
 controller = KHA
 add_core = KHA
@@ -13,3 +15,11 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = KHA
+controller = KHA
+owner = KHA
+religion = vajrayana
+culture = mongol
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

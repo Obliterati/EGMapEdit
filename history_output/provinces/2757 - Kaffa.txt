@@ -1,3 +1,5 @@
+#2757 - Kaffa
+
 owner = KAF
 controller = KAF
 add_core = KAF
@@ -24,3 +26,11 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = KAF
+controller = KAF
+owner = KAF
+religion = coptic
+culture = sidamo 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

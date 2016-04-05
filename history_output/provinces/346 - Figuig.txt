@@ -1,5 +1,3 @@
-owner = MOR
-controller = MOR 
 culture = moroccan
 religion = sunni
 capital = "Tafilalt"

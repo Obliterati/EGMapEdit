@@ -1,3 +1,5 @@
+# - Chachapoyas
+
 owner = CYA
 controller = CYA
 culture = chachapoyan
@@ -15,3 +17,11 @@ discovered_by = andean
 discovered_by = CHM
 fort_15th = yes
 
+1445.1.2 = {
+remove_core = CYA
+controller = CYA
+owner = CYA
+religion = inti
+culture = chachapoyan
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

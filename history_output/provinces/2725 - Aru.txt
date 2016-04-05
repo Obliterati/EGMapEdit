@@ -1,3 +1,5 @@
+#2725 - Aru
+
 culture = moluccan
 religion = animism
 capital = "Aru"

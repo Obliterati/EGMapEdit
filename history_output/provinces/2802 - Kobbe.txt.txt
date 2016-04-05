@@ -1,3 +1,5 @@
+#2802 - Kobbe
+
 culture = nubian 
 religion = animism
 capital = "Kobbe"

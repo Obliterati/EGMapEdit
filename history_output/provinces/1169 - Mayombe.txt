@@ -1,3 +1,5 @@
+#1169 - Anziku
+
 owner = KON
 controller = KON
 culture = kongolese
@@ -15,3 +17,11 @@ discovered_by = NDO
 discovered_by = LOA
 discovered_by = sub_saharan
 
+1445.1.2 = {
+remove_core = KON
+controller = KON
+owner = KON
+religion = shamanism
+culture = kongolese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

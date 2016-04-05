@@ -1,3 +1,5 @@
+#304 - Pensa
+
 owner = KAZ
 controller = KAZ
 culture = kazani
@@ -15,3 +17,11 @@ discovered_by = eastern
 discovered_by = nomad_group
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = KAZ
+controller = KAZ
+owner = KAZ
+religion = sunni
+culture = kazani
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

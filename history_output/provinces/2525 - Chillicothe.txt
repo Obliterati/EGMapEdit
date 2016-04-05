@@ -1,3 +1,5 @@
+# No previous file for Chillicothe
+
 owner = SHA
 controller = SHA
 add_core = SHA
@@ -15,3 +17,11 @@ native_ferocity = 1
 native_hostileness = 2
 discovered_by = north_american
 
+1445.1.2 = {
+remove_core = SHA
+controller = SHA
+owner = SHA
+religion = totemism
+culture = shawnee
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

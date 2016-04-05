@@ -1,3 +1,5 @@
+#648 - Halmahera
+
 culture = moluccan
 religion = animism
 capital = "Halmahera"

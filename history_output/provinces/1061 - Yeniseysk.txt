@@ -1,3 +1,5 @@
+#1061 - Yeniseysk
+
 culture = tungus
 religion = tengri_pagan_reformed
 capital = "Novoselovo"

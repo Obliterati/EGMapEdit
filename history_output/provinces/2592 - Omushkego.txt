@@ -1,3 +1,5 @@
+# No previous file for Omushkego
+
 culture = cree
 religion = totemism
 capital = "Omushkego"

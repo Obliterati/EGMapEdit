@@ -1,3 +1,5 @@
+#2036 - Baglana
+
 owner = BGA
 controller = BGA
 culture = malvi
@@ -16,3 +18,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = BGA
+controller = BGA
+owner = BGA
+religion = hinduism
+culture = malvi
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

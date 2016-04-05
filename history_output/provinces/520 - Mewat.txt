@@ -1,3 +1,5 @@
+#520 - Mewat
+
 owner = MEW
 controller = MEW
 culture = rajput
@@ -16,3 +18,11 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = MEW
+controller = MEW
+owner = MEW
+religion = hinduism
+culture = rajput
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+#2693 - Lombok
+
 culture = papuan
 religion = animism
 capital = "Lombok"

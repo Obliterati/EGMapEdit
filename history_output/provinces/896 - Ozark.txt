@@ -1,3 +1,5 @@
+#896 - Ozark
+
 culture = wichita # Old plains people
 religion = totemism
 capital = "Ozark"

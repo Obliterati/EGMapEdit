@@ -1,3 +1,5 @@
+#859 - Sinaloa
+
 culture = piman
 religion = animism 
 capital = "Sinaloa" 

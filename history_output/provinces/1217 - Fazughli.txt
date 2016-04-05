@@ -1,3 +1,5 @@
+#1217 - Fazughli
+
 culture = nubian #Shilluk
 religion = animism
 capital = "Alays"

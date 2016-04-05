@@ -1,4 +1,4 @@
-#1979 - Färöarna
+#1979 - Fï¿½rï¿½arna
 
 owner = NOR
 controller = NOR 
@@ -14,9 +14,3 @@ is_city = yes
 add_core = NOR
 discovered_by = western
 
-1536.1.1 = {
-	religion = protestant
-	owner = DAN
-	controller = DAN
-	add_core = DAN
-}

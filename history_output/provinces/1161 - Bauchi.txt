@@ -1,3 +1,5 @@
+#1161 - Bauchi
+
 culture = bantu
 religion = animism
 capital = "Bauchi"

@@ -1,3 +1,5 @@
+#1154 - Zazzau
+
 owner = ZZZ
 controller = ZZZ
 add_core = ZZZ
@@ -12,3 +14,11 @@ base_tax = 3
 base_production = 3
 discovered_by = sub_saharan
 
+1445.1.2 = {
+remove_core = ZZZ
+controller = ZZZ
+owner = ZZZ
+religion = animism
+culture = hausa
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

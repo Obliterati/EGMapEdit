@@ -1,3 +1,5 @@
+#1016 - Ha Tinh
+
 owner = DAI
 controller = DAI
 culture = vietnamese
@@ -28,3 +30,11 @@ discovered_by = ottoman
 	controller = DAI
 	remove_core = MNG
 }
+1445.1.2 = {
+remove_core = DAI
+controller = DAI
+owner = DAI
+religion = mahayana
+culture = vietnamese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

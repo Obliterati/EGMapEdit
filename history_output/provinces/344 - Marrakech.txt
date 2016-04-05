@@ -1,3 +1,5 @@
+#344 - Marrakech
+
 owner = MOR
 controller = MOR 
 culture = moroccan
@@ -16,3 +18,11 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = MOR
+controller = MOR
+owner = MOR
+religion = sunni
+culture = moroccan
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

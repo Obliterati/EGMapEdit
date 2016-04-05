@@ -1,3 +1,5 @@
+#2430 - Baykha
+
 culture = samoyed
 religion = shamanism
 capital = "Troitskiy"

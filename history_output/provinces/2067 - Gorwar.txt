@@ -1,3 +1,5 @@
+#2067 - Gorwar
+
 owner = MAW
 controller = MAW
 culture = rajput
@@ -23,3 +25,11 @@ discovered_by = chinese
 	controller = MER
 	add_core = MER
 } #Conquered by Mewar after Rathore, Sisodiya cooperation breaks down in plots and murder.
+1445.1.2 = {
+remove_core = MAW
+controller = MAW
+owner = MAW
+religion = hinduism
+culture = rajput
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

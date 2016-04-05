@@ -1,5 +1,3 @@
-owner = SHY
-controller = SHY
 capital = "Beloyarskiy"
 culture = ostyaki
 religion = shamanism

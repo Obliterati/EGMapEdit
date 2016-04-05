@@ -1,3 +1,5 @@
+#511 - Garhwal
+
 owner = GHR
 controller = GHR
 culture = nepali	#Garhwali
@@ -16,3 +18,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = GHR
+controller = GHR
+owner = GHR
+religion = hinduism
+culture = nepali	#Garhwali
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

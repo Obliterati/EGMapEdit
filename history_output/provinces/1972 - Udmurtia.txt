@@ -1,5 +1,3 @@
-owner = KAZ
-controller = KAZ
 capital = "Izhkar"
 culture = uralic
 religion = shamanism

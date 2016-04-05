@@ -1,3 +1,5 @@
+#2730 - Awngthim
+
 culture = aboriginal
 religion = animism
 capital = "Awngthim"

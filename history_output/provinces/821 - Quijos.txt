@@ -1,3 +1,5 @@
+#821 - Quijos
+
 culture = jivaro
 discovered_by = south_american
 discovered_by = andean

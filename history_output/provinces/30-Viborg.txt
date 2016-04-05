@@ -1,3 +1,5 @@
+#Viborgs l�n, incl. Viborg, Villmansstrand, and Kivin�bb.
+
 owner = SWE
 controller = SWE
 add_core = SWE
@@ -15,3 +17,11 @@ fort_15th = yes
 discovered_by = western
 discovered_by = eastern
 
+1445.1.2 = {
+remove_core = SWE
+controller = FIN
+owner = FIN
+religion = catholic
+culture = finnish
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

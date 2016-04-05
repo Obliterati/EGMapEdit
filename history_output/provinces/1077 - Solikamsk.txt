@@ -1,3 +1,5 @@
+#1077 - Solikamsk
+
 owner = PRM
 controller = PRM
 capital = "Usolye Kamskoye"
@@ -13,3 +15,11 @@ add_core = PRM
 discovered_by = eastern
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = PRM
+controller = PRM
+owner = PRM
+religion = shamanism
+culture = uralic
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

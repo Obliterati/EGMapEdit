@@ -1,3 +1,5 @@
+owner = NSA
+controller = NSA
 add_core = NSA
 capital = "Wiesbaden"
 trade_goods = copper
@@ -13,3 +15,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = NSA
+controller = NSA
+owner = NSA
+religion = catholic
+culture = hessian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

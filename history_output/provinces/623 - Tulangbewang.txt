@@ -1,3 +1,5 @@
+#623 - Tulangbewang
+
 culture = sumatran
 religion = sunni
 capital = "Tulangbewang"

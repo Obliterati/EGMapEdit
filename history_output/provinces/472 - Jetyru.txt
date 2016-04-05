@@ -1,3 +1,5 @@
+#472 - Zhetyru
+
 owner = NOG
 controller = NOG
 culture = nogaybak
@@ -16,3 +18,11 @@ discovered_by = nomad_group
 discovered_by = KZH
 discovered_by = GOL
 
+1445.1.2 = {
+remove_core = NOG
+controller = NOG
+owner = NOG
+religion = sunni
+culture = nogaybak
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

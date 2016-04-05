@@ -19,4 +19,3 @@ discovered_by = OIR
 discovered_by = QNG
 discovered_by = ANU
 
-1542.1.1 = { discovered_by = POR }

@@ -1,5 +1,3 @@
-owner = CEP
-controller = CEP
 culture = greek
 religion = orthodox
 capital = "Corfu"

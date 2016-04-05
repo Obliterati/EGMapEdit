@@ -1,5 +1,3 @@
-owner = KAR
-controller = KAR
 culture = turkish
 religion = sunni
 capital = "Kayseri"

@@ -1,5 +1,3 @@
-owner = BRA
-controller = BRA
 add_core = BRA
 culture = pommeranian
 religion = catholic

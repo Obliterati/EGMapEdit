@@ -1,3 +1,5 @@
+#1174 - Angra Pequena
+
 culture = bantu
 religion = animism
 capital = "Angra Pequena"

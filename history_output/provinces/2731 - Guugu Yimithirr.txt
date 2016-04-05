@@ -1,3 +1,5 @@
+#2731 - Guugu Yimithirr
+
 culture = aboriginal
 religion = animism
 capital = "Guugu Yimithirr"

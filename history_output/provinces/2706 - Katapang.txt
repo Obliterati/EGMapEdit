@@ -1,3 +1,5 @@
+#2706 - Katapang
+
 culture = bornean
 religion = sunni
 capital = "Katapang"

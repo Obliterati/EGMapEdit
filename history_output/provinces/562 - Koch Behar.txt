@@ -1,3 +1,5 @@
+#562 - Koch Behar
+
 owner = KMT
 controller = KMT
 culture = bengali
@@ -16,3 +18,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = KMT
+controller = KMT
+owner = KMT
+religion = hinduism
+culture = bengali
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+# No previous file for Guamares
+
 culture = piman
 religion = nahuatl
 capital = "Guamares"

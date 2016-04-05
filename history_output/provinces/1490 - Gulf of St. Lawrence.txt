@@ -1,1 +1,2 @@
-1534.1.1 = { discovered_by = FRA } # Jacques Cartier
+discovered_by = north_american
+

@@ -1,3 +1,5 @@
+#1216 - Tegali
+
 culture = nubian #Shilluk
 religion = animism
 capital = "Takala"

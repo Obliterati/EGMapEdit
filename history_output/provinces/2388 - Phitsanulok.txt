@@ -1,3 +1,5 @@
+#2388 - Phitsanulok
+
 owner = AYU 
 controller = AYU
 culture = central_thai
@@ -14,3 +16,11 @@ add_core = SUK
 discovered_by = chinese
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = AYU
+controller = AYU
+owner = AYU
+religion = buddhism
+culture = central_thai
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

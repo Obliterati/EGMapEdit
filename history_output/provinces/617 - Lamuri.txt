@@ -1,3 +1,5 @@
+#617 - Lamuri
+
 owner = PSA
 controller = PSA
 culture = sumatran
@@ -16,3 +18,11 @@ discovered_by = ottoman
 discovered_by = chinese
 
 1405.1.1 = { discovered_by = MNG }
+1445.1.2 = {
+remove_core = PSA
+controller = PSA
+owner = PSA
+religion = sunni
+culture = sumatran
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

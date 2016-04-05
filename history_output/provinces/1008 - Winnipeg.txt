@@ -1,3 +1,5 @@
+#1008 - Winnipeg
+
 culture = nakota
 religion = totemism
 capital = "Manitoba"

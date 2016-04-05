@@ -1,5 +1,3 @@
-owner = VIJ
-controller = VIJ
 culture = tamil
 religion = hinduism
 capital = "Thanjavur"

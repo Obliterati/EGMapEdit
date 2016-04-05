@@ -1,3 +1,5 @@
+#994 - Stadacona
+
 culture = huron
 religion = totemism
 capital = "Stadacona"

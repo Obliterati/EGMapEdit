@@ -1,3 +1,5 @@
+#232 - Bragan�a
+
 owner = POR
 controller = POR
 culture = portugese
@@ -16,3 +18,11 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
+1445.1.2 = {
+remove_core = POR
+controller = POR
+owner = POR
+religion = catholic
+culture = portugese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

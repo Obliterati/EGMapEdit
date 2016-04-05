@@ -1,3 +1,5 @@
+# - Tarija
+
 owner = CCQ
 controller = CCQ
 add_core = CCQ
@@ -13,3 +15,11 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 
+1445.1.2 = {
+remove_core = CCQ
+controller = CCQ
+owner = CCQ
+religion = inti
+culture = aimara
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

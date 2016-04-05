@@ -1,5 +1,3 @@
-owner = BRB
-controller = BRB
 add_core = BRB
 is_city = yes
 capital = "Maastricht"

@@ -1,3 +1,5 @@
+#1182 - Delagoa Bay
+
 culture = bantu #Tsonga
 religion = animism
 capital = "Xefina"

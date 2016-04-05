@@ -1,3 +1,5 @@
+#1990 - Tuvalu
+
 culture = polynesian
 religion = animism
 capital = "Funafuti"

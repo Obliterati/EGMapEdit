@@ -1,3 +1,5 @@
+# 2102 - Urkan
+
 owner = MYR
 controller = MYR
 add_core = MYR
@@ -13,3 +15,11 @@ is_city = yes
 discovered_by = chinese
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = MYR
+controller = MYR
+owner = MYR
+religion = tengri_pagan_reformed
+culture = manchu
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

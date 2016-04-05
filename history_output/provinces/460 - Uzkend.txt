@@ -1,3 +1,5 @@
+#460 - Uzkend
+
 owner = KAS
 controller = KAS
 culture = kirgiz
@@ -19,3 +21,11 @@ discovered_by = nomad_group
 discovered_by = CHG
 discovered_by = OIR
 
+1445.1.2 = {
+remove_core = KAS
+controller = KAS
+owner = KAS
+religion = sunni
+culture = kirgiz
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

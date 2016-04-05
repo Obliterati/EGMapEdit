@@ -1,3 +1,5 @@
+#585 - Toungoo
+
 owner = TAU
 controller = TAU
 culture = burmese
@@ -13,3 +15,11 @@ add_core = TAU
 discovered_by = chinese
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = TAU
+controller = TAU
+owner = TAU
+religion = buddhism
+culture = burmese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

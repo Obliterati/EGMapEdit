@@ -1,5 +1,3 @@
-owner = LIT
-controller = LIT
 culture = ruthenian
 religion = orthodox
 hre = no

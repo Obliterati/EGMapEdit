@@ -13,13 +13,3 @@ native_size = 15
 native_ferocity = 2
 native_hostileness = 6
 
-1758.5.27 = {
-	is_city = yes
-	owner = POR
-	controller = POR
-	discovered_by = POR
-	add_core = POR
-	culture = portugese
-	religion = catholic
-	trade_goods = cocoa
-}

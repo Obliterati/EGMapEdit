@@ -1,3 +1,5 @@
+#442 - Bukhara
+
 owner = TIM
 controller = TIM
 culture = uzbehk
@@ -17,3 +19,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = TIM
+controller = TIM
+owner = TIM
+religion = sunni
+culture = uzbehk
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

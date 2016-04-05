@@ -1,3 +1,5 @@
+# 1769 - G�rz
+owner = HAB
 controller = HAB
 add_core = HAB
 add_core = AQU
@@ -20,3 +22,11 @@ discovered_by = ottoman
 	add_core = STY
 	capital = "G�rz"
 } # To the Habsburgs
+1445.1.2 = {
+remove_core = HAB
+controller = AQU
+owner = AQU
+religion = catholic
+culture = austrian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

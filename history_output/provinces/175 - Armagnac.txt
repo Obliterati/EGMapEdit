@@ -1,5 +1,3 @@
-owner = FRA
-controller = FRA
 capital = "Auch"
 is_city = yes
 culture = gascon

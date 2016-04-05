@@ -25,4 +25,3 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
-1513.1.1 = { discovered_by = POR } #Travels of Antonio Fernandes in hinterland of Sofala

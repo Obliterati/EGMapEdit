@@ -1,3 +1,5 @@
+#1059 - East Tunguska
+
 culture = tungus
 religion = tengri_pagan_reformed
 capital = "Kezemskoe"

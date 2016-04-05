@@ -1,3 +1,5 @@
+#635 - West Timor
+
 culture = papuan
 religion = animism
 capital = "Lifau"

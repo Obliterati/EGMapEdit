@@ -1,3 +1,5 @@
+# - Yurimaguas
+
 culture = jivaro
 religion = animism
 capital = "Yurimaguas"

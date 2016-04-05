@@ -1,3 +1,5 @@
+# No previous file for Muniyo
+
 owner = KBO
 controller = KBO
 add_core = KBO
@@ -14,3 +16,11 @@ native_ferocity = 4
 native_hostileness = 9
 base_manpower = 1
 discovered_by = sub_saharan
+1445.1.2 = {
+remove_core = KBO
+controller = KBO
+owner = KBO
+religion = sunni
+culture = kanuri 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

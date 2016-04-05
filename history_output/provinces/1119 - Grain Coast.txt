@@ -1,3 +1,5 @@
+#1119 - Grain Coast
+
 culture = dyola
 religion = animism
 capital = "Mesurado"

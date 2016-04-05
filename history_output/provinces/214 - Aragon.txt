@@ -1,3 +1,5 @@
+#214 - Arag�n
+
 owner = ARA		# Alfons V of Aragon
 controller = ARA
 add_core = ARA
@@ -15,3 +17,11 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = ARA
+controller = ARA
+owner = ARA
+religion = catholic
+culture = aragonese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

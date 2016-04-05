@@ -1,3 +1,5 @@
+#881 - Piro
+
 owner = PUE
 controller = PUE
 is_city = yes
@@ -15,3 +17,11 @@ native_ferocity = 3
 native_hostileness = 5 
 discovered_by = north_american
 
+1445.1.2 = {
+remove_core = PUE
+controller = PUE
+owner = PUE
+religion = totemism
+culture = pueblo 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+#803 - Moxos
+
 culture = guarani
 religion = animism
 capital = "Moxos"

@@ -1,3 +1,5 @@
+#870 - Yorkuts
+
 culture = chinook 
 religion = totemism
 capital = "Yorkuts" 

@@ -1,3 +1,5 @@
+#2059 - Kalpi
+
 owner = BND
 controller = BND
 culture = kanauji
@@ -18,3 +20,11 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = BND
+controller = BND
+owner = BND
+religion = hinduism
+culture = kanauji
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

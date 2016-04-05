@@ -1,3 +1,5 @@
+#973 - Squamish
+
 culture = salish
 religion = totemism
 capital = "Squamish"

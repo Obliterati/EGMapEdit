@@ -1,4 +1,4 @@
-# No previous file for Iximché
+# No previous file for Iximchï¿½
 
 culture = highland_mayan
 owner = KIC
@@ -6,7 +6,7 @@ controller = KIC
 add_core = KIC
 is_city = yes
 religion = mesoamerican_religion
-capital = "Iximché"
+capital = "Iximchï¿½"
 estate = estate_nobles
 trade_goods = cocoa
 hre = no
@@ -18,22 +18,3 @@ native_ferocity = 1
 native_hostileness = 2
 discovered_by = mesoamerican
 
-1470.1.1 = { 
-	unrest = 0 
-	revolt = { 
-		type = noble_rebels 
-		size = 2
-	} 
-	controller = REB 
-}
-1525.1.1 = {
-	discovered_by = SPA 
-	owner = SPA 
-	controller = SPA 
-	add_core = SPA
-}
-1529.1.1 = {
-	culture = castillian
-	religion = catholic
-}
-1810.9.16 = { owner = MEX add_core = MEX controller = SPA } # Mexican War of Independence

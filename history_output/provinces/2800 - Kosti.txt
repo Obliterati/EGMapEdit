@@ -1,3 +1,5 @@
+#2800 - Kosti
+
 culture = nubian
 religion = animism
 capital = "Kosti"

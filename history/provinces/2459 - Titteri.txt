@@ -1,7 +1,3 @@
-# - Titteri
-
-owner = TLC
-controller = TLC
 culture = algerian
 religion = sunni
 capital = "Medea"
@@ -18,8 +14,3 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
 
-1517.1.1 = {
-	owner = ALG
-	controller = ALG
-	remove_core = TLC
-}

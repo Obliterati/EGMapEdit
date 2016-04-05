@@ -1,3 +1,5 @@
+#407 - Ar-Raqqah
+
 owner = MAM
 controller = MAM
 culture = al_suryah_arabic
@@ -19,3 +21,11 @@ discovered_by = nomad_group
 discovered_by = indian
 
 1402.1.1 = { owner = AKK controller = AKK add_core = AKK remove_core = MAM } # The Ak Koyunlu
+1445.1.2 = {
+remove_core = MAM
+controller = MAM
+owner = MAM
+religion = sunni
+culture = al_suryah_arabic
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

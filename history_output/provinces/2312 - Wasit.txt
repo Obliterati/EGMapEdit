@@ -1,5 +1,3 @@
-owner = QAR
-controller = QAR
 culture = al_iraqiya_arabic
 religion = shiite
 capital = "Wasit"

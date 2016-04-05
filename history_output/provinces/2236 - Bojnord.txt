@@ -1,5 +1,3 @@
-owner = TIM
-controller = TIM
 culture = khorasani
 religion = shiite
 capital = "Bojnord"

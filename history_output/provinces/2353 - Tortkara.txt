@@ -1,5 +1,3 @@
-owner = NOG
-controller = NOG
 culture = khazak
 religion = sunni
 capital = "Tortkara"

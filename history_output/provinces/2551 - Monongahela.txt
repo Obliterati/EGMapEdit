@@ -1,3 +1,5 @@
+# No previous file for Monongahela
+
 culture = susquehannock
 religion = totemism
 capital = "Monongahela"

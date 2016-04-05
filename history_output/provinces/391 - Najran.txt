@@ -1,3 +1,5 @@
+#391 - Najran
+
 owner = ADE
 controller = ADE
 culture = yemeni_culture
@@ -26,3 +28,11 @@ discovered_by = MDI
 discovered_by = MLI
 discovered_by = SFA
 
+1445.1.2 = {
+remove_core = ADE
+controller = ADE
+owner = ADE
+religion = shiite
+culture = yemeni_culture
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

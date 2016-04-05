@@ -1,3 +1,5 @@
+#491 - Curacao
+
 culture = arawak
 religion = animism
 capital = "Curacao"

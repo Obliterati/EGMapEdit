@@ -1,3 +1,5 @@
+#1086 - Kaurna
+
 culture = aboriginal
 religion = animism
 capital = "Kaurna"

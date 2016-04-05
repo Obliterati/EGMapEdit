@@ -1,3 +1,5 @@
+# No previous file for Hinonoeino
+
 culture = wichita
 religion = totemism
 capital = "Hinonoeino"

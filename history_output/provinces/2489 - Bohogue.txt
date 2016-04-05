@@ -1,3 +1,5 @@
+# No previous file for Bohogue
+
 culture = shoshone
 religion = totemism
 capital = "Bohogue"

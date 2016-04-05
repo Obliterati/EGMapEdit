@@ -1,3 +1,5 @@
+# Urbino
+
 owner = URB
 controller = URB
 culture = umbrian 
@@ -17,3 +19,11 @@ discovered_by = ottoman
 
 1408.1.1 = { owner = NAP controller = NAP add_core = NAP } # Ladislas takes control of Ancona
 1414.8.6 = { owner = URB controller = URB remove_core = NAP }
+1445.1.2 = {
+remove_core = URB
+controller = URB
+owner = URB
+religion = catholic 
+culture = umbrian 
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

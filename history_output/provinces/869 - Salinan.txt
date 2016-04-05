@@ -1,3 +1,5 @@
+#869 - Salinan
+
 culture = piman
 religion = totemism
 capital = "Salinan" 

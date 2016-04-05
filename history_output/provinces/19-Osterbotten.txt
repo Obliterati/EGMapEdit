@@ -1,3 +1,5 @@
+#�sterbotten, down to Vasa.
+
 owner = SWE
 controller = SWE
 add_core = SWE
@@ -13,3 +15,11 @@ is_city = yes
 discovered_by = eastern
 discovered_by = western
 
+1445.1.2 = {
+remove_core = SWE
+controller = FIN
+owner = FIN
+religion = catholic
+culture = finnish
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

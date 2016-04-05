@@ -1,3 +1,5 @@
+# - Macaya
+
 owner = CLA
 controller = CLA
 add_core = CLA
@@ -13,3 +15,11 @@ base_tax = 2
 base_production = 2
 base_manpower = 1
 
+1445.1.2 = {
+remove_core = CLA
+controller = CLA
+owner = CLA
+religion = inti
+culture = aimara
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

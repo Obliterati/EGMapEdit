@@ -1,3 +1,5 @@
+#1073 - Berezov
+
 culture = samoyed
 religion = shamanism
 capital = "Berezov"

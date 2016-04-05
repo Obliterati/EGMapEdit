@@ -1,3 +1,5 @@
+#612 - Khorat
+
 owner = AYU
 controller = AYU
 culture = khmer
@@ -13,3 +15,11 @@ add_core = AYU
 discovered_by = chinese
 discovered_by = indian
 
+1445.1.2 = {
+remove_core = AYU
+controller = AYU
+owner = AYU
+religion = buddhism
+culture = khmer
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

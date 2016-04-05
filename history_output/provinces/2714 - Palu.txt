@@ -1,3 +1,5 @@
+#2714 - Palu
+
 culture = sulawesi
 religion = animism
 capital = "Palu"

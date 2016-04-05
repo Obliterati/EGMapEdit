@@ -1,3 +1,5 @@
+# No previous file for Yazoo
+
 culture = chickasaw
 religion = totemism
 capital = "Yazoo"

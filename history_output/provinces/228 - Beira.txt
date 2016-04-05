@@ -1,3 +1,5 @@
+#228 - Beira
+
 owner = POR
 controller = POR
 culture = portugese
@@ -16,3 +18,11 @@ discovered_by = ottoman
 discovered_by = eastern
 
 #fort_15th = yes
+1445.1.2 = {
+remove_core = POR
+controller = POR
+owner = POR
+religion = catholic
+culture = portugese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+#876 - Yavapai
+
 culture = piman
 religion = totemism
 capital = "Yavapai" 

@@ -1,5 +1,3 @@
-owner = TIM
-controller = TIM
 culture = persian
 religion = zoroastrian
 capital = "Yazd"

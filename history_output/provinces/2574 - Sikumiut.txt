@@ -1,3 +1,5 @@
+# No previous file for Sikumiut
+
 culture = inuit
 religion = totemism
 capital = "Sikumiut"

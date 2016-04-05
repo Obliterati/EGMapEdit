@@ -1,1 +1,3 @@
+discovered_by = MAL
+discovered_by = JOL
 

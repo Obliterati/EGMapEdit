@@ -1,3 +1,5 @@
+#2100 - Vanni
+
 owner = JFN
 controller = JFN
 culture = tamil
@@ -23,3 +25,11 @@ discovered_by = chinese
 	owner = JFN
 	controller = JFN
 }	#Reconquest by Vijayanagar
+1445.1.2 = {
+remove_core = JFN
+controller = JFN
+owner = JFN
+religion = hinduism
+culture = tamil
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

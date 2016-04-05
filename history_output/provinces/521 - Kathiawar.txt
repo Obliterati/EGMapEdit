@@ -1,5 +1,3 @@
-owner = GUJ
-controller = GUJ
 culture = gujarati
 religion = hinduism
 capital = "Rajkot"

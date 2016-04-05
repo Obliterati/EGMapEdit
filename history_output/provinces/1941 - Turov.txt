@@ -1,5 +1,3 @@
-owner = LIT
-controller = LIT 
 culture = byelorussian
 religion = orthodox
 hre = no

@@ -1,3 +1,5 @@
+#1830 - Tajima
+
 owner = YMN
 controller = YMN
 culture = japanese
@@ -16,3 +18,11 @@ discovered_by = KHA
 discovered_by = OIR
 discovered_by = QNG
 
+1445.1.2 = {
+remove_core = YMN
+controller = YMN
+owner = YMN
+religion = shinto
+culture = japanese
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

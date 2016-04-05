@@ -1,3 +1,5 @@
+# 177 Maine - Principal cities: Le Mans, Alen�on, Laval
+
 owner = PRO
 controller = PRO
 capital = "Le Mans"
@@ -15,3 +17,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = PRO
+controller = ORL
+owner = ORL
+religion = catholic
+culture = cosmopolitan_french
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

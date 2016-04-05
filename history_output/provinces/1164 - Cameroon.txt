@@ -1,3 +1,5 @@
+#1164 - Cameroon
+
 culture = kongolese
 religion = shamanism
 capital = "Cameroon"

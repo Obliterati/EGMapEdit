@@ -1,5 +1,3 @@
-owner = NOV
-controller = NOV
 add_core = NOV
 culture = karelian
 religion = orthodox

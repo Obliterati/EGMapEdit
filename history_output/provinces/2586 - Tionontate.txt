@@ -1,3 +1,5 @@
+# No previous file for Tionontate
+
 owner = HUR
 controller = HUR
 add_core = HUR
@@ -15,3 +17,11 @@ native_ferocity = 1
 native_hostileness = 2
 discovered_by = north_american
 
+1445.1.2 = {
+remove_core = HUR
+controller = HUR
+owner = HUR
+religion = totemism
+culture = huron
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

@@ -1,3 +1,5 @@
+#820 - Quito
+
 owner = QTO
 controller = QTO
 culture = cara
@@ -13,3 +15,11 @@ base_production = 6
 base_manpower = 2
 add_core = QTO
 
+1445.1.2 = {
+remove_core = QTO
+controller = QTO
+owner = QTO
+religion = inti
+culture = cara
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

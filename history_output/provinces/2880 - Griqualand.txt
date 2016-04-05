@@ -1,3 +1,5 @@
+# - Griqualand
+
 culture = bantu
 religion = animism
 capital = "Griqualand"

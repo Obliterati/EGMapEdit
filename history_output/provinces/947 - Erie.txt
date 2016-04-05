@@ -1,3 +1,5 @@
+#947 - Erie
+
 culture = susquehannock
 religion = totemism
 capital = "Erie"

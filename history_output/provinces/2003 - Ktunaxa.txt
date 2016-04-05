@@ -1,3 +1,5 @@
+#2003 - Ktunaxa
+
 culture = shoshone
 religion = totemism
 capital = "Ktunaxa"

@@ -1,3 +1,5 @@
+#2732 - Wulgurukaba
+
 culture = aboriginal
 religion = animism
 capital = "Wulgurukaba"

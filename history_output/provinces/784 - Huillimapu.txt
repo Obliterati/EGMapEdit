@@ -1,3 +1,5 @@
+#784 - Huillimapu
+
 owner = MPC
 controller = MPC
 add_core = MPC
@@ -15,3 +17,11 @@ native_size = 10
 native_ferocity = 2
 native_hostileness = 9
 
+1445.1.2 = {
+remove_core = MPC
+controller = MPC
+owner = MPC
+religion = animism
+culture = mapuche
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

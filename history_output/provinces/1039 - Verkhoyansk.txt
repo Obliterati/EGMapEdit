@@ -1,3 +1,5 @@
+#1039 - Verkhoyansk
+
 culture = yukagyr
 religion = tengri_pagan_reformed
 capital = "Verkhoyansk"

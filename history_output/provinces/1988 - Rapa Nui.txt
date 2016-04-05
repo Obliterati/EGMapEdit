@@ -1,3 +1,5 @@
+#1988 - Rapanui
+
 culture = polynesian
 religion = animism
 capital = "Hanga Roa"

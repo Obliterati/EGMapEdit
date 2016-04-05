@@ -1,3 +1,5 @@
+#937 - Tuscarora
+
 culture = iroquois
 religion = totemism
 capital = "Tuscarora"

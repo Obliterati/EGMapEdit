@@ -1,11 +1,11 @@
-#2323 - Sahra an Nübyah
+#2323 - Sahra an Nï¿½byah
 
 owner = MAM
 controller = MAM 
 add_core = MAK
 culture = nubian
 religion = coptic
-capital = "Sahra an Nübyah"
+capital = "Sahra an Nï¿½byah"
 is_city = yes
 base_manpower = 1
 trade_goods = slaves
@@ -32,8 +32,3 @@ discovered_by = SFA
 	owner = MAK
 	controller = MAK		
 }
-1517.1.1 = { add_core = TUR } # Mamluks fall to Ottomans, Ottomans do not advance up Nile
-1540.1.1 = {
-	owner = TUR
-	controller = TUR		
-} #Ottomans occupy Lower Nubia

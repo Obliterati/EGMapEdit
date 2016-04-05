@@ -1,3 +1,5 @@
+#2035 - Urmia
+
 owner = QAR
 controller = QAR
 culture = kurdish
@@ -17,3 +19,11 @@ discovered_by = eastern
 discovered_by = western
 discovered_by = nomad_group
 
+1445.1.2 = {
+remove_core = QAR
+controller = QAR
+owner = QAR
+religion = sunni
+culture = kurdish
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

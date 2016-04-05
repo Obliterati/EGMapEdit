@@ -1,3 +1,5 @@
+#2088 - Umarkot
+
 owner = SND
 controller = SND
 culture = sindhi
@@ -17,3 +19,11 @@ discovered_by = ottoman
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = SND
+controller = SND
+owner = SND
+religion = sunni
+culture = sindhi
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

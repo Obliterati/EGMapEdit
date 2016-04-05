@@ -1,3 +1,5 @@
+#654 - Visayas
+
 culture = filipino
 religion = animism
 capital = "Visayas"

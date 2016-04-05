@@ -1,5 +1,3 @@
-owner = TAB
-controller = TAB
 culture = mazandarani
 religion = shiite
 capital = "Sari"

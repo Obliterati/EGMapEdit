@@ -1,3 +1,5 @@
+#843 - Belize
+
 owner = ITZ
 controller = ITZ
 culture = yucatec
@@ -13,3 +15,11 @@ add_local_autonomy = 25
 add_core = ITZ
 discovered_by = mesoamerican
 
+1445.1.2 = {
+remove_core = ITZ
+controller = ITZ
+owner = ITZ
+religion = mesoamerican_religion
+culture = yucatec
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

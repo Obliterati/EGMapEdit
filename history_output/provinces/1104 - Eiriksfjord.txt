@@ -1,3 +1,5 @@
+#1104 - Eiriksfjord
+
 culture = inuit
 religion = shamanism
 capital = "Eiriksfjord"

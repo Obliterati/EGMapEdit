@@ -1,3 +1,5 @@
+# No previous file for Adirondack
+
 culture = iroquois
 religion = totemism
 capital = "Adirondack"

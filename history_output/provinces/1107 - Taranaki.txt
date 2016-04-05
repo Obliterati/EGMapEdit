@@ -1,3 +1,5 @@
+#1107 - Taranaki
+
 culture = polynesian
 religion = animism
 hre = no

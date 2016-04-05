@@ -1,3 +1,5 @@
+#Tr�ndelag, incl. Trondheim, Frosta, R�ros, Steinviksholm
+
 owner = NOR
 controller = NOR
 add_core = NOR
@@ -15,3 +17,11 @@ discovered_by = eastern
 discovered_by = western
 fort_15th = yes
 
+1445.1.2 = {
+remove_core = NOR
+controller = NOR
+owner = NOR
+religion = catholic
+culture = norwegian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

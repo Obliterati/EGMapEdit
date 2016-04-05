@@ -1,3 +1,5 @@
+#2091 - Tripura
+
 owner = TPR
 controller = TPR
 culture = chin
@@ -14,3 +16,11 @@ discovered_by = indian
 discovered_by = nomad_group
 discovered_by = chinese
 
+1445.1.2 = {
+remove_core = TPR
+controller = TPR
+owner = TPR
+religion = hinduism
+culture = chin
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

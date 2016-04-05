@@ -1,3 +1,5 @@
+#971 - Abnaki
+
 add_core = ABE
 owner = ABE
 controller = ABE
@@ -15,3 +17,11 @@ native_ferocity = 3
 native_hostileness = 8
 discovered_by = north_american
 
+1445.1.2 = {
+remove_core = ABE
+controller = ABE
+owner = ABE
+religion = totemism
+culture = abenaki
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

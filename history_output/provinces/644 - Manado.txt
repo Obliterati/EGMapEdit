@@ -1,3 +1,5 @@
+#644 - Manado
+
 culture = sulawesi
 religion = animism
 capital = "Manado"

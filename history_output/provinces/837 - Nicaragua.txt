@@ -1,3 +1,5 @@
+#837 - Nicaragua
+
 culture = miskito
 religion = animism
 capital = "Nicaragua"

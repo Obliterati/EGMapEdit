@@ -1,3 +1,5 @@
+#632 - Sumbawa
+
 culture = papuan
 religion = animism
 capital = "Sumbawa"

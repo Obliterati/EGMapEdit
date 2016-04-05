@@ -1,3 +1,5 @@
+#1130 - Tadimekket
+
 owner = SON
 controller = SON
 culture = tuareg
@@ -12,3 +14,11 @@ base_production = 1
 add_core = SON 
 discovered_by = sub_saharan
 
+1445.1.2 = {
+remove_core = SON
+controller = SON
+owner = SON
+religion = sunni
+culture = tuareg
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

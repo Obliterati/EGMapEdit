@@ -1,3 +1,5 @@
+culture = swabian
+owner = WUR
 controller = WUR
 add_core = WUR
 capital = "Stuttgart"
@@ -13,3 +15,11 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1445.1.2 = {
+remove_core = WUR
+controller = WUR
+owner = WUR
+religion = catholic
+culture = swabian
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

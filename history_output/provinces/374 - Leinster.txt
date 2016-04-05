@@ -1,5 +1,3 @@
-owner = LEI
-controller = LEI
 culture = irish
 religion = catholic
 hre = no

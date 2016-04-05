@@ -1,3 +1,5 @@
+#813 - Cajamarca
+
 owner = CJA
 controller = CJA
 culture = inca
@@ -14,3 +16,11 @@ discovered_by = south_american
 discovered_by = andean
 discovered_by = CHM
 
+1445.1.2 = {
+remove_core = CJA
+controller = CJA
+owner = CJA
+religion = inti
+culture = inca
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

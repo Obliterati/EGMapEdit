@@ -1,3 +1,5 @@
+#535 - Kochin
+
 owner = KOC
 controller = KOC
 culture = malayalam
@@ -17,3 +19,11 @@ discovered_by = ottoman
 discovered_by = chinese
 
 1413.1.1 = { discovered_by = chinese }
+1445.1.2 = {
+remove_core = KOC
+controller = KOC
+owner = KOC
+religion = hinduism
+culture = malayalam
+
+  } # EG/vanilla merge added by Obliterati with EGMapEdit

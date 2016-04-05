@@ -1,5 +1,3 @@
-owner = MAZ
-controller = MAZ
 capital= "Belz"
 culture = ruthenian
 religion = orthodox
