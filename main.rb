@@ -167,12 +167,12 @@ def full_run(directory)
   end
 end
 
-# Dir.foreach("history_new/provinces") do |file|
-#   if !is_hidden?(file)
-#     file_cleaner("history_new/provinces/#{file}")
-#     discoveries_writer("history_new/provinces/#{file}")
-#   end
-# end
+Dir.foreach("history_new/provinces") do |file|
+  if !is_hidden?(file)
+    file_cleaner("history_new/provinces/#{file}")
+    discoveries_writer("history_new/provinces/#{file}")
+  end
+end
 
 
 # ACTUAL RUN
@@ -185,9 +185,6 @@ end
 #   end
 # end
 # puts 'files cleaned'
-
-file_cleaner("history_new/provinces/107 - Brescia.txt", 'yes')
-# discoveries_writer("history_new/provinces/1026 - Mutsu.txt")
 
 
 # full_run("history_output/provinces")
