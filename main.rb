@@ -1,4 +1,5 @@
 require 'fileutils'
+require 'pry-byebug'
 
 def is_hidden?(filename)
   filename[0] == "."
@@ -25,12 +26,13 @@ def cores_getter(filename)
 end
 
 def tag_getter(filename)
-  safe_text = file_cleaner(filename)
+  # binding.pry
+  safe_text = File,open(filename)
   tag = safe_text.find { |line| line =~ /(owner = .{3})/ }.chomp.split[2]
 end
 
 def getter(filename, string)
-  safe_text = file_cleaner(filename)
+  safe_text = File.open(filename)
   setting = safe_text.find { |line| line =~ /#{string}/}
   if setting != nil
     setting
@@ -70,11 +72,8 @@ end
 
 puts 'cleaning files...'
 Dir.foreach("history_output/provinces") do |file|
-  begin
-    puts "cleaned #{file}" if !is_hidden?(file)
-    file_cleaner("history_output/provinces/#{file}") if !is_hidden?(file)
-
-  end
+  file_cleaner("history_output/provinces/#{file}") if !is_hidden?(file)
+  puts "cleaned #{file}" if !is_hidden?(file)
 end
 puts 'files cleaned'
 

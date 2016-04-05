@@ -1,1 +1,1 @@
-1778.1.1 = { discovered_by = GBR }1778.1.1 = { discovered_by = GBR }
+1778.1.1 = { discovered_by = GBR }
